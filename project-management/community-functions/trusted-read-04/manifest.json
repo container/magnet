@@ -1,0 +1,60 @@
+{
+  "bridgeVersion": "3.6",
+  "kind": "google-docs-trusted-read",
+  "status": "complete",
+  "outputDir": "/Users/danijelkurincic/Documents/2026 MAG-NET/project-management/community-functions/trusted-read-04",
+  "target": {
+    "documentId": "1-GCdhE1OAoFoeRUkDLHpens8mXQqqWiorRzxIh43ikY",
+    "title": "M3 poročilo - Konceptualna zasnova",
+    "revisionId": "ANLCKQlYr78aOdjMnWYh1KpDJ1oK-_yaL9nEubyqFCyeZXcHFQgCytSbreDDyI3jYt-TUfZpaYkk1B4xaES3fLWs1AmrXpKOyk4Gi-nv5fM",
+    "documentUrl": "https://docs.google.com/document/d/1-GCdhE1OAoFoeRUkDLHpens8mXQqqWiorRzxIh43ikY",
+    "selectedTabId": "t.0"
+  },
+  "dropdownMetadata": {
+    "status": "unavailable",
+    "resolvedTool": null,
+    "authoritative": false,
+    "count": 0
+  },
+  "controlAwareness": {
+    "hasProtectedControls": false,
+    "authoritativeDropdownCount": 0,
+    "opaqueControlCount": 0,
+    "affectedParagraphCount": 0,
+    "nativeElementCounts": {
+      "inlineObjectElement": 82,
+      "richLink": 1
+    },
+    "preservationRequired": false,
+    "recommendedBehavior": "No protected controls were detected in the scanned scope."
+  },
+  "warnings": [],
+  "files": {
+    "document_result": {
+      "path": "/Users/danijelkurincic/Documents/2026 MAG-NET/project-management/community-functions/trusted-read-04/document-result.json",
+      "bytes": 2545700,
+      "sha256": "94502a581472be20633eed097de6cd75585ce63c519fa80a8f646eb540273c9f"
+    },
+    "control_inventory": {
+      "path": "/Users/danijelkurincic/Documents/2026 MAG-NET/project-management/community-functions/trusted-read-04/control-inventory.json",
+      "bytes": 63557,
+      "sha256": "b312dd9cd9b47181adcfe7a855a7a1514bc68fa699baf9333dcbfbff32a27125"
+    },
+    "document_outline": {
+      "path": "/Users/danijelkurincic/Documents/2026 MAG-NET/project-management/community-functions/trusted-read-04/document-outline.json",
+      "bytes": 472112,
+      "sha256": "a15df9efe67ef1d4746f2747943722a55c74d82629a20ed8a5bfc83b52be912d"
+    },
+    "document_text": {
+      "path": "/Users/danijelkurincic/Documents/2026 MAG-NET/project-management/community-functions/trusted-read-04/document-text.md",
+      "bytes": 104492,
+      "sha256": "c6fa91947c5df1dd73a0cae8686d5c938de9b65668bcc8a4cf39abd4f57fb078"
+    },
+    "receipt": {
+      "path": "/Users/danijelkurincic/Documents/2026 MAG-NET/project-management/community-functions/trusted-read-04/receipt.json",
+      "bytes": 1030,
+      "sha256": "da275c7a30e73ee326bbbe6f1ab0c31c2044e9fa48b8c395d913b1fbdccf390a"
+    }
+  },
+  "error": null
+}

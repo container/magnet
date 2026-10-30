@@ -1,0 +1,119 @@
+{
+  "title": [
+    "Povpraševanje in",
+    "rezervacija prostora"
+  ],
+  "lanes": [
+    "Uporabnik",
+    "Uprava DOMA",
+    "Povezani sistemi"
+  ],
+  "cards": [
+    {
+      "x": 220,
+      "y": 275,
+      "h": 112,
+      "title": "Pregled ponudbe",
+      "body": [
+        "Prostori, oprema in",
+        "pogoji uporabe"
+      ],
+      "step": "01",
+      "w": 270
+    },
+    {
+      "x": 530,
+      "y": 275,
+      "h": 112,
+      "title": "Oddaja zahtevka",
+      "body": [
+        "Prostor, termin, namen",
+        "in kontaktni podatki"
+      ],
+      "step": "02",
+      "w": 270
+    },
+    {
+      "x": 840,
+      "y": 485,
+      "h": 112,
+      "title": "Pregled zahtevka",
+      "body": [
+        "Preverjanje možnosti;",
+        "po potrebi dopolnitev"
+      ],
+      "step": "03",
+      "w": 270
+    },
+    {
+      "x": 1390,
+      "y": 275,
+      "h": 112,
+      "title": "Zahtevek zavrnjen",
+      "body": [
+        "Zaključek tega zahtevka"
+      ],
+      "kind": "end",
+      "w": 270
+    },
+    {
+      "x": 1390,
+      "y": 485,
+      "h": 112,
+      "title": "Odobreno za koledar",
+      "body": [
+        "Predaja potrjenih",
+        "podatkov"
+      ],
+      "step": "04",
+      "w": 270
+    },
+    {
+      "x": 1700,
+      "y": 695,
+      "h": 112,
+      "title": "Vnos v koledar",
+      "body": [
+        "Potrditev termina",
+        "rezervacije"
+      ],
+      "step": "05",
+      "kind": "system",
+      "w": 270
+    },
+    {
+      "x": 2010,
+      "y": 275,
+      "h": 112,
+      "title": "Pregled v Moj DOM",
+      "body": [
+        "Status in rezervacija",
+        "za registriranega uporabnika"
+      ],
+      "step": "06",
+      "kind": "touchpoint",
+      "w": 270
+    },
+    {
+      "x": 2010,
+      "y": 695,
+      "h": 112,
+      "title": "Dostop in obračun",
+      "body": [
+        "Po potrebi: Prima in",
+        "zunanje računovodstvo"
+      ],
+      "kind": "optional",
+      "w": 270
+    }
+  ],
+  "note": [
+    "Odobritev zahtevka še ne pomeni potrjene rezervacije.",
+    "Stanje zahtevka in stanje koledarskega vnosa se spremljata ločeno."
+  ],
+  "sources": [
+    "https://app.notion.com/p/3cd6af55dfd980108743d7b25d1aa8a7",
+    "https://app.notion.com/p/3cd6af55dfd98018b6faf4e7841a5c13"
+  ],
+  "scope": "Vzorec dogovorjenega toka javnega zahtevka. Veja za dopolnitev je povzeta v koraku Pregled zahtevka; neposreden ročni vnos rezervacije je drug tok."
+}

@@ -1,0 +1,4476 @@
+1
+00:00:02,740 --> 00:00:04,020
+Tako, evo, štima.
+
+2
+00:00:30,020 --> 00:00:36,180
+ne izumljamo kolesa na novo pa kake stvari tudi ponovno uporabimo,
+
+3
+00:00:37,500 --> 00:00:40,760
+pa v drugem delu pa pol te integracije, ki so tam našli tebe,
+
+4
+00:00:41,340 --> 00:00:45,400
+osnovni, nao, ki se pravi, za spletno stranjo MLC.
+
+5
+00:00:46,580 --> 00:00:54,900
+Tako da najprej bi te vprašal, če si bil zraven pri razvoju spletne strani.
+
+6
+00:00:55,940 --> 00:00:56,780
+Si bil, ne? Ok.
+
+7
+00:00:57,240 --> 00:01:00,740
+Bil vodl sem projekt, tako da ima ta pravega sogovornika.
+
+8
+00:01:01,340 --> 00:01:03,780
+Ok, prav to sem na mislih.
+
+9
+00:01:07,680 --> 00:01:10,580
+Kake tehnične zahteve so bile tam?
+
+10
+00:01:12,060 --> 00:01:15,960
+Verjamo, da je bilo tudi za GDPR, varstvo podatkov,
+
+11
+00:01:16,080 --> 00:01:18,220
+spletno dostopno, ste tudi imeli tudi sekcije tam.
+
+12
+00:01:19,120 --> 00:01:19,920
+Smo imeli, ja.
+
+13
+00:01:20,720 --> 00:01:26,340
+Bi bila opcija, da bi jaz dobil tisti razpis od spletne,
+
+14
+00:01:26,980 --> 00:01:31,180
+strani moc, da bi lahko pogledal, če se kak je storijo tam,
+
+15
+00:01:31,800 --> 00:01:36,400
+aplicira, ker verjamem, da bo precej podobno, kaj se tiče nekega
+
+16
+00:01:36,620 --> 00:01:39,240
+varstva uporabnikov.
+
+17
+00:01:40,080 --> 00:01:43,400
+Tako, mi smo šli v bistvu dvostopnjsko v ta projekt,
+
+18
+00:01:44,780 --> 00:01:50,480
+prvi je bil UX UI, to je bil prva faza tega velikega projekta,
+
+19
+00:01:51,540 --> 00:01:55,180
+tam smo spisali eno projektno nalogo in ko smo to zaključili,
+
+20
+00:01:55,240 --> 00:02:00,460
+smo šli v drugo projektno nalogo, drugi del tega projekta in to je bilo
+
+21
+00:02:00,660 --> 00:02:04,300
+programiranje. Tudi za tist del smo spisali projektno nalogo.
+
+22
+00:02:04,720 --> 00:02:10,979
+Tako da imam eno in drugo. V bistvu smo vse tisto, kar je bilo potrebno,
+
+23
+00:02:11,140 --> 00:02:19,660
+pač pokrili z tehničnimi zahtevami z osobinskimi. Je bilo kar kompleksno.
+
+24
+00:02:20,700 --> 00:02:24,520
+Ko ste, se pravi, ko ste naredni, ko ste naredni.
+
+25
+00:02:24,540 --> 00:02:31,780
+Ko ste naredili to UX, UI, projektno nalogo, je to bila potem osnova za razpis.
+
+26
+00:02:33,900 --> 00:02:38,680
+Tako da viste razpisno dokumentacijo, pa potem ta klasični razpisni postopek.
+
+27
+00:02:39,980 --> 00:02:43,820
+Javni razpis, ker je presegl pač tisto nekaj kvoto.
+
+28
+00:02:45,700 --> 00:02:50,180
+Tega naročila male vrednosti pod nekih informativnih.
+
+29
+00:02:50,240 --> 00:02:59,620
+Pa tudi v bistvu smo hteli tu, bom rekel, ja, to je bilo, to je bilo glavno podilo.
+
+30
+00:03:00,100 --> 00:03:06,380
+In tako da smo spisali vse, kompletno z pogoji merili in tako naprej,
+
+31
+00:03:06,500 --> 00:03:15,900
+kaj ne bi bilo v bistvu, oceljujem, da je bilo zelo, da je bila to zelo pametna poteza.
+
+32
+00:03:16,560 --> 00:03:20,740
+da nismo šli samo na, bomo rekel, tiste ekonomsko najugodnejšo ponudbo,
+
+33
+00:03:20,770 --> 00:03:24,160
+ne samo na cenu, ampak smo rekel, ok, želimo še te kriterije,
+
+34
+00:03:25,720 --> 00:03:30,280
+to so pa obvezni pogoji, opcijsko, se pravi, smo šli 60-40,
+
+35
+00:03:30,520 --> 00:03:33,240
+mislim, da smo šli, ali 73, da se nas ponem.
+
+36
+00:03:33,410 --> 00:03:36,240
+Se pravi, tisti ponderji, ki so potem vplivali na izbiro,
+
+37
+00:03:36,990 --> 00:03:40,700
+so še bili, ne vem, dokazovanje strokovnosti, reference,
+
+38
+00:03:42,220 --> 00:03:44,220
+predstavitev samega projekta, na kakšen način so to,
+
+39
+00:03:44,300 --> 00:03:48,140
+da si zamislil sam projekt, izvedbo, časovnico.
+
+40
+00:03:48,340 --> 00:03:54,780
+In tako, da smo, v bistvu, dobili, govor rekel, iz prve roke tako,
+
+41
+00:03:57,540 --> 00:04:00,300
+tiste predstavite, potem vse potrebne informacije,
+
+42
+00:04:00,380 --> 00:04:07,140
+zato da smo presojali o usposobljenosti tudi tega.
+
+43
+00:04:07,320 --> 00:04:08,680
+In zda, da ni bilo samo na papir.
+
+44
+00:04:10,540 --> 00:04:13,120
+Tudi neke čeneđe smo jim dali, tako smo videli,
+
+45
+00:04:13,300 --> 00:04:21,220
+na kak način se odzivajo, kak so to začutil, ker dejansko smo imeli pa dva dejansko prijavitelja
+
+46
+00:04:21,920 --> 00:04:27,880
+in je bila razlika občutna. Naravno v tem delu.
+
+47
+00:04:31,600 --> 00:04:37,140
+Cool, tako daj pol to tem intervju bi te pol prosto za tisto dokumentacijo,
+
+48
+00:04:37,140 --> 00:04:42,960
+pa bomo mogoče še kdaj kasneje imel kako pot vprašanje na temu razpisa tam.
+
+49
+00:04:43,280 --> 00:04:44,740
+potem me pa zanima tehnično,
+
+50
+00:04:45,080 --> 00:04:47,260
+se pravi, kje pa danes živi
+
+51
+00:04:47,300 --> 00:04:48,820
+ta spet nastanj, kje je to postavljeno,
+
+52
+00:04:49,340 --> 00:04:49,820
+diplojano?
+
+53
+00:04:51,980 --> 00:04:53,080
+Tako, da bo diplojano
+
+54
+00:04:53,080 --> 00:04:53,360
+je na
+
+55
+00:04:55,100 --> 00:04:55,540
+Cloudflare-u.
+
+56
+00:04:58,500 --> 00:04:59,100
+Cloudflare-u,
+
+57
+00:04:59,100 --> 00:05:01,100
+mi smo zdaj tam na Freeplanu,
+
+58
+00:05:01,500 --> 00:05:03,380
+ker dejansko so
+
+59
+00:05:03,540 --> 00:05:05,120
+taki gabariti, da mi tega ne
+
+60
+00:05:05,280 --> 00:05:05,680
+presegamo.
+
+61
+00:05:07,160 --> 00:05:08,380
+To je sam hosting,
+
+62
+00:05:09,300 --> 00:05:11,099
+potem imamo tu, v okviru tega so še
+
+63
+00:05:11,120 --> 00:05:13,340
+v bistvu ti certifikati in vse to.
+
+64
+00:05:16,360 --> 00:05:17,020
+To se pravi,
+
+65
+00:05:17,160 --> 00:05:19,240
+Cloudflare, kar v tem free planu
+
+66
+00:05:19,240 --> 00:05:19,800
+vse ponuja.
+
+67
+00:05:22,060 --> 00:05:23,480
+Potem sama koda
+
+68
+00:05:23,550 --> 00:05:24,220
+je na Gitu.
+
+69
+00:05:28,680 --> 00:05:29,380
+Imamo pač
+
+70
+00:05:29,560 --> 00:05:31,200
+to Headless arhitekturo.
+
+71
+00:05:33,000 --> 00:05:33,400
+Se pravi,
+
+72
+00:05:33,400 --> 00:05:35,200
+tu je kombinacija, se pravi, GIT,
+
+73
+00:05:35,980 --> 00:05:36,980
+D-CAP, CMS,
+
+74
+00:05:38,080 --> 00:05:39,299
+zdaj ponovim D-CAP Turbo
+
+75
+00:05:40,680 --> 00:05:48,380
+z Superbase-om kot nekim eksternim cache servernem za indeksiranje,
+
+76
+00:05:49,900 --> 00:05:54,680
+zato da se zadeva optimizirala, tu so se neke stvari izkazane kot potrebne,
+
+77
+00:05:55,000 --> 00:06:02,820
+tako da je to v nekim paketu, tega Turbo to zdaj, potem Fugo kot server,
+
+78
+00:06:03,840 --> 00:06:19,680
+tako kot SSG in potem se pravi Cloudflare, potem za Digital Asset Management, se pravi za multimediju imamo Cloudinary, tu smo naredili vršino integracijo z CMS sistemom,
+
+79
+00:06:23,320 --> 00:06:39,360
+Tam je, se pravi, v CMS-u, ko določenje daltoteke, se pravi, nalagamo ali nekaj multimedij, ko jaz tam, ne rečem, naloži daltoteko, se mi automatsko prek integracije odpre, že brešivno ta Cloudinary umestnik.
+
+80
+00:06:39,770 --> 00:06:48,580
+Se pravi, če sem že registriral, enkako se registriral, se mi je automatsko odpre in že tam srčem po folderih nalagam in to. Cloudinary je verjetno poznata?
+
+81
+00:06:51,660 --> 00:06:52,440
+To je to.
+
+82
+00:06:53,300 --> 00:06:55,080
+Za srč imamo pa Algolijo.
+
+83
+00:06:56,940 --> 00:06:59,680
+V Kledu imamo nek plan,
+
+84
+00:07:00,000 --> 00:07:00,680
+ki je, ne vem,
+
+85
+00:07:02,120 --> 00:07:03,400
+spet glede na kvoto,
+
+86
+00:07:03,640 --> 00:07:04,500
+smo tam na ranga
+
+87
+00:07:06,940 --> 00:07:08,040
+100 evrov mesečno.
+
+88
+00:07:09,800 --> 00:07:10,820
+Tega nismo presigli.
+
+89
+00:07:12,200 --> 00:07:14,540
+Imamo pa še srč,
+
+90
+00:07:14,600 --> 00:07:15,340
+imamo pa Algolija.
+
+91
+00:07:16,400 --> 00:07:19,000
+Algolija srč, tu smo pa tudi na nekih kvoti.
+
+92
+00:07:20,060 --> 00:07:20,880
+od 20 evrov
+
+93
+00:07:22,220 --> 00:07:22,740
+mesečno.
+
+94
+00:07:23,560 --> 00:07:23,780
+Ok.
+
+95
+00:07:26,360 --> 00:07:26,520
+Cool.
+
+96
+00:07:27,820 --> 00:07:28,779
+Ta D-Cap
+
+97
+00:07:30,040 --> 00:07:31,580
+Turbo, kje pa to živi?
+
+98
+00:07:31,590 --> 00:07:33,340
+To je online stvar?
+
+99
+00:07:33,490 --> 00:07:34,700
+Online sem se, ali ga imate
+
+100
+00:07:34,960 --> 00:07:36,820
+diplojenega nekje tudi? To je na gitu.
+
+101
+00:07:38,240 --> 00:07:39,280
+To je na gitu
+
+102
+00:07:39,400 --> 00:07:41,260
+razpakirano, ja, poinstalirano, se pravi
+
+103
+00:07:41,260 --> 00:07:42,520
+na našem git
+
+104
+00:07:43,320 --> 00:07:45,020
+produkciji oziroma zdaj je to na
+
+105
+00:07:46,180 --> 00:07:47,000
+se pravi
+
+106
+00:07:47,000 --> 00:07:48,279
+v main branču
+
+107
+00:07:48,940 --> 00:07:49,240
+od
+
+108
+00:07:50,740 --> 00:07:51,800
+se pa je še našega
+
+109
+00:07:52,320 --> 00:07:53,680
+izvajalca, poslovni medij.
+
+110
+00:07:54,630 --> 00:07:55,980
+Pa nič ne plačujete zan,
+
+111
+00:07:56,240 --> 00:07:57,400
+ali imate kjeri to ti?
+
+112
+00:07:58,090 --> 00:07:59,700
+Ja, ja, nek fije v bistvu.
+
+113
+00:07:59,840 --> 00:08:00,140
+Nek fije.
+
+114
+00:08:00,900 --> 00:08:03,160
+Tako fije, mesečni, mislim, da je
+
+115
+00:08:05,160 --> 00:08:05,720
+da bi 200
+
+116
+00:08:06,720 --> 00:08:07,320
+200 evrov.
+
+117
+00:08:08,080 --> 00:08:08,620
+Ja, vidim, vidim.
+
+118
+00:08:08,640 --> 00:08:08,820
+Svečnine.
+
+119
+00:08:12,260 --> 00:08:12,580
+To je to.
+
+120
+00:08:12,730 --> 00:08:14,260
+Plus neko izvržovanje imamo, če pa
+
+121
+00:08:14,420 --> 00:08:16,600
+se pravi za to odzivnost
+
+122
+00:08:16,780 --> 00:08:17,380
+in dobro nekaj tak.
+
+123
+00:08:17,980 --> 00:08:18,720
+...
+
+124
+00:08:19,500 --> 00:08:20,320
+Ej, a, sorry,
+
+125
+00:08:21,400 --> 00:08:23,120
+samo eno omestno vprašanje, se pravi,
+
+126
+00:08:23,300 --> 00:08:25,260
+za ta dva dela projekta so to bila dva različna
+
+127
+00:08:26,080 --> 00:08:27,180
+izvajalca ali isti?
+
+128
+00:08:28,180 --> 00:08:29,520
+Zdaj tu je spadla, da je bilo isti,
+
+129
+00:08:29,560 --> 00:08:31,280
+se pravi UX, UI je sredela
+
+130
+00:08:31,300 --> 00:08:33,020
+poslovni mediji, pa smo šnipa
+
+131
+00:08:33,140 --> 00:08:35,159
+v ta javni razpis in so tudi
+
+132
+00:08:35,240 --> 00:08:36,740
+poslovni mediji v bistvu dobeli ta del.
+
+133
+00:08:37,280 --> 00:08:39,300
+Zato, ker so se tako dobro prijavili, ali kaj?
+
+134
+00:08:40,500 --> 00:08:40,599
+Ja,
+
+135
+00:08:41,640 --> 00:08:43,120
+tu je bila pač prijava, se pravi,
+
+136
+00:08:43,479 --> 00:08:45,580
+cena plus, bom rekel, tisti ponderi
+
+137
+00:08:45,760 --> 00:08:47,960
+in cena, vse skupaj so bili
+
+138
+00:08:48,060 --> 00:08:51,300
+so bili pač boljši.
+
+139
+00:08:51,640 --> 00:08:53,320
+Jo, štimo da.
+
+140
+00:08:53,600 --> 00:08:54,380
+So nas prepričali.
+
+141
+00:08:56,720 --> 00:08:57,020
+Ok.
+
+142
+00:08:59,280 --> 00:09:03,800
+Tu sem spraševal za to, kje je postavljena ta spletna stran,
+
+143
+00:09:04,940 --> 00:09:08,980
+oziroma me zanima, če imate na tem Cloudflare-u in Cloudinary-u
+
+144
+00:09:08,980 --> 00:09:12,220
+tudi še kakre druge spletne strani z drugih razpisov postavljena?
+
+145
+00:09:12,240 --> 00:09:13,320
+Ne, ne, to je čisti, ne?
+
+146
+00:09:13,920 --> 00:09:17,940
+Ja, v bistvu to je bil tudi prvi, bo rekel tako nek spletni večji razpis,
+
+147
+00:09:17,970 --> 00:09:23,240
+ki sem jaz tudi prezvetle.
+
+148
+00:09:24,100 --> 00:09:25,740
+Imeli smo pa še potem javne razpise.
+
+149
+00:09:25,740 --> 00:09:28,500
+In tak naprej to pa gostujemo pri teh ponudnikih,
+
+150
+00:09:28,660 --> 00:09:30,580
+direktno na njihovi infrastrukturi.
+
+151
+00:09:31,520 --> 00:09:36,260
+Se pravi, za občinske razpise imamo recimo eno tako rešitev,
+
+152
+00:09:36,320 --> 00:09:36,980
+nekrat paket.
+
+153
+00:09:38,480 --> 00:09:40,740
+Potem še v en.
+
+154
+00:09:41,960 --> 00:09:42,960
+Specifične raspiske,
+
+155
+00:09:43,030 --> 00:09:44,820
+ki smo tudi v bistvu imali tak, da bomo rekel,
+
+156
+00:09:44,900 --> 00:09:47,160
+kar se tiče tega, neke spletne
+
+157
+00:09:47,720 --> 00:09:48,560
+rešitve, public,
+
+158
+00:09:49,380 --> 00:09:50,900
+mislim public, tudi tisto
+
+159
+00:09:51,110 --> 00:09:52,860
+public, ne. Ampak bomo rekel,
+
+160
+00:09:53,140 --> 00:09:54,820
+tole, da smo šli
+
+161
+00:09:54,850 --> 00:09:55,420
+v eno tako,
+
+162
+00:10:00,400 --> 00:10:00,980
+bomo rekel,
+
+163
+00:10:01,100 --> 00:10:01,900
+z nule, from the scratch,
+
+164
+00:10:02,650 --> 00:10:05,100
+projekt je pa to edini, v bistvu tako,
+
+165
+00:10:05,380 --> 00:10:06,860
+ki ga imamo v CDN.
+
+166
+00:10:10,060 --> 00:10:11,640
+Te druge, ko ji gostujete,
+
+167
+00:10:11,700 --> 00:10:13,040
+pol direktno pri ponudniti,
+
+168
+00:10:13,760 --> 00:10:15,020
+ki je potem tudi nek maintenance,
+
+169
+00:10:15,320 --> 00:10:17,060
+verjetno tu vključen za to.
+
+170
+00:10:18,040 --> 00:10:19,580
+Tako, tako. V bistvu posok imamo
+
+171
+00:10:19,700 --> 00:10:21,280
+maintenance, tudi pri tem, v bistvu,
+
+172
+00:10:22,220 --> 00:10:23,120
+si to želimo,
+
+173
+00:10:23,200 --> 00:10:23,440
+zato je,
+
+174
+00:10:25,300 --> 00:10:26,760
+ne vem, no, sami
+
+175
+00:10:28,259 --> 00:10:29,360
+nijemo, da so resursali,
+
+176
+00:10:29,620 --> 00:10:30,660
+tako, že IT
+
+177
+00:10:32,960 --> 00:10:33,520
+jih ne bi še
+
+178
+00:10:33,560 --> 00:10:35,160
+s tem obremenjali, že tako smo podhranjeni,
+
+179
+00:10:35,440 --> 00:10:36,240
+interno, ne, tudi da,
+
+180
+00:10:37,499 --> 00:10:39,300
+da bi nadaljevali z enim takvim
+
+181
+00:10:39,420 --> 00:10:40,720
+pristopom. Aha,
+
+182
+00:10:41,180 --> 00:10:48,280
+Se pravi, za Magnithub govorimo pol o tej drugi opciji, da se gostuje pri ponudniku in maintenance in tak naprej.
+
+183
+00:10:50,580 --> 00:10:54,360
+Ali na podobno vižo kot je spletna stran celja?
+
+184
+00:10:54,830 --> 00:11:04,940
+Na spletno stran bi jaz šel. Mislim na to varijanto, Cloudflare, CDN, ker jaz ne pričakujem, da bi recimo, mislim, da Cloudflare čist kot ponudnik,
+
+185
+00:11:06,980 --> 00:11:08,840
+hosting provider, da ima čist
+
+186
+00:11:11,680 --> 00:11:12,360
+nek tak
+
+187
+00:11:13,840 --> 00:11:14,800
+sprejemljiv paket.
+
+188
+00:11:15,620 --> 00:11:16,820
+Če mi spletno stranjo
+
+189
+00:11:16,880 --> 00:11:18,800
+gremo, jaz tudi ne mislim, da bi mogoče tam
+
+190
+00:11:18,980 --> 00:11:19,160
+bilo
+
+191
+00:11:23,880 --> 00:11:24,300
+kaj se vem,
+
+192
+00:11:25,000 --> 00:11:26,420
+ker tle se gleda
+
+193
+00:11:26,920 --> 00:11:28,220
+po kriteriju prometa.
+
+194
+00:11:29,520 --> 00:11:30,600
+In nimamo toliko
+
+195
+00:11:31,080 --> 00:11:32,500
+requestov, da bi presegili
+
+196
+00:11:32,800 --> 00:11:33,440
+ta free plan.
+
+197
+00:11:34,660 --> 00:11:36,940
+Mislim, da ni zapričakovati, da bi
+
+198
+00:11:37,020 --> 00:11:42,240
+Da bi MagnetHub presegal MOC v nekih.
+
+199
+00:11:43,520 --> 00:11:45,000
+Tako, si ne predstavljam.
+
+200
+00:11:46,720 --> 00:11:49,880
+Zdaj, če bojo še kake integracije, verjetno je ne.
+
+201
+00:11:57,360 --> 00:12:02,360
+Hočem reči, ne pričakujem, da bi tu nek tak presežil.
+
+202
+00:12:02,380 --> 00:12:03,880
+Ok, tako.
+
+203
+00:12:34,080 --> 00:12:35,780
+To je hosting provider.
+
+204
+00:12:36,580 --> 00:12:41,360
+Oni so hosting provider in razvijalci aplikacijo.
+
+205
+00:12:41,870 --> 00:12:49,360
+Oni imajo, bom rekel, več enot znotri firme.
+
+206
+00:12:50,120 --> 00:12:56,440
+So je razvijalci za spletnje rešitve, potem imajo neke app, division in tako naprej.
+
+207
+00:12:56,500 --> 00:13:03,380
+Oni v velik storiji počnejo, imajo svoj data center, super kompjuter, oni so Arctur.
+
+208
+00:13:04,520 --> 00:13:10,920
+Pač v tem reži, bom rekel, kaj je ta slajv celo.
+
+209
+00:13:11,360 --> 00:13:16,980
+Se pravi, inštutijo že Štefan Arnes, Arctur pa Vega v Mariboru.
+
+210
+00:13:17,280 --> 00:13:21,860
+Oni so ti tri, HPC, super kompjuter, provideri.
+
+211
+00:13:21,900 --> 00:13:33,180
+Ampak, kot že več nima veze s tem, ima še tudi hosting pre sebi v tem svojem data centru, tako da imajo te resurse in pač to koristimo. Niso še nekam, da vam.
+
+212
+00:13:33,440 --> 00:13:56,260
+Torej, razlika med tema dvema pristopoma, v resnici, mislim, kaj je torej razlika v tem smislu, viste ta Cloudfire, Git, pa D-CAP, vse to, to ste vi prek razpisa že ugotovili, da to zahteva in je potem to en provider to, ali ste sami v bistvu?
+
+213
+00:13:56,700 --> 00:13:58,340
+mi nismo ekskluzivno tega zahtivali.
+
+214
+00:13:58,340 --> 00:13:59,260
+Mi smo samo rekli,
+
+215
+00:14:00,060 --> 00:14:01,680
+da bi želeli pač hosting
+
+216
+00:14:01,820 --> 00:14:03,820
+na nekem globalnem...
+
+217
+00:14:05,440 --> 00:14:06,480
+Ja, v bistvu smo rekli,
+
+218
+00:14:07,780 --> 00:14:08,660
+da bi želeli.
+
+219
+00:14:09,120 --> 00:14:10,800
+Zdaj, če pa ponudnik,
+
+220
+00:14:12,580 --> 00:14:13,580
+predvsem z vidika
+
+221
+00:14:13,740 --> 00:14:15,040
+razpoložljivosti v neko.
+
+222
+00:14:15,580 --> 00:14:16,020
+Zdaj, da ni to,
+
+223
+00:14:16,680 --> 00:14:18,420
+na ta način smo se tudi,
+
+224
+00:14:21,460 --> 00:14:22,160
+ne vem, nekako,
+
+225
+00:14:22,520 --> 00:14:23,840
+smo hvaliti nekega partnerja,
+
+226
+00:14:23,940 --> 00:14:26,240
+ki bi...
+
+227
+00:14:26,320 --> 00:14:32,160
+V primeru ne vem nekaj Arctur, ki ima res data center, orm postavljam presep, ok.
+
+228
+00:14:33,060 --> 00:14:36,480
+Če je pa dobil nekoga, ki ima nek strežnik, pa ne vemo točno, kam ima presep.
+
+229
+00:14:37,660 --> 00:14:41,420
+Pa da ima nekaj downtime, pa ne vem, na kak način bi to rešla.
+
+230
+00:14:44,000 --> 00:14:50,040
+To sprošujem zato, ker me zanima na koncu dnejo razlika med te dvema pristopama.
+
+231
+00:14:50,560 --> 00:14:51,980
+pač v enem, ne,
+
+232
+00:14:52,580 --> 00:14:54,260
+mislim, tukaj gre za neke mednarodne
+
+233
+00:14:55,180 --> 00:14:56,220
+provajdere, CloudSphere, pa to,
+
+234
+00:14:56,400 --> 00:14:57,720
+malo bolj drugačen setup je,
+
+235
+00:14:58,540 --> 00:15:00,100
+ampak na konc dneva imate enega
+
+236
+00:15:01,580 --> 00:15:01,940
+ponudnika,
+
+237
+00:15:02,480 --> 00:15:03,920
+ki skrbi za storitve,
+
+238
+00:15:04,240 --> 00:15:05,880
+in to je to, ne, se jih kvazijo,
+
+239
+00:15:06,460 --> 00:15:07,960
+mislim, aj, varno, kaj on je ukrbljala.
+
+240
+00:15:08,020 --> 00:15:10,320
+Mogoče, ja, mogoče bi si tu
+
+241
+00:15:10,440 --> 00:15:12,340
+želel tega, da nimamo vendor Lockina,
+
+242
+00:15:12,900 --> 00:15:14,280
+seveda, če imamo nekoga,
+
+243
+00:15:14,420 --> 00:15:15,760
+ki je razvijal, ki je nekaj naredil,
+
+244
+00:15:16,140 --> 00:15:18,360
+zato, če vam to prese postavl, ne, jutro si pa
+
+245
+00:15:18,380 --> 00:15:20,180
+mi premislimo, pa nismo
+
+246
+00:15:20,300 --> 00:15:21,920
+zadovoljni z njim. Moram mi to zase
+
+247
+00:15:22,020 --> 00:15:23,580
+seliti nekam drugam. Zaj kam?
+
+248
+00:15:25,240 --> 00:15:26,120
+A veš, da grabiti pa nekaj,
+
+249
+00:15:26,120 --> 00:15:27,740
+bo spet biti odvisni od nekoga.
+
+250
+00:15:27,860 --> 00:15:28,980
+Tega smo pa v bistvu v CloudFair.
+
+251
+00:15:30,720 --> 00:15:31,440
+Juter zamenjamo
+
+252
+00:15:32,480 --> 00:15:32,980
+maintenance-erja
+
+253
+00:15:33,960 --> 00:15:35,500
+v svisu nekega
+
+254
+00:15:37,720 --> 00:15:38,080
+tega
+
+255
+00:15:38,280 --> 00:15:38,780
+manpower-ja.
+
+256
+00:15:39,580 --> 00:15:40,540
+Neke firme, ki nam to,
+
+257
+00:15:41,270 --> 00:15:42,780
+to je še vedno v CloudFair.
+
+258
+00:15:43,080 --> 00:15:44,840
+Se pravi, če je storitev, bom rekel, če je ta,
+
+259
+00:15:45,230 --> 00:15:46,720
+ni nekega posebnega maintenance-a,
+
+260
+00:15:46,780 --> 00:15:48,300
+se mi v principu lahko izpaditi.
+
+261
+00:15:48,700 --> 00:15:49,440
+Preboljšamo tudi nek
+
+262
+00:15:51,020 --> 00:15:53,020
+izpad, nek gap, dokaj ne najdemo
+
+263
+00:15:53,060 --> 00:15:54,920
+nekega nobena. Še vedno bo
+
+264
+00:15:55,000 --> 00:15:55,940
+stran Laughala.
+
+265
+00:15:56,900 --> 00:15:58,860
+Isto tako git, preselimo k nam,
+
+266
+00:15:59,820 --> 00:16:00,840
+je to pre nas, ampak
+
+267
+00:16:00,920 --> 00:16:02,700
+želimo se nekaj nekaj strokovnega
+
+268
+00:16:05,780 --> 00:16:06,260
+partnera.
+
+269
+00:16:06,260 --> 00:16:06,340
+Pravda.
+
+270
+00:16:06,340 --> 00:16:08,020
+Pravda, ki bo to poznal,
+
+271
+00:16:08,040 --> 00:16:10,320
+pa mi pač to njemu damo še za upravljati.
+
+272
+00:16:11,720 --> 00:16:12,020
+Tako.
+
+273
+00:16:13,000 --> 00:16:13,880
+Taj svoj jalec,
+
+274
+00:16:14,200 --> 00:16:15,600
+ki vam je postavil spletno stran,
+
+275
+00:16:15,840 --> 00:16:17,720
+moc, dobroverjetno
+
+276
+00:16:17,900 --> 00:16:19,420
+nek maintenance
+
+277
+00:16:20,120 --> 00:16:21,340
+še dela, ampak v resnici
+
+278
+00:16:21,740 --> 00:16:23,280
+sami vaš IT-o delek fura
+
+279
+00:16:23,600 --> 00:16:25,400
+spletnost. Ne, ne, ne.
+
+280
+00:16:26,500 --> 00:16:27,480
+Kar si že vrejko teka,
+
+281
+00:16:27,680 --> 00:16:29,220
+tehnična maintenance, ne govorimo zdaj o
+
+282
+00:16:29,440 --> 00:16:31,620
+urednikovanju. Govorimo o tem, kakve koda,
+
+283
+00:16:31,840 --> 00:16:33,620
+kaj se dogaja z kodo, kaj se dogaja
+
+284
+00:16:33,800 --> 00:16:35,240
+z, ne vem, vulnerability,
+
+285
+00:16:37,020 --> 00:16:37,660
+bom rekel temi,
+
+286
+00:16:38,720 --> 00:16:39,160
+odpravoranjivosti,
+
+287
+00:16:40,380 --> 00:16:41,540
+posodobitvami CMS-a,
+
+288
+00:16:41,640 --> 00:16:42,160
+kot takega.
+
+289
+00:16:43,720 --> 00:16:44,660
+To naši IT-eci
+
+290
+00:16:44,680 --> 00:16:48,780
+in niso sploh bili vključeni niti v ta projekt.
+
+291
+00:16:50,660 --> 00:16:53,280
+To se vse dogajali izven, izven, moc IT-a.
+
+292
+00:16:56,060 --> 00:17:00,720
+Prej smo imeli Joomlo dalega leta, še iz leta 2012,
+
+293
+00:17:01,900 --> 00:17:04,500
+in Joomla je bila hostana pri domenci.
+
+294
+00:17:07,100 --> 00:17:11,660
+To smo nekaj furali tam, se pravi, tis admin portal,
+
+295
+00:17:12,560 --> 00:17:14,400
+ne vem, če so kakve posodobitve recimo delale
+
+296
+00:17:15,240 --> 00:17:16,319
+Joomla update, pa še to
+
+297
+00:17:17,310 --> 00:17:18,400
+ne vem, gaj je bilo na zadnje.
+
+298
+00:17:19,500 --> 00:17:20,680
+Vse pravi, zelo, zelo, zelo.
+
+299
+00:17:21,010 --> 00:17:22,880
+Je že bil alarm, ne, že ko sem jaz pršel
+
+300
+00:17:22,900 --> 00:17:24,900
+sam, je že bil tudi projekt v pripravljen,
+
+301
+00:17:26,120 --> 00:17:26,819
+govoril se o tem,
+
+302
+00:17:27,560 --> 00:17:28,220
+kako da jaz sem pa,
+
+303
+00:17:28,530 --> 00:17:30,660
+je tudi strajal, bom rekel, ta izvedla tega projekta.
+
+304
+00:17:31,500 --> 00:17:32,060
+Par let,
+
+305
+00:17:32,760 --> 00:17:34,660
+ampak, bom rekel, Joomla še vedno bila, ne,
+
+306
+00:17:34,760 --> 00:17:36,340
+in pa se nismo niti tikali,
+
+307
+00:17:37,300 --> 00:17:38,440
+sam do danes smo
+
+308
+00:17:39,620 --> 00:17:40,340
+ažurirali osebine,
+
+309
+00:17:41,200 --> 00:17:43,860
+Pa dobro, bili smo tudi že v inšpekcijskem postopku,
+
+310
+00:17:44,340 --> 00:17:48,320
+pred ZDSMA, ker nismo tam zagotavljali skladnosti,
+
+311
+00:17:49,000 --> 00:17:52,560
+te spletne dostopnosti, ampak smo nekako potem rekli,
+
+312
+00:17:52,560 --> 00:17:55,980
+da smo izvajamo ta projekt in to, tako da to so pa akceptirali.
+
+313
+00:17:56,820 --> 00:17:59,560
+Aha, na ZDSMA ste bili za Joomlo še, ne?
+
+314
+00:18:00,120 --> 00:18:00,680
+Tako, tako, ja.
+
+315
+00:18:05,120 --> 00:18:05,420
+Wow.
+
+316
+00:18:06,620 --> 00:18:06,760
+Ja.
+
+317
+00:18:07,820 --> 00:18:25,340
+Kaj pa, aha, se pravi tudi vsebine, ko se danes generirajo za spletno stran emocije, se shranjujejo v kit, je tak? Se pravi novice, dogodke in tak naprej.
+
+318
+00:18:25,520 --> 00:18:26,240
+Drži, drži.
+
+319
+00:18:27,220 --> 00:18:42,880
+In pa že imate danes, da se kakje druge spletne strani recimo integrirajo v spletno stran emoci, da mogoče pušajo kakje vsebine noter tja, pa jih potem emoci samo prikazuje? Kaj tako je, ki ga že obstaja danes?
+
+320
+00:18:43,480 --> 00:18:45,040
+nimamo še, imamo pa načrtu,
+
+321
+00:18:45,390 --> 00:18:47,080
+da bi se, recimo, dogodke,
+
+322
+00:18:47,260 --> 00:18:49,120
+dogodke smo sicer predvideli na naši
+
+323
+00:18:49,260 --> 00:18:51,340
+spletni strani, ampak smo jih načrtno
+
+324
+00:18:51,360 --> 00:18:51,840
+uglasnali.
+
+325
+00:18:52,840 --> 00:18:54,420
+Mi sami nimamo toliko dogodkov,
+
+326
+00:18:54,880 --> 00:18:56,880
+bi bili pa to bolj dogodke, ki so v domeni
+
+327
+00:18:57,000 --> 00:18:57,600
+ne vem, zavoda
+
+328
+00:19:00,000 --> 00:19:00,440
+celejo,
+
+329
+00:19:00,900 --> 00:19:03,140
+se pravi, pri rikli dogodke
+
+330
+00:19:03,820 --> 00:19:04,680
+bi potem njihove
+
+331
+00:19:05,020 --> 00:19:06,060
+mi črpali vsem noter,
+
+332
+00:19:06,900 --> 00:19:08,360
+ker pa še tega ni bilo spostavljena,
+
+333
+00:19:09,100 --> 00:19:10,700
+smer kaj, dajmo mi za tistih
+
+334
+00:19:12,480 --> 00:19:13,360
+par dogodkov
+
+335
+00:19:13,400 --> 00:19:18,560
+jih ne bomo objavljali, ker je bil tako update, oziroma je bil tega premalo in smo to omaknati trenutno v spletni salni.
+
+336
+00:19:18,600 --> 00:19:21,640
+A pač dajte v novice, ne? Verjetno pač dajte v novice, o to kakne.
+
+337
+00:19:21,790 --> 00:19:29,280
+Ja, ja, ja, tako tukaj. Ko pa bo, se pravi, ko bo pa zavod celo tudi pre sebi, ker so zdaj tudi oni v fazi prenove, ko bo oni to pripravili,
+
+338
+00:19:30,740 --> 00:19:35,760
+bojo pa tudi na ta način, ki so posvetovali z nami in smo jim rekli, da bi na nekak način to želeli,
+
+339
+00:19:36,330 --> 00:19:43,340
+da smo tudi iskali neko povezavo tolj, oziroma držimo neko rdečo nitrogli, da je CGP
+
+340
+00:19:44,060 --> 00:19:52,580
+In tudi neke smednice smo jim dali za razvoj, to so sprejeli in smo rekel tudi, da bi si želel to integracijo prek API-a z njimi.
+
+341
+00:19:53,240 --> 00:20:12,060
+Tako da je v načrtu, da se ti dogodki, ki bojo, ki bojo oni, da jih mi potem poloznamem prek API-a, se pravi ti dogodki se bojo potem sparkirali kot, bom rekel, tu še mogemo pa mi narediti na gitu, bom rekel, nekaj dograditev kode, ki bo zajela te dogodke.
+
+342
+00:20:13,000 --> 00:20:20,960
+jih kreirala v bistvu to osebino in jih bomo mi dobil potem v draft model v CMS-u.
+
+343
+00:20:21,560 --> 00:20:28,180
+Potem bomo to pogledal in potem po potrebi še kje dopolnil in pač objavljal.
+
+344
+00:20:28,540 --> 00:20:36,780
+Publišal, to je pač ta ideja. Da mi zahemamo še nekaj, ja, podatki od drugo.
+
+345
+00:20:36,820 --> 00:20:41,220
+Kaj ste zahteve in oziroma best practices in poslali v ljudi,
+
+346
+00:20:42,680 --> 00:20:43,420
+ki si je omenil?
+
+347
+00:20:44,180 --> 00:20:47,380
+Nači, v bistvu sam pač integracijo, mi smo prekli tudi,
+
+348
+00:20:47,380 --> 00:20:52,380
+da bi tako fleksibilnosti želeli, da bomo ni tiste atribute polovili,
+
+349
+00:20:53,100 --> 00:20:59,200
+da jih bomo ni potem lahko pač polovili pa sparkirali tiste vsebine
+
+350
+00:20:59,350 --> 00:21:04,440
+v naš markdown file. Spravi, mi operiramo z vsaka novica,
+
+351
+00:21:04,480 --> 00:21:06,740
+vsaka osebina, košček osebine je markdown
+
+352
+00:21:08,200 --> 00:21:08,720
+file
+
+353
+00:21:08,770 --> 00:21:09,220
+v gitu.
+
+354
+00:21:10,220 --> 00:21:12,260
+V svoji neki rubriki, ali so to novice, ali so to
+
+355
+00:21:12,360 --> 00:21:13,660
+razpisi, ali so to dogodki.
+
+356
+00:21:14,900 --> 00:21:16,380
+In potem to se pa potem
+
+357
+00:21:17,180 --> 00:21:18,100
+potem zbilda
+
+358
+00:21:19,679 --> 00:21:20,900
+v spletno stran.
+
+359
+00:21:21,020 --> 00:21:22,220
+Potem Hugo to pač obdela
+
+360
+00:21:23,220 --> 00:21:24,100
+in zgenerira potem
+
+361
+00:21:25,160 --> 00:21:25,520
+deploy
+
+362
+00:21:27,000 --> 00:21:28,040
+tega frontenda
+
+363
+00:21:28,580 --> 00:21:29,800
+in ga potem pušne gor na
+
+364
+00:21:31,200 --> 00:21:31,660
+platform.
+
+365
+00:21:32,900 --> 00:21:34,440
+Tako da potem za
+
+366
+00:21:34,460 --> 00:22:02,560
+Magnet Hub, verjetno gledamo hud podobno skodbo, se pravi, ker tam v tisti nalogi, ki smo na začetku prejeli, piše to, da pač ta headless integracija z spletno stranjo, tako da v prvi vrsti verjetno gledamo to publisjanje nekih dogodkov iz doma, iz Magnet Hub-a je podobno kot od celeje.
+
+367
+00:22:05,520 --> 00:22:24,000
+Ja, sicer ne vem, koliko bo z drugih dovoljkov, v principu je lahko tudi, se pravi, da zdaj pač ta API integracija, da lahko mi pač povzamemo, se pravi, zajamemo kakve vsebine od drugot.
+
+368
+00:22:27,220 --> 00:22:28,700
+tu smo si pa želeli, mi bom rekel,
+
+369
+00:22:28,700 --> 00:22:30,480
+to headless arhitekturo ravno zaradi
+
+370
+00:22:30,890 --> 00:22:31,040
+te
+
+371
+00:22:33,059 --> 00:22:34,800
+modularnosti. Da lahko jutri
+
+372
+00:22:34,880 --> 00:22:36,860
+karkol zamenjamo, se pravi, da imamo neko
+
+373
+00:22:37,260 --> 00:22:38,920
+kontinuiteto v primerjavi
+
+374
+00:22:38,920 --> 00:22:40,760
+z modulitom, kjer moramo
+
+375
+00:22:40,920 --> 00:22:42,700
+pač vse zamenjati. Če nam
+
+376
+00:22:42,880 --> 00:22:44,620
+karkol ne, ali pa da nismo tu kratki
+
+377
+00:22:44,620 --> 00:22:46,600
+s kakvom komponenti, s kakvim
+
+378
+00:22:46,720 --> 00:22:48,900
+gradnikom, pa imamo
+
+379
+00:22:49,020 --> 00:22:50,540
+res zvezane roke. Da jaz pa
+
+380
+00:22:51,560 --> 00:22:53,020
+potem lahko neodvisno
+
+381
+00:22:53,200 --> 00:22:53,560
+razvijamo
+
+382
+00:22:55,299 --> 00:22:55,820
+stvari.
+
+383
+00:22:56,580 --> 00:23:21,780
+Se pravi glede samega setapa, sistema, za cele, a vi niste imeli za njih nobenih zahtev, pogojev, priporočil, to glede Cloudflare-a, govorim pa CMS-ja ali pa kar koli od tega?
+
+384
+00:23:23,940 --> 00:23:34,160
+Ja, priporočna smo jim, da, ne. Zdaj pa ne vem, v kjer smer bojo pač oni, se pravi, tukaj bom rekel, ni kot headless pogoj.
+
+385
+00:23:36,020 --> 00:23:37,420
+Tudi Cloudflare ni pogoj.
+
+386
+00:23:39,120 --> 00:23:39,800
+Za njih ne.
+
+387
+00:23:40,740 --> 00:23:42,880
+Tudi vendor lock-in ni pogoj.
+
+388
+00:23:45,380 --> 00:23:46,780
+Zdaj, da ni vendor lock-in.
+
+389
+00:23:47,380 --> 00:23:55,080
+Ja, ja, ja. Se pravi, tukaj jaz bolj mislim, da bi res ta razvijalc imel to na svoji streži, ki postavlja.
+
+390
+00:23:56,080 --> 00:23:57,260
+Zdaj, če to nekaj...
+
+391
+00:23:57,919 --> 00:24:02,980
+To je čist drug zavod, to je čist neka druga entiteta. Vi nimate neč pr tem, kaj oni delajo.
+
+392
+00:24:04,820 --> 00:24:06,060
+Tako, oni so čist samostojni tu.
+
+393
+00:24:06,540 --> 00:24:15,420
+Viste sam njim rekli, dajte prosim to tako narezt, da se bo API lahko povezal in to je to, kar te vse kar s tem lahko.
+
+394
+00:24:15,880 --> 00:24:30,280
+V principu, da smo funkcionalno povezani v tem smislu, da si mi želimo od njih zajemati te podatke, druga je pa slezivost oziroma neslezivost za sledovanje CGP-a.
+
+395
+00:24:31,980 --> 00:24:36,680
+In glede na to, da smo mi skozi UX, UI že pripravili dost teh osebin,
+
+396
+00:24:37,320 --> 00:24:41,460
+smo zvekli, lejte, mi vam tole damo na uporabo.
+
+397
+00:24:42,280 --> 00:24:48,660
+Nima smise, da ni zdaj, oziroma, to, ki gremo nasprot,
+
+398
+00:24:48,700 --> 00:24:55,340
+ali pa se pravi, vse, kar smo razvili v okviru tega prve faze projekta,
+
+399
+00:24:55,400 --> 00:24:57,260
+smo jim dali v bistvu na boljeno.
+
+400
+00:24:58,920 --> 00:25:16,180
+Se pravi, potem bi na spletna stran moc povpraševala celejo po dogodkih in bi nek del kode na spletni strani moc pripravo te git novice z osnutke, ki jih potem vaša oseba potrjuje.
+
+401
+00:25:17,060 --> 00:25:19,920
+Tako, mi bi naredili ta dogreditev.
+
+402
+00:25:19,980 --> 00:25:34,900
+Bi bi naredili, ok. Bi za Magnet Hub potem tudi na tak način, ker je opcija tudi, recimo, da bi Magnet Hub direktno v git dodajal stvari, pa bi recimo, ne, ta del že tam bil urejen.
+
+403
+00:25:35,340 --> 00:25:37,880
+V bistvu, tudi to bi lahko naredili.
+
+404
+00:25:38,670 --> 00:25:48,180
+Da ne, na potem za vsakega delate osebe tega, ampak določite, ki, kak more, tista novica, dogodek, struktura, kak more zgledati.
+
+405
+00:25:49,299 --> 00:25:51,640
+da oni naredijo pušne.
+
+406
+00:25:52,080 --> 00:25:53,180
+Pa mora potem
+
+407
+00:25:53,980 --> 00:25:55,000
+Magnet Hubu poštevati
+
+408
+00:25:55,700 --> 00:25:57,200
+vsa ta pravila, da pušne vam pa
+
+409
+00:25:57,320 --> 00:25:58,180
+samo ti ošnutki.
+
+410
+00:25:59,060 --> 00:25:59,180
+Tako.
+
+411
+00:25:59,860 --> 00:26:00,500
+Ja, ok.
+
+412
+00:26:01,259 --> 00:26:01,820
+Elegali,
+
+413
+00:26:04,159 --> 00:26:05,160
+to sploh,
+
+414
+00:26:06,240 --> 00:26:07,040
+mislim, a ti lahko
+
+415
+00:26:08,500 --> 00:26:09,540
+v naših
+
+416
+00:26:09,680 --> 00:26:11,100
+priporočilih, ali lahko mi rečemo,
+
+417
+00:26:11,760 --> 00:26:13,060
+stvar mora biti na gitu?
+
+418
+00:26:13,440 --> 00:26:13,660
+Mislim.
+
+419
+00:26:15,700 --> 00:26:15,960
+Ne,
+
+420
+00:26:17,280 --> 00:26:18,040
+A ja, to misliš.
+
+421
+00:26:21,720 --> 00:26:33,660
+Mislim, po mojih izkušnjah drugače pač ti lahko v razpisu določiš zelo strogo neko podatkovno strukturo in kam se stvari shranja.
+
+422
+00:26:34,500 --> 00:26:42,820
+Vprašanje je, če hočeš, zaradi teh istih vendor lakina, o kateri nas skoč spogovarjamo.
+
+423
+00:26:44,080 --> 00:26:44,860
+nek vendor.
+
+424
+00:26:47,140 --> 00:26:48,260
+Je nek okolje, ker je tudi,
+
+425
+00:26:48,340 --> 00:26:49,320
+ok, tu mora biti.
+
+426
+00:26:50,620 --> 00:26:51,500
+Kar bi se mi želeli,
+
+427
+00:26:52,600 --> 00:26:53,420
+bi se želeli mi,
+
+428
+00:26:54,020 --> 00:26:55,320
+se pravi, avtorstvo
+
+429
+00:26:56,100 --> 00:26:57,600
+nad produktem, se pravi, nad kodo.
+
+430
+00:26:58,080 --> 00:26:59,780
+Kar bo nekdo tu ustvaril,
+
+431
+00:27:00,500 --> 00:27:01,820
+mi želimo to kodo imeti preseb.
+
+432
+00:27:03,000 --> 00:27:05,560
+Mislim, da imamo mi lasništvo in
+
+433
+00:27:10,920 --> 00:27:11,180
+to.
+
+434
+00:27:11,580 --> 00:27:14,540
+Ja, lasništvo, ne toliko avtorstvo, ampak lasništvo.
+
+435
+00:27:16,940 --> 00:27:23,560
+In prenost avtorstva. Se pravi, da je to spogodbo opredeljeno,
+
+436
+00:27:23,780 --> 00:27:32,440
+da lahko mi posežimo vse tudi samo hodo. Seveda, nekaj se zgodi s tem podjetjem,
+
+437
+00:27:32,440 --> 00:27:36,200
+ki je ne bo to naredilo, ali pa mi sploh nismo potem zadovoljni,
+
+438
+00:27:36,260 --> 00:27:38,520
+prijev do nekega momenta.
+
+439
+00:27:39,160 --> 00:27:40,420
+Mi najdemo drugega
+
+440
+00:27:43,160 --> 00:27:44,300
+politika in potem
+
+441
+00:27:45,240 --> 00:27:46,340
+on prezame to
+
+442
+00:27:46,560 --> 00:27:48,220
+in on napred, fura pač to
+
+443
+00:27:48,500 --> 00:27:50,120
+vhodo. Zato smo mi želeli
+
+444
+00:27:50,200 --> 00:27:50,980
+v to smer, da
+
+445
+00:27:53,660 --> 00:27:54,780
+te odprte vhodnosti
+
+446
+00:27:55,340 --> 00:27:57,020
+in tega, da se neomejimo
+
+447
+00:27:57,100 --> 00:27:58,100
+enega ventorja
+
+448
+00:27:58,860 --> 00:28:00,840
+in potem rečem, kdo bi pa to prezel, pa pa ni doben.
+
+449
+00:28:01,720 --> 00:28:02,440
+Ar imamo recimo
+
+450
+00:28:02,480 --> 00:28:04,020
+zelo riziko pri vseh teh drugih
+
+451
+00:28:04,620 --> 00:28:05,760
+rešitvah, kjer sem izve omenil,
+
+452
+00:28:06,600 --> 00:28:08,440
+za razpise in to, tisto kodo,
+
+453
+00:28:08,480 --> 00:28:10,380
+ki je recimo čisto realno,
+
+454
+00:28:11,700 --> 00:28:12,700
+na kateri je
+
+455
+00:28:14,140 --> 00:28:14,480
+postavo
+
+456
+00:28:15,460 --> 00:28:15,980
+programu recimo
+
+457
+00:28:17,519 --> 00:28:18,520
+Artur, vprašanje, če bi
+
+458
+00:28:18,660 --> 00:28:19,560
+našel nekoga, ki bi
+
+459
+00:28:20,700 --> 00:28:22,060
+na trgu, ki bi zelo rekel,
+
+460
+00:28:23,000 --> 00:28:24,200
+ja, ni pa, ki bomo mi tolo
+
+461
+00:28:24,340 --> 00:28:26,000
+zelo pa bomo nadelevali. Prej bo rekel,
+
+462
+00:28:26,200 --> 00:28:27,740
+mi bomo svojo rešitev, ne, zelo
+
+463
+00:28:28,200 --> 00:28:30,200
+čisto politike in
+
+464
+00:28:30,840 --> 00:28:32,260
+njihove delovanje postavnega modela.
+
+465
+00:28:33,200 --> 00:28:34,440
+In to, kaj sem je zdaj razlagal
+
+466
+00:28:34,460 --> 00:28:36,080
+za avtorstvo in vlastničo nad kodo,
+
+467
+00:28:36,600 --> 00:28:38,520
+to velja v resnici
+
+468
+00:28:38,520 --> 00:28:40,420
+za celoten Magnet Hub projekt,
+
+469
+00:28:40,490 --> 00:28:42,040
+ne samo za ta del, ki puša.
+
+470
+00:28:42,520 --> 00:28:42,900
+Ja, ja.
+
+471
+00:28:45,920 --> 00:28:46,880
+Ok, cool, ja.
+
+472
+00:28:49,120 --> 00:28:49,920
+Ampak, ok,
+
+473
+00:28:49,930 --> 00:28:51,740
+mi delamo spek za Magnet Hub,
+
+474
+00:28:52,860 --> 00:28:54,260
+ampak v resnici
+
+475
+00:28:54,310 --> 00:28:54,600
+je to
+
+476
+00:28:55,840 --> 00:28:58,000
+in efekt bo pa to za celoten dom.
+
+477
+00:29:01,880 --> 00:29:02,240
+Zdaj,
+
+478
+00:29:04,200 --> 00:29:04,960
+bi rekel.
+
+479
+00:29:05,880 --> 00:29:07,820
+Zdaj, lahko da se bo kakke integracije,
+
+480
+00:29:08,270 --> 00:29:09,160
+pa lahko da bo rekel kakšen
+
+481
+00:29:09,240 --> 00:29:10,920
+specifik produkt, ki bo vendor.
+
+482
+00:29:13,400 --> 00:29:14,640
+Kjer boj pa izbran nek vendor
+
+483
+00:29:15,020 --> 00:29:16,140
+za zagotavne neke
+
+484
+00:29:17,200 --> 00:29:18,120
+specifike, recimo jaz
+
+485
+00:29:18,380 --> 00:29:18,940
+kontrola dostopa.
+
+486
+00:29:20,040 --> 00:29:21,780
+To sem te hotev vprašati.
+
+487
+00:29:21,960 --> 00:29:23,660
+In kontrola dostopa, tukaj ne moram
+
+488
+00:29:23,740 --> 00:29:25,080
+izaktivati nekaj sprite kode, pa ne.
+
+489
+00:29:25,680 --> 00:29:27,140
+To bom pač vzeli nekoga, ki bo imel
+
+490
+00:29:27,360 --> 00:29:29,020
+recimo tole, kar se mi zdi čist
+
+491
+00:29:29,540 --> 00:29:29,760
+legit.
+
+492
+00:29:30,940 --> 00:29:33,140
+Ampak boj rekel neka platforma, kjer bomo pa to
+
+493
+00:29:33,160 --> 00:29:36,460
+ki imamo pa to vse združili, pa zintegrili. Oni imajo apije,
+
+494
+00:29:37,260 --> 00:29:40,660
+oni tretji imajo apije, rezervacijski sistem, nek, ki je zelo nišen
+
+495
+00:29:40,840 --> 00:29:47,280
+specifik. Ne vem, če se bo spostavljalo, da bo to spet nek tretji produkt,
+
+496
+00:29:49,400 --> 00:29:53,160
+pogibam zdaj. Ampak, koč meč lahko, da bo nek modul, nek sklop,
+
+497
+00:29:53,180 --> 00:29:58,660
+ki bo zelo nišen, ki mogoče že obstaja, pa bi ga mi vključili noter,
+
+498
+00:30:00,700 --> 00:30:01,440
+bi ga pač
+
+499
+00:30:01,919 --> 00:30:02,420
+zintegrirali, ne?
+
+500
+00:30:02,760 --> 00:30:03,360
+Res mislim, ne?
+
+501
+00:30:04,320 --> 00:30:04,420
+Ok.
+
+502
+00:30:06,820 --> 00:30:08,040
+Kako vidi v vid to?
+
+503
+00:30:08,420 --> 00:30:09,860
+Jaz sem mogoče kot neko
+
+504
+00:30:10,120 --> 00:30:11,260
+osnovno, kot nek base, ne?
+
+505
+00:30:11,720 --> 00:30:13,860
+Kot nek base bi jaz vzel tu
+
+506
+00:30:14,180 --> 00:30:15,820
+res bi zhajal iz tega, da je to nekaj
+
+507
+00:30:15,900 --> 00:30:16,520
+otprtokodna
+
+508
+00:30:18,799 --> 00:30:19,200
+arhitektura,
+
+509
+00:30:20,679 --> 00:30:22,060
+koda in tak naprej, ne?
+
+510
+00:30:22,080 --> 00:30:24,120
+Da imam mi tu, bom rekel, da lahko
+
+511
+00:30:24,240 --> 00:30:25,280
+mi potem nekoga tam
+
+512
+00:30:26,680 --> 00:30:27,340
+jutri zamenjamo
+
+513
+00:30:28,480 --> 00:30:30,080
+en del, ki se bo povezoval s tem, ne?
+
+514
+00:30:30,180 --> 00:30:31,260
+pa da mi to platformo
+
+515
+00:30:32,520 --> 00:30:33,580
+zamenjuje pa unikom.
+
+516
+00:30:33,840 --> 00:30:35,520
+Glede na to, da je to javna
+
+517
+00:30:36,020 --> 00:30:37,120
+infrastruktura, je
+
+518
+00:30:38,059 --> 00:30:38,820
+odprta, ko da
+
+519
+00:30:41,600 --> 00:30:42,000
+izogibanje
+
+520
+00:30:42,840 --> 00:30:43,820
+vendor lock-in-a
+
+521
+00:30:43,860 --> 00:30:45,580
+bi mogel biti zakonsko
+
+522
+00:30:45,680 --> 00:30:46,540
+zahtevana stvar.
+
+523
+00:30:47,700 --> 00:30:48,720
+Ti ne moraš,
+
+524
+00:30:49,560 --> 00:30:51,400
+ne bi smel biti v situaciji,
+
+525
+00:30:51,540 --> 00:30:53,200
+kjer se ti odviselno, da ne firme,
+
+526
+00:30:54,300 --> 00:30:54,960
+a ne, to,
+
+527
+00:30:55,600 --> 00:30:57,380
+jaz si predstavljal, da je, če delaš eno tako
+
+528
+00:30:57,420 --> 00:30:58,900
+spetno stran, moraš, v bistvu,
+
+529
+00:30:58,960 --> 00:31:04,520
+bo ful draži zaradi tega, ker boš mogel toliko časa in resursov zabiti,
+
+530
+00:31:04,560 --> 00:31:11,660
+zato da ja ne boš slučajno vendorlocking, ker to ni v javnem interesu.
+
+531
+00:31:12,760 --> 00:31:17,480
+To bo bo če manj očinkovito, ampak lej stari, ni moramo tako delati.
+
+532
+00:31:17,760 --> 00:31:21,320
+To je moje osedno gledanje.
+
+533
+00:31:21,760 --> 00:31:24,560
+-Jaz to... -Kor povesam?
+
+534
+00:31:25,100 --> 00:31:39,860
+-Po še, ko prideti do nekih security privacy in tak naprej je dosti laže pojdelati v te assessmenta, ker te jo od protokotne stvari že to imajo narjeno. Če pa imaš vse custom narjeno, pa moraš še sam vse to ugotavljati.
+
+535
+00:31:41,300 --> 00:31:51,860
+ali so bile vse tista priporočila opoštevana, tudi za ta DSMA, ozima kak je ženo za CD9.
+
+536
+00:31:53,600 --> 00:32:08,860
+Ja, mislim, to je pravi point, ker tukaj bo neka, bom rekel, kastomizacija.
+
+537
+00:32:08,940 --> 00:32:21,640
+Zdaj, če bi to bil nek produkt, ki bi ga mi rekli, aha, ako imajo v Berlinu, ali pa ne vem, nekje, da najdemo zdaj mi iz tržne raziskave, točno ta produkt, pa ga diplojamo in bom rekel tako, autodlocks, off the shelf.
+
+538
+00:32:23,100 --> 00:32:35,920
+Mislim, da ga ni, ker mi se ravno tu želimo, mislim, verjetno obstaja, ampak po moje tudi tam ni čist, bom rekel tako, da bi ga vzel, pa bi rekli, to to policencijamo, tele module pa imamo.
+
+539
+00:32:36,840 --> 00:33:04,900
+Mislim, drugače bomo videli, obstaja mogoče neka možnost, ker takim sistemu se reče venue management system, da potem, če greš pogovoljati venue management system, jih imaš in so tudi tako, ko so tako čisti bare bone, pa si pač ti nastaviš sobe, registracije in tak naprej, ampak pol, ja, če so pa zato za MagnetHub, za KUHODON, če so kake specifike, še posebej tisto, kar je povezano za kavarno,
+
+540
+00:33:04,940 --> 00:33:10,940
+pa registracijo osobi in tak naprej pol mogoče ne pašejo.
+
+541
+00:33:12,320 --> 00:33:15,060
+Gledanje, kaj hočem povedati, je, da čisto možno, da že obstaja
+
+542
+00:33:15,360 --> 00:33:18,700
+kakaj open source venue management system, ko bi prišel v poštelju.
+
+543
+00:33:18,700 --> 00:33:23,240
+Ampak verjetno, a bi to bila fondacija ali bi to bil nek tak del,
+
+544
+00:33:23,290 --> 00:33:25,280
+ki bi se pa zintegriralo na spletno strano?
+
+545
+00:33:25,340 --> 00:33:31,900
+In spletna strano bi bil spletnik neka svoja arhitektura z nekim CMS-om in to.
+
+546
+00:33:32,480 --> 00:33:36,740
+In pa bi se s tem venue managementom povezovala.
+
+547
+00:33:36,960 --> 00:33:43,620
+Zato da imaš ti, ne, kako si zdaj izdivisijo tudi fleksibilni pri frontu, pri samih drugih funksionalnosti.
+
+548
+00:33:44,180 --> 00:33:49,600
+Ti pa želiš prepelati nekaj druga, pa ti mi je ustreza, ne, razporeditev ali kaj tako.
+
+549
+00:33:49,760 --> 00:33:56,440
+Se pravi, eno je neko tist front, počeš imeti tako zadeve, pa pa recimo nek UX kot tako, ne.
+
+550
+00:33:56,960 --> 00:34:00,400
+Ga malo drugač, kako ker je, se si ga ni zamislil, pri venue managementu.
+
+551
+00:34:00,900 --> 00:34:01,840
+Ja, to je res.
+
+552
+00:34:02,270 --> 00:34:03,000
+To bomo videli.
+
+553
+00:34:03,260 --> 00:34:07,280
+Vse funkcionale, ki ti pa ful ustrezajo, ampak ni pa čist.
+
+554
+00:34:07,770 --> 00:34:08,419
+Kako je to zelo?
+
+555
+00:34:09,480 --> 00:34:16,200
+Imaš prav. Jaz mislim, da ko bomo videli, kaj vse si želite imeti na spletni strani,
+
+556
+00:34:16,980 --> 00:34:22,540
+izpostavljeni zunanim uporadnikom, bomo pol naredili ta pregled, da vidimo del,
+
+557
+00:34:22,540 --> 00:34:26,899
+to, koliko če bomo videli, ok, 80% funkcionalnosti prihleda zvenju management,
+
+558
+00:34:26,960 --> 00:34:31,100
+prav, ne, pač tisti neko landing page funkcionalnosti zveni management sistema,
+
+559
+00:34:31,770 --> 00:34:38,700
+da, če pa bo tam še ful nekih drugih sebin, pa pride to poštav, tako da, ja, to še, to še, to še pride.
+
+560
+00:34:40,560 --> 00:34:45,100
+Ok, cool, cool, cool. Tanjer, imaš še ti kaj, predno grem na naslednjo točko?
+
+561
+00:34:47,120 --> 00:34:52,939
+Ja, enkrat bi se rad pogovoril glede tega access kontrola, abak to moš ti pa...
+
+562
+00:34:53,360 --> 00:35:08,440
+To bi mogoče čisto na konfliktu. Ti govoriš o tem fizičnem akses kontrolju. Je pa moja naslednja točka, avtentikacija, si pravi, digitalni akses kontrol za spletno stran moc.
+
+563
+00:35:10,080 --> 00:35:14,040
+Kako se danes? Se pravi, danes se vi vpisujete samo v CMS.
+
+564
+00:35:15,620 --> 00:35:17,480
+Ali še kot ne vem, to je to, ne?
+
+565
+00:35:18,540 --> 00:35:18,840
+To je to.
+
+566
+00:35:20,640 --> 00:35:24,700
+Za CMS uporabljate D-CAP-ov verjetno autentikacije?
+
+567
+00:35:24,700 --> 00:35:28,460
+V bistvu je tako, začeli smo s tem, pa so bili pa neki limiti.
+
+568
+00:35:29,940 --> 00:35:31,640
+Neki limiti in pa smo šli na Git.
+
+569
+00:35:32,359 --> 00:35:53,300
+Na startu smo šli v neko drugo kombinacijo tega headlessa, se pravi D-CAP, Netlify, pa smo šli pa oziroma Netlify in pa smo pa prestalili na Git, se pravi, da smo samo na Git, se pravi, da je antedikacija šla v CMS na Git.
+
+570
+00:35:54,120 --> 00:36:02,720
+Ampak to bomo pa zdaj v tem mesecu bilo obljubljeno oziroma najbi do konca meseca pa prešli na D-CAD prijavo.
+
+571
+00:36:03,580 --> 00:36:18,080
+Aha. Ok. No, ta je kar specifična, ker zakaj sem to vprašal, razmislil, če bi vi imeli zdaj nek Microsoftov, recimo tako imate za svoje delo na občini,
+
+572
+00:36:18,140 --> 00:36:31,040
+če bi uporabljali tudi ta Microsoftov AD za autentikacijo tem ali pa kateregakoli drugega, potem bi razmišljali, da se potem tudi za sam MagnetHub uporabi isto. Zdaj, tu pa je zelo specifično.
+
+573
+00:36:31,160 --> 00:36:32,200
+Zda administracijo?
+
+574
+00:36:33,200 --> 00:36:37,820
+Ja, ne. Zato, da lahko ti določaš, kdo ima dostop do tega.
+
+575
+00:36:38,460 --> 00:37:03,660
+Ampak kdo bi, kako bi bilo teh ljudi, kako bi bilo te vloge, ker se pravim, če bi bilo tu pet administrator, recimo, mi ravno s tem nismo šli, to ni bil naš pogoj, da naredimo RDA per integracijo, ker potem, kaj sem, sicer ne vem, kaj bi bili res benefiti, ker po drugi strani pa ti odpiraš neko spet, nek security,
+
+576
+00:37:04,720 --> 00:37:05,540
+mogoče hol,
+
+577
+00:37:07,160 --> 00:37:07,600
+potencijalni,
+
+578
+00:37:08,120 --> 00:37:09,640
+zdaj ne vidim neke prednosti,
+
+579
+00:37:09,760 --> 00:37:11,760
+pač sam se ne rejajo lokalnih akaunti, pa se to fura.
+
+580
+00:37:12,080 --> 00:37:13,380
+Za samo administracijo.
+
+581
+00:37:14,360 --> 00:37:16,060
+Ja, za samo administracijo,
+
+582
+00:37:16,160 --> 00:37:18,460
+ja, imaš prav,
+
+583
+00:37:18,500 --> 00:37:19,800
+ker pol tudi, če je mišljeno,
+
+584
+00:37:19,870 --> 00:37:22,280
+da bi sami končni uporabniki,
+
+585
+00:37:22,560 --> 00:37:24,200
+ki kupujajo karte in tak naprej,
+
+586
+00:37:24,320 --> 00:37:26,060
+pač Janez in Špela
+
+587
+00:37:27,260 --> 00:37:28,120
+iz Celja,
+
+588
+00:37:28,720 --> 00:37:30,220
+pol apsolutno jih
+
+589
+00:37:30,350 --> 00:37:31,240
+ne moreš. Ja, sam ti se drugo.
+
+590
+00:37:32,540 --> 00:37:34,420
+moč lahko odpremo ta topic.
+
+591
+00:37:35,300 --> 00:37:36,620
+Se pravi, če gledamo sam CMS,
+
+592
+00:37:37,220 --> 00:37:39,380
+imamo tu neke vloge,
+
+593
+00:37:39,960 --> 00:37:40,880
+neke urednike,
+
+594
+00:37:41,060 --> 00:37:42,440
+nekoga, ki bo nekaj vsebine gor
+
+595
+00:37:43,860 --> 00:37:44,240
+urejeval.
+
+596
+00:37:45,820 --> 00:37:46,900
+Tukaj ne verjamem, da jih bo
+
+597
+00:37:47,640 --> 00:37:48,360
+kaj dost veliko.
+
+598
+00:37:48,620 --> 00:37:49,420
+Naredimo Airbads,
+
+599
+00:37:50,520 --> 00:37:51,600
+Rollbase Success Control.
+
+600
+00:37:53,680 --> 00:37:54,960
+To se mi zdi, da je nuja.
+
+601
+00:37:55,100 --> 00:37:56,740
+Zdaj, ne vem, dofaktorska antentikacija
+
+602
+00:37:57,280 --> 00:37:58,520
+je mogoče tudi lahko
+
+603
+00:37:59,360 --> 00:38:00,920
+nekaj zahteva, če bomo res
+
+604
+00:38:02,040 --> 00:38:07,340
+da ni to samo uporabiško ime pasvort, ampak da rdimo tu še dvofaktorsko autentikacijo,
+
+605
+00:38:07,340 --> 00:38:15,440
+da je to še, ne vem, pa recimo, da bojo to ljudje, ki bojo nekako v domeni moca,
+
+606
+00:38:15,840 --> 00:38:24,140
+v nekem tem tenantu, mi imamo recimo vsi sko duo aplikacije za dvofaktorsko autentikacijo
+
+607
+00:38:27,740 --> 00:38:29,460
+in tudi imamo mi to za prijavo
+
+608
+00:38:29,620 --> 00:38:30,960
+pač v Windows okolje pa v
+
+609
+00:38:32,000 --> 00:38:32,440
+M365
+
+610
+00:38:33,880 --> 00:38:34,560
+to je to
+
+611
+00:38:37,080 --> 00:38:38,620
+kar se tiče pa samih uporabnikov
+
+612
+00:38:39,340 --> 00:38:39,820
+je pa
+
+613
+00:38:41,760 --> 00:38:42,500
+je pa zdaj odvisno
+
+614
+00:38:43,780 --> 00:38:45,200
+v kako smer bi to
+
+615
+00:38:45,340 --> 00:38:47,220
+zapela, ali bo čist public, ali bo pa nekdo
+
+616
+00:38:47,230 --> 00:38:49,040
+ki se bo tam, da bomo pa imeli user
+
+617
+00:38:49,600 --> 00:38:50,240
+login za neke
+
+618
+00:38:50,740 --> 00:38:52,019
+customize vsebine
+
+619
+00:38:52,680 --> 00:39:04,240
+Če sem jaz nek uporabnik, da imam pa omogočeno dostop do točno določene neke premiumu izsebine, ki bi bila pa za mene.
+
+620
+00:39:04,660 --> 00:39:10,080
+Premium ali pa enostavno, mogoče zgodovina tvojih nakupov, tvojih rezervacij.
+
+621
+00:39:11,040 --> 00:39:12,060
+To bi pa recimo
+
+622
+00:39:12,900 --> 00:39:14,740
+bilo smiselno, ampak ne vidim
+
+623
+00:39:14,840 --> 00:39:16,260
+tukaj, da, integracije
+
+624
+00:39:16,900 --> 00:39:17,440
+spravo, ne?
+
+625
+00:39:18,240 --> 00:39:20,720
+Tukaj pa mogoče smo že pred časom govorili
+
+626
+00:39:20,900 --> 00:39:22,600
+o koliko smo malo scheme
+
+627
+00:39:22,740 --> 00:39:24,180
+risali, ne vem, če
+
+628
+00:39:25,060 --> 00:39:26,400
+imate to nekje, ali pa če je
+
+629
+00:39:26,520 --> 00:39:27,520
+Luka kje omenil, da bi
+
+630
+00:39:28,160 --> 00:39:29,600
+centralko tukaj omogočilo.
+
+631
+00:39:30,100 --> 00:39:32,320
+Ali pa da bi tukaj mogoče potem nekako
+
+632
+00:39:33,580 --> 00:39:33,980
+paralelo.
+
+633
+00:39:34,880 --> 00:39:36,780
+Mi jim mestno kartico poznate, ne?
+
+634
+00:39:37,400 --> 00:39:37,800
+Cesko?
+
+635
+00:39:38,000 --> 00:39:39,220
+Ne, ne, sorry.
+
+636
+00:39:39,920 --> 00:40:02,220
+Centralka je mobilna aplikacija, lahko posrčeta app store ali pa Google Play, je Centralka kot osrednja mestna aplikacija. Zdaj sicer imamo samo vertikalo mobilnosti, tudi poklito, ampak v principu je bila ideja, da bi tu še kakve druge storitev gar obesil.
+
+637
+00:40:03,440 --> 00:40:07,820
+Imamo pa trenutno, za kaj to umeljam, zraje, ker imamo zelo dobro bazo uporabnikov,
+
+638
+00:40:07,900 --> 00:40:11,880
+tukaj, ne, 20 tisoč registriranih uporabnikov.
+
+639
+00:40:13,180 --> 00:40:19,060
+Imamo tudi možnost verificiranih uporabnikov, se pravi, ti kot registriran uporabnik lahko imaš možnost,
+
+640
+00:40:19,340 --> 00:40:25,120
+se pravi, če se registrirajo kot z SMS pasom, se ti že v bistvu validiran uporabnik.
+
+641
+00:40:27,280 --> 00:40:45,060
+In mi bi lahko mogoče izkoristili to bazo, pa razmišljamo o tem, da bi mi lahko naredimo zelo enostavno, tako smo naredili, pa mogoče res, če si poinstalirate čist za občutek.
+
+642
+00:40:45,680 --> 00:40:50,600
+Zdaj, centralka, ko se jaz noter integriram, prijavljam.
+
+643
+00:40:51,320 --> 00:41:03,120
+V spodi imam eno ikonco, celja sepelje.
+
+644
+00:41:05,330 --> 00:41:13,180
+To smo šli v izdelavo te dodatne neke storitve, ki je mikroservisna storitev izven.
+
+645
+00:41:14,500 --> 00:41:28,420
+To bi rekel en lep primer integracije v centralko. Eno mikroservisno strojitev v okviru Evropskega tedna mobilnosti, namest, da smo prejšnje leta kartončke potalali po celjo, po organizacijah in tako.
+
+646
+00:41:28,880 --> 00:41:40,620
+In pa si za vsak tedan, vsak dan v tednu si obkrožil, kaj s čim si se prepelal v službo. In pa si izbilo to točke. In zaz smo naredili pa, predlani smo naredili pa spletna aplikacija.
+
+647
+00:41:41,660 --> 00:41:43,920
+In potem bo ponavlja centralko.
+
+648
+00:41:44,680 --> 00:41:59,420
+Tako, ti greš v centralko, se prijaviš in potem klikneš to ikonco in ona preko JVT se pošle tvoje prijavne podatke v ta mikroservis in ko odpreš celje sepele, ti napiše pozdravljen dušan.
+
+649
+00:42:00,360 --> 00:42:07,840
+Se pravi, tam se odpre, potem se pa v tisti bazi potem vodi mene.
+
+650
+00:42:10,380 --> 00:42:16,200
+Se pravi, nismo zdaj delali nove registracije, novi pravni podatko, ampak koristim v bistvu bazo iz centralke.
+
+651
+00:42:16,680 --> 00:42:17,640
+Bogaš bila to opcija.
+
+652
+00:42:18,380 --> 00:42:19,560
+To je vrhunska opcija.
+
+653
+00:42:19,840 --> 00:42:23,520
+In isto tak bi lahko v centralki naredil kot, bo nekaj čistken link,
+
+654
+00:42:24,180 --> 00:42:28,380
+kjer se potem kot mikroservis to zlinka na spletno stran doma.
+
+655
+00:42:28,640 --> 00:42:38,900
+Ne, da kodo posegamo v centralko, ampak samo link. In ti se registrirani v centralki, pa pa greš v tja link.
+
+656
+00:42:40,520 --> 00:42:46,300
+Al pa tudi, če greš na domgor, se pač uporabi od centralke login, ne?
+
+657
+00:42:47,040 --> 00:42:47,860
+Tako, tako.
+
+658
+00:42:47,860 --> 00:42:49,360
+Pa te on še pol nazaj noterja.
+
+659
+00:42:50,020 --> 00:42:57,200
+Tega še sicer nimamo tega primera, ampak mislim, da tu bi pa recimo lahko to integracijo v to smer.
+
+660
+00:42:58,660 --> 00:43:12,140
+Jaz imam feeling, da bi to šlo, da se imenilo, da se ta JVT uporabila, to je taka standardna OpenID stvar, ampak se je še to za raziskati.
+
+661
+00:43:12,880 --> 00:43:34,000
+Zdaj to bi bila recimo druga tako stvar, tista je bila bolj hec, te mobilnosti pa ta cele sepele, tole bi bila željena zaostresna stvar, pa še eni drugi stvari, ko je zdaj tudi snujem, ki je vezana na bolj spet ta transportno-logistični sistem, ki bi tudi uporabil mogoče te prijavne podatke.
+
+662
+00:43:34,940 --> 00:43:38,560
+Ker imamo tudi bazo v poradniku tudi noter in bi se zelo lepo lahko zapela.
+
+663
+00:43:39,840 --> 00:43:48,460
+Da, še dodatno težo je nekak centralki, ki je malo obstala v nekem razvoju mogoče, ker tu so tudi neki taki fi, botični.
+
+664
+00:43:49,800 --> 00:43:55,220
+Če bi radi centralko dograjeval, ampak nekaj mikroservisni potencijal je pa velik.
+
+665
+00:43:56,680 --> 00:44:10,840
+In kot potem zgleda, recimo, če nek nov servis, neka nova stvar si želi upravljati centralko za login, vi potem izdate naročilo temu izvajalcu, ki programira centralko in oni potem to?
+
+666
+00:44:11,560 --> 00:44:15,800
+Ravno v petek sem se slišal z njimi, ravno za ta drug projekt,
+
+667
+00:44:15,870 --> 00:44:20,960
+ko sem ga omenil, in sem rekli, ja, ni problema, vi v bistvu
+
+668
+00:44:20,960 --> 00:44:31,100
+sam specificirite, kaj bi potrebovali. Dejansko ni umetel,
+
+669
+00:44:32,080 --> 00:44:37,860
+če imamo samo blogin. V tem smislu, tukaj z njihove strane
+
+670
+00:44:37,880 --> 00:44:40,100
+ni bilo nobenega stroška.
+
+671
+00:44:40,880 --> 00:44:42,160
+Oni se nam dali specifikacijo
+
+672
+00:44:42,260 --> 00:44:44,000
+za api integracijo, mi smo jo dali
+
+673
+00:44:44,180 --> 00:44:45,680
+naprej izvajalce in on je to naredil.
+
+674
+00:44:46,840 --> 00:44:48,380
+Tako so že imeli te integracije.
+
+675
+00:44:49,300 --> 00:44:50,180
+Oni že imali to pripravljeno.
+
+676
+00:44:50,190 --> 00:44:51,660
+Se pravi, jaz znam kot
+
+677
+00:44:51,880 --> 00:44:53,760
+neko specifikacijo, sem naprej pošel.
+
+678
+00:44:55,040 --> 00:44:55,820
+Potem je ta dostop
+
+679
+00:44:55,920 --> 00:44:57,220
+svega rejena tak naprej.
+
+680
+00:44:58,200 --> 00:45:00,340
+Je ta link, oni to koristijo.
+
+681
+00:45:00,480 --> 00:45:01,060
+Edino, kar je,
+
+682
+00:45:02,160 --> 00:45:03,800
+kar je centralka naredila pre sebi,
+
+683
+00:45:05,030 --> 00:45:05,700
+je, oziroma ti
+
+684
+00:45:06,320 --> 00:45:07,520
+pogodbeni naši izvajalci,
+
+685
+00:45:07,700 --> 00:45:09,500
+da so dal tisti konce notrne
+
+686
+00:45:10,220 --> 00:45:10,940
+in klic na to.
+
+687
+00:45:12,300 --> 00:45:13,880
+Res je bil minimalni
+
+688
+00:45:14,060 --> 00:45:14,680
+film v tem sporu.
+
+689
+00:45:15,680 --> 00:45:17,060
+Kaj pa potem, recimo tu
+
+690
+00:45:18,660 --> 00:45:19,460
+ta celje
+
+691
+00:45:19,580 --> 00:45:20,340
+sepelje ali pa
+
+692
+00:45:21,200 --> 00:45:23,560
+te mobilnosti, ima svojo aplikacijo
+
+693
+00:45:23,740 --> 00:45:25,300
+in prideš ti gor in imaš tam
+
+694
+00:45:25,460 --> 00:45:26,800
+recimo, vpiši se
+
+695
+00:45:27,220 --> 00:45:29,340
+in imaš tam neki gumb, vpiši se
+
+696
+00:45:29,460 --> 00:45:30,960
+za centralko, deluje to tak?
+
+697
+00:45:31,300 --> 00:45:32,500
+Ne, ne.
+
+698
+00:45:32,820 --> 00:45:34,320
+Ti greš ti rekel, kaj je centralko?
+
+699
+00:45:34,940 --> 00:45:36,980
+In imam že ta gumbe, ga stisnem in snak to
+
+700
+00:45:37,000 --> 00:45:44,960
+automatsko je, ko se mi odpre ta m1 page, jaz nimam občutka, da sem zapustil centralko.
+
+701
+00:45:45,620 --> 00:45:46,160
+Razumeno.
+
+702
+00:45:48,880 --> 00:45:53,840
+Pozdravljam dušem, se pravi, nijem dodatne single sign on.
+
+703
+00:45:55,920 --> 00:45:59,400
+Ja, ok, prej se je omenil SMS pass, a CPass misliš?
+
+704
+00:45:59,900 --> 00:46:03,060
+Se pravi, vse, kar CPass sem mogoče, ali specifično SMS pass?
+
+705
+00:46:05,140 --> 00:46:12,340
+Veš, kak je ne, glede na to, da je mobilna aplikacija, jaz ne vem, če imam mogoče kot certifikat.
+
+706
+00:46:15,020 --> 00:46:16,620
+Ne certifikat, z appom, ne?
+
+707
+00:46:17,360 --> 00:46:20,560
+Z appom, ja, ne, ne razumem, ampak v appom mislim, da imam...
+
+708
+00:46:20,580 --> 00:46:23,580
+Z osebno, kaj je že, ta osebna izkaznica?
+
+709
+00:46:23,660 --> 00:46:24,220
+E-osebna.
+
+710
+00:46:24,979 --> 00:46:25,700
+E-osebna.
+
+711
+00:46:27,339 --> 00:46:32,940
+Ja, to bi se mogel videti, ker E-osebna je prišla, mislim, da kasneje, kako smo mi to delali.
+
+712
+00:46:33,340 --> 00:46:34,840
+Dla ni v BBB prišla, ja.
+
+713
+00:46:35,240 --> 00:46:36,820
+Ja, centralka je bila
+
+714
+00:46:36,880 --> 00:46:38,820
+2,23, ne. Če glede na moj račun,
+
+715
+00:46:39,840 --> 00:46:40,640
+jaz ima tle SMS
+
+716
+00:46:41,020 --> 00:46:42,880
+pas, čak sem, da vidim, kjere so opcije še.
+
+717
+00:46:43,920 --> 00:46:44,860
+Aha. V resnici je
+
+718
+00:46:45,120 --> 00:46:46,780
+eno pas bi mogo biti, ne.
+
+719
+00:46:47,860 --> 00:46:48,980
+Dejte se registriati,
+
+720
+00:46:48,980 --> 00:46:50,820
+no, pa bojta, še 20 tisoč
+
+721
+00:46:51,240 --> 00:46:52,940
+prebijamo, mogoče še vse vliko 20 tisoč.
+
+722
+00:46:54,760 --> 00:46:56,960
+V bistvu tako je. Če glede potem na moj račun,
+
+723
+00:46:56,960 --> 00:46:57,420
+je tle, le,
+
+724
+00:46:58,300 --> 00:46:59,920
+lahko se naredim za slonski posnitek.
+
+725
+00:47:00,860 --> 00:47:02,640
+Se pravi, imam tle moj račun,
+
+726
+00:47:02,920 --> 00:47:04,520
+moj mail, ID računa, se pravi,
+
+727
+00:47:04,640 --> 00:47:06,680
+moj nek ID izpisam, potem pa imam
+
+728
+00:47:06,820 --> 00:47:08,740
+SMS pas verificiran
+
+729
+00:47:08,820 --> 00:47:10,160
+uporabnik, ne vem, če vidite to tudi.
+
+730
+00:47:12,660 --> 00:47:14,080
+Zaj noče sfokusirati, ampak
+
+731
+00:47:14,260 --> 00:47:15,020
+misi tako vlo ma.
+
+732
+00:47:15,660 --> 00:47:18,340
+In potem, ko kliknem, tle še imam eno
+
+733
+00:47:18,380 --> 00:47:19,760
+puščico, desno več
+
+734
+00:47:20,720 --> 00:47:21,940
+in se mi pojel razprejati tale.
+
+735
+00:47:23,220 --> 00:47:24,100
+To poznata maska.
+
+736
+00:47:24,440 --> 00:47:27,000
+To je pa vse vsi pasa.
+
+737
+00:47:27,380 --> 00:47:28,520
+Ja, ampak če kliknem tle
+
+738
+00:47:28,600 --> 00:47:29,680
+verificirano potrdilo
+
+739
+00:47:30,430 --> 00:47:31,680
+na mobilcu, ne vem, tle bi mogo.
+
+740
+00:47:31,700 --> 00:47:33,960
+Tam ti sne, čakaj, daj bo mestnič.
+
+741
+00:47:33,960 --> 00:47:36,440
+Če smo pa na spletni strani, bi pa v teri to
+
+742
+00:47:37,660 --> 00:47:38,040
+bilo možno.
+
+743
+00:47:42,100 --> 00:47:42,860
+Tu za
+
+744
+00:47:44,120 --> 00:47:45,060
+Magnet Hub bi potem
+
+745
+00:47:45,480 --> 00:47:47,560
+ti ljudje, ko delajo centralko, bi verjetno
+
+746
+00:47:47,700 --> 00:47:49,560
+tudi mogli še nekaj, malo vseeno
+
+747
+00:47:49,760 --> 00:47:51,640
+ekstra narediti, če bi si mi
+
+748
+00:47:52,200 --> 00:47:53,660
+želili to ti flow, da imaš
+
+749
+00:47:53,660 --> 00:47:55,640
+ti ono klasikov,
+
+750
+00:47:55,880 --> 00:47:57,580
+vpiši se, pa da imaš gumb
+
+751
+00:47:57,640 --> 00:47:59,720
+spodav, vpiši se z centralko,
+
+752
+00:47:59,800 --> 00:48:07,000
+da bi te potem to vrglo v centralku, pa bi te centralka vrnila nazaj v spletno stran.
+
+753
+00:48:07,210 --> 00:48:14,980
+To ne bi mogli narediti tako, da je bilo celje, da znotraj centralke gledaš celo stvar.
+
+754
+00:48:15,740 --> 00:48:20,340
+Veš kakor, razmišljam samo o tem, če bi bil mobile first v tem smislu.
+
+755
+00:48:22,620 --> 00:48:31,440
+Zdaj, če rečemo, ne vem, zdaj je pa to spletna aplikacija, pa ima vse, kar ima, bom rekel, da bo, ne vem, 90% uporabnikov ali pa še več prek spleta.
+
+756
+00:48:35,380 --> 00:48:44,680
+Ne vem, če bi šel pol v centralko, ker zaprašanje, koliko teh uporabnikov je v centralki že registrjenih, pa niti ne bi bilo, da je to pogoj po moje.
+
+757
+00:48:45,480 --> 00:48:56,980
+Ampak če pa gremo v mobile, pa želimo mi registrirati uporabnike, pa se mi zdi, da bi jih lahko prek te mobilne zgodbe pripelali noter.
+
+758
+00:48:58,560 --> 00:49:06,160
+Pa da bi imel v bistvu tako responsiv mobile app, da bi bil to zelo, zelo tako ličen, se pravi, debijest.
+
+759
+00:49:06,900 --> 00:49:12,200
+Potem tudi od, si predstavljeno, tudi kontrolo dostopno vse, da bi imel prek tega mobile app.
+
+760
+00:49:13,520 --> 00:49:14,400
+To bi imel pa bilo zanimivo.
+
+761
+00:49:15,240 --> 00:49:16,320
+se pravi, da se sregistriram.
+
+762
+00:49:17,640 --> 00:49:18,820
+Se pravi, ne vem, kaj bi
+
+763
+00:49:19,000 --> 00:49:20,920
+dejansko bil potem produkt vsega tega,
+
+764
+00:49:21,240 --> 00:49:22,820
+ampak jaz mislim, da bi bilo fajn, da imam,
+
+765
+00:49:23,800 --> 00:49:24,560
+da bi jaz
+
+766
+00:49:24,890 --> 00:49:26,180
+na telefonu lahko vse to počel.
+
+767
+00:49:26,290 --> 00:49:27,760
+Se pravi, hitro pogledam zasedenost,
+
+768
+00:49:28,540 --> 00:49:29,280
+nekaj kar imam sabo.
+
+769
+00:49:30,520 --> 00:49:31,180
+Poglejam z verem,
+
+770
+00:49:31,810 --> 00:49:32,580
+ne vem, pogledam,
+
+771
+00:49:32,850 --> 00:49:34,400
+se naredi se rezerviral tole
+
+772
+00:49:34,670 --> 00:49:36,800
+in ko pridem tja, preslonim tole
+
+773
+00:49:37,560 --> 00:49:38,380
+na FC recimo,
+
+774
+00:49:38,720 --> 00:49:40,080
+pa sem že notar.
+
+775
+00:49:40,170 --> 00:49:42,020
+Se pravi, ta mobile token za
+
+776
+00:49:43,360 --> 00:49:44,560
+odklepanje vrat in
+
+777
+00:49:44,580 --> 00:49:47,820
+In vse to, se pravi, da gremo v smer neke
+
+778
+00:49:50,020 --> 00:49:50,540
+vseh sebi samo.
+
+779
+00:49:52,900 --> 00:49:56,980
+Se mi zdi, da bi bilo to fajno.
+
+780
+00:49:57,400 --> 00:49:58,980
+Nekaj tako hoteljska izkušnja.
+
+781
+00:49:59,800 --> 00:50:02,840
+Bomo še raziskali to tudi.
+
+782
+00:50:03,340 --> 00:50:06,800
+Definitivno je pecej močna možnost ta centralka,
+
+783
+00:50:06,900 --> 00:50:10,800
+ampak to mobilnost je mogoče malo omejitev.
+
+784
+00:50:12,960 --> 00:50:19,200
+Ni pa nujno, lahko je to čisto ekstra, pa se ti perjaviš tam, pa registrijaš se svoj akaunt.
+
+785
+00:50:21,200 --> 00:50:25,620
+Ni pa posegal v centralko, je to čisto ločeno vprašanje.
+
+786
+00:50:25,860 --> 00:50:31,840
+Lahko je tudi jutro se kaj zgodi v centralko, da ne bomo pa mi mogli vlastiti.
+
+787
+00:50:32,000 --> 00:50:33,540
+Spet lock in, ja.
+
+788
+00:50:34,420 --> 00:50:34,820
+To, to.
+
+789
+00:50:36,540 --> 00:50:38,840
+Koliko še imaš čas vsedušno za je 12.15 uređe?
+
+790
+00:50:39,420 --> 00:50:40,100
+Na dopustnici.
+
+791
+00:50:41,100 --> 00:50:46,580
+Ne, ne, ne, res ne. Koristim lanskega tak, da ni pa nikaj, ki se ne boljo.
+
+792
+00:50:46,960 --> 00:50:48,480
+Najlepša hvala, da si si vzel čas.
+
+793
+00:50:49,980 --> 00:50:52,240
+Ni, ni, ni, ni, ni treba se zahvaljivati.
+
+794
+00:50:53,420 --> 00:51:05,140
+Zdaj, ko si že omenil odklepanje vrat, zdanjeno sva slišala, da je že podpisano praktično za access control, za kaj vhodu, ne, za primo.
+
+795
+00:51:05,780 --> 00:51:06,140
+Ja.
+
+796
+00:51:07,880 --> 00:51:17,260
+In jaz nič ne poznam, kaj tehnično njihove rešitve. Ti veš, če imajo potem tudi kakje API integracije?
+
+797
+00:51:18,140 --> 00:51:29,940
+Imajo, imajo. Imajo prav dokumentiran PDF. Zelo, zelo smo ga gledali pred časom. Zelo dobro dokumentiran z vsemi stanjimi.
+
+798
+00:51:30,000 --> 00:51:31,960
+imajo tudi svoj, se pravi,
+
+799
+00:51:32,320 --> 00:51:34,520
+ta admin umestnik
+
+800
+00:51:34,520 --> 00:51:35,420
+za kontrolo dostopa.
+
+801
+00:51:37,040 --> 00:51:38,040
+Še sem si tudi
+
+802
+00:51:38,880 --> 00:51:39,780
+pogledati, kako to
+
+803
+00:51:40,280 --> 00:51:42,340
+vzgleda v praksi na akademiji za glasbo.
+
+804
+00:51:44,000 --> 00:51:45,980
+Zglani tudi na rogu to uporabljajo,
+
+805
+00:51:48,360 --> 00:51:50,220
+imajo pa tudi rezervacijski sistem.
+
+806
+00:51:51,620 --> 00:51:52,000
+Oni,
+
+807
+00:51:52,360 --> 00:51:53,200
+sicer je bolj
+
+808
+00:51:53,580 --> 00:51:54,100
+basic,
+
+809
+00:51:56,120 --> 00:51:57,780
+je pa kot spletna
+
+810
+00:51:58,060 --> 00:51:58,480
+aplikacija.
+
+811
+00:51:59,799 --> 00:52:00,840
+tisto možno,
+
+812
+00:52:02,160 --> 00:52:02,580
+se pravim,
+
+813
+00:52:02,580 --> 00:52:03,520
+v neki
+
+814
+00:52:05,060 --> 00:52:05,400
+basic
+
+815
+00:52:07,980 --> 00:52:08,580
+nekem
+
+816
+00:52:08,700 --> 00:52:10,500
+deployu, ampak ja,
+
+817
+00:52:10,820 --> 00:52:11,700
+API je pa
+
+818
+00:52:12,660 --> 00:52:13,580
+kar dobro dokumentirano.
+
+819
+00:52:14,700 --> 00:52:16,280
+Kaj so bile zahteve, oziroma zakaj
+
+820
+00:52:16,450 --> 00:52:18,000
+je ta sistem bil izbran?
+
+821
+00:52:18,100 --> 00:52:19,440
+Bila so bilo kakšne druge alternative?
+
+822
+00:52:22,000 --> 00:52:22,300
+Mislim,
+
+823
+00:52:23,120 --> 00:52:24,260
+bili smo, da je zelo dober
+
+824
+00:52:27,900 --> 00:52:28,500
+po
+
+825
+00:52:28,620 --> 00:52:33,160
+je bil zelo, da so odgovorili, v bistvu, kako bi rekel, takrat v rogu,
+
+826
+00:52:33,160 --> 00:52:35,860
+ko smo šli tudi v rok gledati, pa potem še eno srednjo prakso,
+
+827
+00:52:35,890 --> 00:52:39,700
+bom rekel, da je različna okolja, ampak so pokrili dejansko vs UX,
+
+828
+00:52:40,720 --> 00:52:45,260
+če tak gledamo. Vse scenarije, vse, ni bilo ene stvari,
+
+829
+00:52:45,660 --> 00:52:51,020
+ki v bistvu ne bi bila pokrita s tem. Zdaj pa če je zbran,
+
+830
+00:52:51,060 --> 00:52:58,820
+bo v bistvu, ta vendor v smislu je potem še integracija s tem vendorem.
+
+831
+00:52:59,270 --> 00:53:06,780
+Se pravi, vsi ti urniki, možna odklepanja, potem zasilni vzhodi,
+
+832
+00:53:07,640 --> 00:53:12,240
+kak se odpira, kak se odklepa, ali so magnetne ključance ali niso.
+
+833
+00:53:12,250 --> 00:53:17,040
+Se pravi, vse te opcije so majovani v bistvu pokrite.
+
+834
+00:53:17,060 --> 00:53:22,900
+Ok, super. Če imaš svoj rezervacijski sistem, potem samo lahko sporočaš te dogodke njim in...
+
+835
+00:53:22,920 --> 00:53:30,100
+Drži, drži. In oni to znam izprogramirajo svoj backend in...
+
+836
+00:53:30,420 --> 00:53:38,300
+Aha, se pravi, to je tudi slovenski software in to ni reseller, to so dejansko rezervacijsko.
+
+837
+00:53:38,300 --> 00:53:40,220
+Ne, dejansko njihov razvoj, ja, ja, ja.
+
+838
+00:53:42,620 --> 00:53:44,960
+Tudi hardware so naredi svoj, tako da...
+
+839
+00:53:45,140 --> 00:53:46,420
+Voj hardware so naredi.
+
+840
+00:53:46,540 --> 00:53:52,880
+Tudi svoj hardware. Poznam tudi če eno, ne vem, recimo, niso edini, vem, da četrta pot je recimo tudi ena.
+
+841
+00:53:52,920 --> 00:53:55,700
+Četrta pot je, ne? Slovenska klasika.
+
+842
+00:53:56,450 --> 00:54:03,580
+Ja, ki imajo svoj recimo tudi hardware in sistem, bom rekel, tudi slo dost izpostavljajo.
+
+843
+00:54:04,620 --> 00:54:10,080
+Z vsemi temi security measures, ne vem, šifriranjem, povezavnem tako naprej.
+
+844
+00:54:13,680 --> 00:54:26,820
+Ok, cool. To še bomo tudi pogledali polja. Jaz mislim, da se zaenkrat bolj nagivamo k lastnemu rezervatijskem sistemu, ko sporoča dogodke noter. Ampak bomo še igli.
+
+845
+00:54:28,620 --> 00:54:36,920
+Cool. Opa, imam jaz samo še plačilne sisteme kot temu. Ste že v katerem od teh projektov integrirali kakre plačilne sisteme?
+
+846
+00:54:37,720 --> 00:54:38,120
+Centralka.
+
+847
+00:54:39,140 --> 00:54:39,620
+Centralka.
+
+848
+00:54:40,380 --> 00:54:56,400
+S tem, da je tu spet, sem pa tudi v petek to zvedel, da se pravi, tle imamo integracijo z Larisa, sodelok, ki je v bistvu zvelala ta projekt zvedla več, ampak tle imamo top up.
+
+849
+00:54:58,800 --> 00:55:09,400
+Se pravi, mi naložimo dobro imetje in potem pač koristimo to. Si naloži sredstva in potem plačuješ bus, kolesce in tako.
+
+850
+00:55:11,640 --> 00:55:32,420
+S tem, da to bi bila potem varianta, da bi tudi uporabil mogoče ta plačivni sistem. Mislim, da to bi bilo treda pred Banki Slovenije preveriti, če je to možno koristiti tudi ta sredstva še za kje drugega.
+
+851
+00:55:34,380 --> 00:55:36,960
+Ampak to bi, v principu, mogli biti neki mestni servisi.
+
+852
+00:55:38,700 --> 00:55:39,500
+Tisno sredstvo.
+
+853
+00:55:40,500 --> 00:55:40,620
+Ja.
+
+854
+00:55:42,140 --> 00:55:42,720
+Ti si,
+
+855
+00:55:43,840 --> 00:55:45,860
+ko včasih na urbani si naložiš
+
+856
+00:55:46,000 --> 00:55:46,240
+cash gov.
+
+857
+00:55:46,260 --> 00:55:47,140
+Kako, tako što.
+
+858
+00:55:47,140 --> 00:55:48,860
+Ja, razumem. Zakaj pa imam?
+
+859
+00:55:49,380 --> 00:55:50,240
+In zakaj ga lahko,
+
+860
+00:55:51,620 --> 00:55:53,180
+ne vem, mislim, da je potem glede na,
+
+861
+00:55:54,040 --> 00:55:55,240
+da oni dovolijo, da lahko ti
+
+862
+00:55:55,240 --> 00:55:56,320
+v bistvu transakcije.
+
+863
+00:55:57,560 --> 00:55:57,700
+Ja.
+
+864
+00:55:58,640 --> 00:56:00,660
+Pa saj tu je še vprašanje pol tudi, če bo to
+
+865
+00:56:00,780 --> 00:56:02,960
+MCC upravljal, pa so to pol različni
+
+866
+00:56:03,080 --> 00:56:04,220
+računi in tak naprej.
+
+867
+00:56:04,980 --> 00:56:07,460
+Ne vem, kak bi to kaj.
+
+868
+00:56:07,700 --> 00:56:12,300
+Mislim, možno je, možno je vse, ampak zna biti komplicirano za setupirati.
+
+869
+00:56:13,200 --> 00:56:36,000
+Tako, se prej, sprašujem nasplošno, koliko je nekih tih custom plačilnih sistemov, zato ker zani sem pri tadeju, zani, tudi jaz sem slišal, da pa oni recimo za nakup kart, ne, uporabljajo pa tisti olaj, ne, in pač čisto eksterni servis, tako je tu je zani to vprašanje te neke...
+
+870
+00:56:36,020 --> 00:56:36,980
+Zunanja platforma.
+
+871
+00:56:37,510 --> 00:56:38,960
+Ja, ali pa zunanja platforma.
+
+872
+00:56:46,160 --> 00:56:47,160
+Ne vem, zaraz jaz zez,
+
+873
+00:56:47,660 --> 00:56:48,720
+vem, da imamo recimo za
+
+874
+00:56:50,360 --> 00:56:51,320
+te elektronske vloge,
+
+875
+00:56:52,800 --> 00:56:53,500
+imamo prav
+
+876
+00:56:53,580 --> 00:56:54,340
+posebej portal,
+
+877
+00:56:55,440 --> 00:56:55,780
+vsaj tudi,
+
+878
+00:56:57,140 --> 00:56:58,360
+se pravi, e-uprava, spot,
+
+879
+00:56:59,140 --> 00:57:00,840
+ima tudi to, ne, se pravi, plačilo taks.
+
+880
+00:57:01,620 --> 00:57:02,540
+Plačilo taks, imamo,
+
+881
+00:57:02,920 --> 00:57:04,660
+zez trenutno smo še per komercialnem
+
+882
+00:57:04,700 --> 00:57:05,880
+ponudniku in on ima
+
+883
+00:57:06,700 --> 00:57:07,420
+to signoteh,
+
+884
+00:57:08,520 --> 00:57:09,860
+oni imajo, se pravi, ko priješ do
+
+885
+00:57:10,480 --> 00:57:12,120
+plačilo opravne takse za neko vlogo,
+
+886
+00:57:12,440 --> 00:57:13,680
+lokacijsko informacijo, recimo
+
+887
+00:57:14,420 --> 00:57:16,620
+par deset evrov, klikneš plačilo
+
+888
+00:57:16,680 --> 00:57:18,080
+in potem imaš možnost
+
+889
+00:57:18,280 --> 00:57:20,140
+online plačila. In oni imajo naredne
+
+890
+00:57:20,260 --> 00:57:21,860
+integracije, imajo tudi flik,
+
+891
+00:57:23,440 --> 00:57:24,220
+imel so en bills,
+
+892
+00:57:24,540 --> 00:57:26,460
+pa so zdaj, kino imaš
+
+893
+00:57:26,620 --> 00:57:27,440
+valu, imaš
+
+894
+00:57:28,380 --> 00:57:29,060
+plačilni nalog.
+
+895
+00:57:29,820 --> 00:57:31,580
+Tudi plačilni sistem imamo
+
+896
+00:57:32,020 --> 00:57:32,980
+zdaj državan,
+
+897
+00:57:33,380 --> 00:57:34,600
+Ča, ni. Na njima ima.
+
+898
+00:57:35,360 --> 00:57:35,580
+Ujp.
+
+899
+00:57:38,780 --> 00:57:39,680
+Možno, to ne poznam.
+
+900
+00:57:40,600 --> 00:57:44,120
+Zdaj, tu je integracijo zadi z Ujpom, se pravi, ti plačaš nekaj prek,
+
+901
+00:57:44,340 --> 00:57:49,700
+prek tako maždavčno, se pravi, ti izbereš tam plačilo, te vrže na flik,
+
+902
+00:57:49,780 --> 00:57:55,200
+zadi bi se ti ponudi, plačaš in te presmeri nazaj.
+
+903
+00:57:56,780 --> 00:58:00,820
+Se pravi, v zadju je tudi ple v tem primeru elektronskih polovok,
+
+904
+00:58:01,440 --> 00:58:09,140
+lahko ti tudi s tem plačaš in potem dobi naša računovodstvo informacijo, da je plačeno.
+
+905
+00:58:10,500 --> 00:58:13,540
+Preko plačilnega prometa, preko ujpa.
+
+906
+00:58:14,800 --> 00:58:17,100
+To je isto stvar, e-davki imajo tudi to.
+
+907
+00:58:17,450 --> 00:58:19,060
+Ja, to so hodili.
+
+908
+00:58:21,120 --> 00:58:22,220
+A imajo isto e-davki?
+
+909
+00:58:23,500 --> 00:58:26,180
+Ta sistem, če daš tam...
+
+910
+00:58:26,770 --> 00:58:30,220
+A ja, to je ta komercijalna sistem, kaj ga vi uporabljate.
+
+911
+00:58:30,920 --> 00:58:33,020
+imajo na enak način to implementiranje.
+
+912
+00:58:33,480 --> 00:58:34,520
+Pa ni izči vendor?
+
+913
+00:58:37,140 --> 00:58:38,320
+Ne, Sigma Tech je
+
+914
+00:58:39,120 --> 00:58:40,880
+čist gospodarska
+
+915
+00:58:42,160 --> 00:58:42,900
+Sigma Tech.
+
+916
+00:58:44,440 --> 00:58:45,280
+Lahko greste
+
+917
+00:58:45,280 --> 00:58:45,640
+pa tudi na
+
+918
+00:58:47,119 --> 00:58:49,240
+celje.e-opcij
+
+919
+00:58:49,240 --> 00:58:49,740
+na.si,
+
+920
+00:58:51,760 --> 00:58:52,780
+pa boste videli tamle
+
+921
+00:58:52,880 --> 00:58:53,980
+eno
+
+922
+00:58:56,220 --> 00:58:57,080
+asico, mislim,
+
+923
+00:58:57,080 --> 00:58:57,860
+da je tam desno.
+
+924
+00:58:58,540 --> 00:58:59,680
+Boste videli plačilne sredstva.
+
+925
+00:59:01,480 --> 00:59:01,980
+nevedena.
+
+926
+00:59:04,340 --> 00:59:05,220
+Aha, ok.
+
+927
+00:59:19,520 --> 00:59:20,960
+Kako si reko celje, i, u?
+
+928
+00:59:21,900 --> 00:59:22,480
+Celje, pika,
+
+929
+00:59:23,280 --> 00:59:24,720
+e minus, opcina.
+
+930
+00:59:25,330 --> 00:59:25,860
+A, minus.
+
+931
+00:59:26,720 --> 00:59:28,180
+Minus, opcina, pika, si.
+
+932
+00:59:35,500 --> 00:59:35,740
+Vidite?
+
+933
+00:59:35,740 --> 00:59:35,780
+Vidite?
+
+934
+00:59:38,000 --> 00:59:38,220
+Ja.
+
+935
+00:59:38,920 --> 00:59:40,320
+Načini plačila obodaje
+
+936
+00:59:40,540 --> 00:59:43,140
+ne piše, kdo je vendor.
+
+937
+00:59:45,420 --> 00:59:45,720
+Kdo je?
+
+938
+00:59:46,900 --> 00:59:49,320
+Če skrolate čist na dno,
+
+939
+00:59:49,570 --> 00:59:50,660
+do nogi, desno spoditi.
+
+940
+00:59:50,680 --> 00:59:51,420
+Pigmateh.
+
+941
+00:59:52,780 --> 00:59:53,480
+To so oni.
+
+942
+00:59:54,680 --> 00:59:56,360
+Ampak imaš druge ponudnike,
+
+943
+00:59:56,390 --> 00:59:58,260
+ki na podoben način
+
+944
+00:59:58,580 --> 01:00:00,140
+tako so integrirali
+
+945
+01:00:00,460 --> 01:00:01,400
+ta plačilna sredstva.
+
+946
+01:00:01,600 --> 01:00:01,760
+Zdaj
+
+947
+01:00:05,040 --> 01:00:05,540
+v zadju
+
+948
+01:00:05,540 --> 01:00:07,020
+je to pač vezano, se pravi, mi,
+
+949
+01:00:07,090 --> 01:00:08,400
+ko smo tole delali, smo
+
+950
+01:00:09,400 --> 01:00:10,240
+izpolnali vlogo
+
+951
+01:00:11,440 --> 01:00:13,160
+na Ujpu in smo napisali, kdo bo to
+
+952
+01:00:13,340 --> 01:00:15,300
+delal, ne? Odal
+
+953
+01:00:15,400 --> 01:00:17,100
+vlogo in se pravi, na ta način smo njih
+
+954
+01:00:17,200 --> 01:00:19,080
+povlastili, da lahko oni v našem
+
+955
+01:00:19,240 --> 01:00:20,020
+imenu v bistvu
+
+956
+01:00:21,820 --> 01:00:22,720
+ta plačila pač
+
+957
+01:00:24,200 --> 01:00:24,640
+izvajajo.
+
+958
+01:00:25,440 --> 01:00:26,820
+Prek integracije na Ujp, ne?
+
+959
+01:00:30,320 --> 01:00:31,720
+Ok.
+
+960
+01:00:59,000 --> 01:01:11,340
+V glavnem vidim, da so dva tipa plačili. Eno so plačila za rezervacije prostorov, se pravi, plesno društvo si buka sobo, plača za njo, drugo so pa nakupi kart za te porane.
+
+961
+01:01:12,310 --> 01:01:20,280
+To je pa treba razmisliti res nekaj eksterni vendori ali event braj, olaj, če to res vse pokrije.
+
+962
+01:01:25,580 --> 01:01:27,060
+Imam še eno stvar, sem sekunda.
+
+963
+01:01:33,920 --> 01:01:35,280
+Ja, prostor sem sodelal,
+
+964
+01:01:35,350 --> 01:01:36,780
+da gremo.
+
+965
+01:01:38,200 --> 01:01:39,240
+Spomni sem se eno stvar,
+
+966
+01:01:39,240 --> 01:01:40,420
+ki jo mapa prijma zelo,
+
+967
+01:01:41,240 --> 01:01:41,760
+se mi je zdel
+
+968
+01:01:43,920 --> 01:01:44,460
+ful dober feature.
+
+969
+01:01:45,180 --> 01:01:47,300
+Oni omogočajo v tem njihovem rezervacijskim
+
+970
+01:01:47,520 --> 01:01:48,560
+sistemu in tudi tem back-endu,
+
+971
+01:01:48,560 --> 01:01:48,900
+se pravi,
+
+972
+01:01:50,790 --> 01:01:51,640
+v porabo žetonov.
+
+973
+01:01:52,280 --> 01:01:53,300
+Se pravi, ti recimo
+
+974
+01:01:54,220 --> 01:01:55,100
+kupiš, ne vem,
+
+975
+01:01:55,720 --> 01:02:00,000
+imaš na voljo 50 žetonov in potem ti na določena prestore
+
+976
+01:02:03,319 --> 01:02:09,440
+se pravi, obesiš kot neko valuto. Sprej nekaj velika dvoran je 20 žetonov,
+
+977
+01:02:10,620 --> 01:02:16,520
+mala dvorance je 5 žetonov. In ti recimo kupiš 50 žetonov, plačaš in pa ti
+
+978
+01:02:16,780 --> 01:02:22,560
+sistem noter, imaš pa ti v svojem top upu, v Apple imaš pa nekaj tok žetonov
+
+979
+01:02:22,580 --> 01:02:26,920
+in potem koristiš ti dvoranje, dokaj nisi pokural vse žetonje, pa pa kupiš novo.
+
+980
+01:02:27,220 --> 01:02:32,240
+Sprej, ne ni per rezervacijo, per transakcijo, mogoče lahko tu naredimo neko optimizacijo.
+
+981
+01:02:32,620 --> 01:02:39,780
+In preko nekih žetonov, ki jih oni to podpirajo, bi mogoče lahko to optimizacijo naredimo.
+
+982
+01:02:40,360 --> 01:02:41,420
+A oni imajo tudi plačila?
+
+983
+01:02:43,660 --> 01:02:48,180
+Ampak to je, bo je rekel, na nivoju žetona.
+
+984
+01:02:48,180 --> 01:02:48,680
+Access kontrola.
+
+985
+01:02:49,380 --> 01:02:52,560
+Ja, ja, ja, access control na podlagi nekih žetonov.
+
+986
+01:02:52,800 --> 01:02:53,500
+Zdaj, kak je to to?
+
+987
+01:02:53,500 --> 01:02:56,240
+No, ampak torej, oni imajo očitno nek neka plačil.
+
+988
+01:02:56,760 --> 01:02:58,020
+Zdaj, payment pa ne vem,
+
+989
+01:02:58,600 --> 01:03:00,300
+payment pa ne vem, kak je dejansko naredi.
+
+990
+01:03:00,700 --> 01:03:01,700
+Lahko je to samo nekaj kredi,
+
+991
+01:03:01,900 --> 01:03:04,460
+pa po mojem na koncu mesele se to vodi nek,
+
+992
+01:03:05,240 --> 01:03:07,580
+pa se naredi izpis, pa se payment nekaj druge naredi.
+
+993
+01:03:08,540 --> 01:03:10,600
+To ne vem, to bi recimo mogli se zanimati,
+
+994
+01:03:10,820 --> 01:03:12,480
+glede implementacije, tog davče nismo šli,
+
+995
+01:03:12,480 --> 01:03:17,720
+da bi vedel dejansko kakvo transakcije same leti.
+
+996
+01:03:18,840 --> 01:03:21,540
+Vem, da imajo to možnost, kar sem izdel zelo fajn.
+
+997
+01:03:21,640 --> 01:03:25,300
+Se pravi, ti kot čudent dobiš, ne vem, na kaj ni za glasbo, ne vem,
+
+998
+01:03:26,680 --> 01:03:30,680
+sto žetono, ne? Pa imaš, pa imaš, ne vem, to pomeni, ne vem,
+
+999
+01:03:30,840 --> 01:03:33,560
+toliko krat na teden si lahko rezerviraš ali pa znotri enega semestra
+
+1000
+01:03:33,660 --> 01:03:38,480
+imaš na uporabo, ne? In pa pa ti malo presojaš, koliko krat boš si rezerviral.
+
+1001
+01:03:40,500 --> 01:03:43,320
+Nek prosto, ne? Lega skuriš v dveh tednih lahko imaš za,
+
+1002
+01:03:44,000 --> 01:03:46,140
+odvisno, ne? Ko boš vado, ne?
+
+1003
+01:03:46,760 --> 01:04:16,620
+Ampak ja, ne vem, recimo, ne, blakšen tudi nek policy, kar bi se mi zdel zelo fajn, razmišljam, se pravi, zdaj, vrejko, to je pa čist moj pogled, ne, če bi šlo, bi rekel, off the record, če se tole snema, če imamo recimo neke razpise, pa je dobro neko kulturno društvo, ne vem, neki, se pravi, je neko dobre nasrezo, ali bi bil del tega namenjen za najem,
+
+1004
+01:04:17,500 --> 01:04:46,160
+pa ne bi bilo tudi jansko cash, ampak bi bilo to neke kreditne točke, ki bi se lahko potem za ta namen in bi recimo oni dobili v sistemu neke žetone, ne, da bi pa oni za tudi svoj program pač to koristili, ne, bi se lahko temu izognali nekemu, mogoče neposrednemu plačevanju, ne, pa nekemu fijo za neke transakcije, ki bi lahko že pokril mi za nekimi žetoni v tem kontekstu, ne, pa bi na nek način tudi spodbujali, oni so že dobili sredstva,
+
+1005
+01:04:46,760 --> 01:04:48,600
+v okviru teh sredstev smo že, se pravi tukaj,
+
+1006
+01:04:48,880 --> 01:04:50,260
+pa nimeš dejansko nobenega
+
+1007
+01:04:50,920 --> 01:04:52,760
+dodatnega fija pa manipulacije,
+
+1008
+01:04:54,280 --> 01:04:55,360
+jih kratlih pa pripeleš
+
+1009
+01:04:55,480 --> 01:04:56,900
+noter v nek prostor. Če bi
+
+1010
+01:04:57,540 --> 01:04:58,800
+to bil recimo pač nek
+
+1011
+01:04:58,860 --> 01:04:59,100
+recimo
+
+1012
+01:05:01,560 --> 01:05:03,000
+model, kakšenkolik postavni
+
+1013
+01:05:03,100 --> 01:05:03,780
+rečemo temu,
+
+1014
+01:05:05,820 --> 01:05:06,940
+kak bi mi spodbujali
+
+1015
+01:05:07,140 --> 01:05:08,540
+uporadnike, da bi to najeljno.
+
+1016
+01:05:09,420 --> 01:05:10,820
+Ne zelo vse, ampak mogoče tiste,
+
+1017
+01:05:10,820 --> 01:05:11,360
+ki bi pa bili
+
+1018
+01:05:13,480 --> 01:05:14,720
+potencijalni kritični za
+
+1019
+01:05:15,080 --> 01:05:16,720
+uporabo teh prostorov, bi jih pa lahko
+
+1020
+01:05:16,740 --> 01:05:17,920
+način mogoče pripelaviti.
+
+1021
+01:05:18,230 --> 01:05:19,600
+To je ful labre, da je v bistvu.
+
+1022
+01:05:20,810 --> 01:05:20,940
+Jo.
+
+1023
+01:05:21,920 --> 01:05:22,300
+Išlo.
+
+1024
+01:05:25,460 --> 01:05:25,820
+Ok.
+
+1025
+01:05:25,820 --> 01:05:27,360
+Ja bom pogledat, tole je primo, ja.
+
+1026
+01:05:29,700 --> 01:05:30,740
+To sem nam tako predstavljali,
+
+1027
+01:05:30,820 --> 01:05:31,660
+pravzitem je žetovni pas,
+
+1028
+01:05:32,240 --> 01:05:33,480
+jaz tako zazstrigal z dušesi,
+
+1029
+01:05:33,680 --> 01:05:35,940
+ki mi je bilo, mislim,
+
+1030
+01:05:36,110 --> 01:05:36,900
+bil dober fičar.
+
+1031
+01:05:39,800 --> 01:05:40,520
+Jaz bom se všem.
+
+1032
+01:05:41,400 --> 01:05:42,660
+Može, če bojamo sami glede
+
+1033
+01:05:42,760 --> 01:05:44,400
+transakciji in plačevanja,
+
+1034
+01:05:44,540 --> 01:05:45,660
+mogoče zelo, le risetu,
+
+1035
+01:05:46,260 --> 01:05:47,900
+Z mano pa mogoče lahko nima,
+
+1036
+01:05:48,040 --> 01:05:49,220
+direktno pravšam,
+
+1037
+01:05:50,340 --> 01:05:51,240
+če imaš te izkušnje.
+
+1038
+01:05:55,020 --> 01:05:55,500
+Glede...
+
+1039
+01:05:58,160 --> 01:05:58,580
+Rekla sem,
+
+1040
+01:05:59,240 --> 01:05:59,620
+sam sekunda.
+
+1041
+01:06:00,020 --> 01:06:00,640
+ki jah, ne.
+
+1042
+01:07:31,460 --> 01:07:43,880
+Zdravljati, jaz pač vem, da je potrebno v tem primeru potem imeti izbrano banko, ki pač v bistvu angažira bankart.
+
+1043
+01:07:44,280 --> 01:07:45,460
+Ne banka Slovenija, bankart.
+
+1044
+01:07:45,540 --> 01:07:46,460
+bankat, ja.
+
+1045
+01:07:48,360 --> 01:07:51,060
+In potem pač z integratorja more za odreden,
+
+1046
+01:07:51,060 --> 01:07:53,220
+se pravi, izbranil ponudnjekom sistema.
+
+1047
+01:07:54,640 --> 01:07:58,240
+Tudi vsega transakcija ima nekaj provizijo,
+
+1048
+01:07:59,240 --> 01:08:02,820
+pač ni pa odvisno, ali jo plačuje občina,
+
+1049
+01:08:03,060 --> 01:08:06,080
+ali jo plača sama stranka.
+
+1050
+01:08:06,490 --> 01:08:09,280
+S tem, da je strankom, ki zdel ve, vedano še
+
+1051
+01:08:09,740 --> 01:08:12,700
+nekajte mikrotransakcije cash cash,
+
+1052
+01:08:14,100 --> 01:08:18,759
+Kjer je pač skreva biti providno, da se pa z banko skreva spreha direktno.
+
+1053
+01:08:21,160 --> 01:08:24,779
+Ampak pač točetajte banka, banka, banka.
+
+1054
+01:08:25,420 --> 01:08:32,440
+Tako da centralka ima integracijo direktno z bankkartom ni nobenega drugega plačilnega,
+
+1055
+01:08:33,259 --> 01:08:38,160
+mestnika prej, da vem, strajpi in podobni.
+
+1056
+01:08:39,080 --> 01:08:51,480
+Imamo še opcijo Paypal-a, ampak je ta opcija ful draga, tako da upam, da bomo v tem letu integrirali slik, pa bomo pa ceno biskutiti PayPal stranem.
+
+1057
+01:08:52,980 --> 01:09:00,960
+Pa da se, PayPal je pa res zelo... Me zanima koliko kaj je, pa dejansko uporablja kdo PayPal, pa čujek dozbo za Paypal-om?
+
+1058
+01:09:01,600 --> 01:09:03,600
+Dejo, skorba češi kar dostih je.
+
+1059
+01:09:04,160 --> 01:09:04,900
+A tako? Ok.
+
+1060
+01:09:05,759 --> 01:09:13,160
+Ampak mislim dost. Glede na to, kak je provizija, imamo recimo po 300 do 500 evrov provizij na mesec.
+
+1061
+01:09:14,359 --> 01:09:14,819
+Ok.
+
+1062
+01:09:15,279 --> 01:09:22,420
+Na letni ravni, kar na nas, kaj glede na to, da bi pa za volje tega lahko boči kdorih, kakor druga storitev čarno.
+
+1063
+01:09:22,640 --> 01:09:25,520
+Al pa recimo kaj nadgradil samo aplikacijo.
+
+1064
+01:09:26,480 --> 01:09:33,120
+A pri sliko pa mislim, da je desetkrat manj, če naše več. Res je bil manj širpilina.
+
+1065
+01:09:33,880 --> 01:09:35,700
+Kateri se naj praviško valga.
+
+1066
+01:09:40,160 --> 01:09:46,120
+Bankač slik, da si to ok, ne? Je ta pogodba, da ti zreklim na bankač, kakim vrem?
+
+1067
+01:09:46,410 --> 01:09:49,000
+Ne, na banko. Ti mužem vrežbanko.
+
+1068
+01:09:49,460 --> 01:09:53,020
+Na drugom banku pač če odrečno, od
+
+1069
+01:10:49,460 --> 01:10:54,240
+Tukaj vidim malo živ, verjetno bojo tisti, če bojo reviduiral,
+
+1070
+01:10:54,240 --> 01:10:58,400
+bi tudi pa pa biliščila podrečja in centralca pa v bistvu
+
+1071
+01:10:58,500 --> 01:11:00,480
+je vzvank razreza na ena fizija, na sedel.
+
+1072
+01:11:01,880 --> 01:11:05,500
+In to, kao v bistvu rečujem, je na fizičnem stebom,
+
+1073
+01:11:06,320 --> 01:11:11,040
+in na vzvijena, če na, ja, oni si pa ponavadi dajo neke stroške po te svoji.
+
+1074
+01:11:11,320 --> 01:11:14,800
+Različno bi v centralci tudi razmišljali o tej integraciji,
+
+1075
+01:11:14,820 --> 01:11:20,500
+ki to bi bilo nekak, bomo tudi bili cenovne okvire, koli bi nas to prišlo,
+
+1076
+01:11:21,800 --> 01:11:25,260
+v primeru, da je pa to mezi pa oblo, zanimivo je tudi da jutra.
+
+1077
+01:11:26,260 --> 01:11:32,520
+- To sem že prijel, da bomo. - Ne vem, to nisem, da bomo sta še stvari.
+
+1078
+01:11:35,120 --> 01:11:39,920
+Bi pa bilo znamen zamezu tudi do tega, ker potem delamo s tem nek krosel,
+
+1079
+01:11:40,560 --> 01:11:48,380
+da si pač maložili nekaj sredstva res na centralci, kje je načna nešna aplikacija in lahko uporabljajo za dračno nameno.
+
+1080
+01:11:49,260 --> 01:11:51,640
+Pač nadal sem že bilo s to aplikacijo.
+
+1081
+01:11:52,580 --> 01:12:01,380
+To je bilo nekaj skorba, kot organizacijo, ki bi to razlihvali, pa bila bi v nekaj način.
+
+1082
+01:12:02,500 --> 01:12:10,540
+Če bo, ja, drugače pa pač če bom ti imeli bolj spletno varijanto, pa itak obstavljali,
+
+1083
+01:12:10,580 --> 01:12:12,280
+da bi bilenčani bo počnega.
+
+1084
+01:12:13,040 --> 01:12:18,320
+Vi imel pa še pet spleta registracija, da bi še pet spleta se registrirali,
+
+1085
+01:12:20,440 --> 01:12:21,340
+da bi še do zavidne.
+
+1086
+01:12:23,960 --> 01:12:26,420
+Različe pač res šta predvede.
+
+1087
+01:12:52,139 --> 01:12:56,760
+Zdaj mogoče že za to fazo malo pregloboko gremo, pa bi mogoče kdaj.
+
+1088
+01:12:57,300 --> 01:13:02,140
+Kdaj kasneje imeli še tako pogovarjam, ampak hola, la, dica, za zaimno.
+
+1089
+01:13:05,500 --> 01:13:06,580
+Za informacije, ja.
+
+1090
+01:13:07,120 --> 01:13:08,580
+Ok, dvaj.
+
+1091
+01:13:09,420 --> 01:13:16,660
+Dušan, jaz imel samo še eno vprašanje, glede magnet, saba, če je bilo mišljeno kaj, da bi se sližo?
+
+1092
+01:13:21,260 --> 01:13:21,500
+Ok.
+
+1093
+01:13:22,100 --> 01:13:23,680
+Da bi priklopili nazajno s vsečarke.
+
+1094
+01:13:23,860 --> 01:13:24,180
+Ja, ja.
+
+1095
+01:13:24,300 --> 01:13:25,320
+Zdaj, nekaj.
+
+1096
+01:13:54,300 --> 01:14:01,020
+celje nekje plat za kupovanje kart specifično za kaj hodom oziroma za magnet.
+
+1097
+01:14:02,810 --> 01:14:07,360
+Ne za rezervacijo prostora, ampak karte za dogodke, če bom mišljeno, da mora biti tam
+
+1098
+01:14:07,760 --> 01:14:08,580
+odprta karkoli.
+
+1099
+01:14:11,020 --> 01:14:20,380
+Ne vem zares. Zdaj, kaj se tiče ljudi dobro, je to v domeni, ne vem, MCC.
+
+1100
+01:14:22,580 --> 01:14:30,660
+Ne verjam, da ni mislo občina prezirna, da je tudi, da je še dodatno ta servis, ampak pri to strani mogoče bodi si pretentice, bodi si izdavljala cele.
+
+1101
+01:14:31,480 --> 01:14:31,920
+Ok.
+
+1102
+01:14:32,580 --> 01:14:43,760
+Ker on ima zagotke, on ima svoje blagajnje, te utečenje, preko smo dogrili integracij, spet v stranje zvekšitezice.
+
+1103
+01:14:44,800 --> 01:14:49,080
+To je ta nekaj, in prekno zavod celja matico.
+
+1104
+01:15:20,000 --> 01:15:20,920
+bolj to, kot je nekaj.
+
+1105
+01:15:23,660 --> 01:15:24,540
+Če razumem prav,
+
+1106
+01:15:24,540 --> 01:15:25,260
+na unim bil,
+
+1107
+01:15:26,600 --> 01:15:27,240
+nekaj delovanja,
+
+1108
+01:15:28,220 --> 01:15:28,920
+nekaj, da ti to bojo.
+
+1109
+01:15:29,840 --> 01:15:30,880
+Zdaj, da imam predvij,
+
+1110
+01:15:31,020 --> 01:15:35,400
+če imam predvij, če imam, če imam, če imam, če imam, č
+
+1111
+01:15:51,000 --> 01:15:53,420
+Hvala dušam, da si se odeležil.
+
+1112
+01:15:53,560 --> 01:15:55,420
+Jaz sem se sve povedal.
+
+1113
+01:15:57,380 --> 01:16:02,160
+Jaz bom še zihr prišel, kaj nazaj tudi, ko pogledam in decap in tisti turbo, ne?
+
+1114
+01:16:02,460 --> 01:16:06,620
+Decap turbo pa prijmo pa to, ampak kasneje.
+
+1115
+01:16:07,700 --> 01:16:21,060
+Če potrebno, da še kaj, pa lahko iztepče, kaj raziščem še, se pa se nisam, prav da, še se pravi, mi zdaj to, maj si spredil, seveda, če potrebno, ne znam, da te potrebno, da lahko ti počal, zase.
+
+1116
+01:16:22,420 --> 01:16:23,620
+Ok, štima. Hvala.
+
+1117
+01:16:24,500 --> 01:16:25,280
+Hvala, dobi se.
+
+1118
+01:16:25,820 --> 01:16:26,440
+Se vidimo.
+
+1119
+01:16:26,600 --> 01:16:26,760
+Adio.
+

@@ -1,0 +1,905 @@
+{
+  "metadata": {
+    "purpose": "Temporary seed data for spaces until records live in a real database.",
+    "source": "Migrated from specs/space-inventory.md",
+    "migratedAt": "2026-08-12",
+    "status": "source-derived working data",
+    "notes": [
+      "Specs define requirements; this file contains actual space records.",
+      "Keep source files in sources/ read-only.",
+      "Move this data into the platform database when the database exists."
+    ]
+  },
+  "spaces": [
+    {
+      "id": "velika-dvorana",
+      "slug": "velika-dvorana",
+      "status": "draft",
+      "sourceGroup": "DOM",
+      "name": "Velika dvorana",
+      "roomNumber": "TBD",
+      "floor": "klet",
+      "shortDescription": "Glavna večja dvorana za dogodke, predstave, predstavitve, srečanja in druge javne ali skupnostne programe.",
+      "primaryUse": "večji dogodki in programi",
+      "otherUses": [
+        "predstave",
+        "koncerti",
+        "predavanja",
+        "predstavitve",
+        "skupnostna srečanja",
+        "delavnice"
+      ],
+      "capacityLabel": "TBD; delovna opomba iz prejšnjega popisa: parter 100 m2, oder 20 m2",
+      "equipment": [],
+      "connectedSpaces": [
+        "oder",
+        "zaodrje",
+        "tehnična soba",
+        "garderoba nastopajočih",
+        "shramba za rekvizite"
+      ],
+      "importantInfo": "pomemben prostor za najem in izvedbo dogodkov",
+      "dimensionsNote": "TBD",
+      "areaLabel": "TBD; delovna opomba: parter + oder 120 m2, brez podpornih prostorov",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD; vključiti pravila za dogodke, uporabo odra, tehnike, garderob in opreme",
+      "accessibilityNote": "TBD; pripraviti kratko pojasnilo o dostopu, dvigalu in dostopnosti za gibalno ovirane",
+      "type": "hall",
+      "availabilityStatus": "available-for-inquiry",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "capacityLabel",
+        "dimensionsNote",
+        "areaLabel",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "ulicna-galerija",
+      "slug": "ulicna-galerija",
+      "status": "draft",
+      "sourceGroup": "DOM",
+      "name": "Ulična galerija",
+      "roomNumber": "TBD",
+      "floor": "klet",
+      "shortDescription": "Razstavni oziroma predstavitveni prostor ob javnem/uličnem delu hiše.",
+      "primaryUse": "razstave in javne predstavitve",
+      "otherUses": [
+        "instalacije",
+        "manjše predstavitve",
+        "spremljevalni programi dogodkov"
+      ],
+      "capacityLabel": "TBD",
+      "equipment": [],
+      "connectedSpaces": [
+        "velika dvorana",
+        "vhodni oziroma javni deli hiše"
+      ],
+      "importantInfo": "preveriti, ali je prostor samostojno najemljiv ali predvsem programski del hiše",
+      "dimensionsNote": "TBD",
+      "areaLabel": "TBD",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD; vključiti pravila za razstavljanje, montažo, odpiranje in varovanje del",
+      "accessibilityNote": "TBD",
+      "type": "gallery",
+      "availabilityStatus": "available-for-inquiry",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "capacityLabel",
+        "dimensionsNote",
+        "areaLabel",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "galerija-na-stopniscu",
+      "slug": "galerija-na-stopniscu",
+      "status": "draft",
+      "sourceGroup": "DOM",
+      "name": "Galerija na stopnišču",
+      "roomNumber": "TBD",
+      "floor": "klet / stopnišče",
+      "shortDescription": "Razstavni oziroma predstavitveni prostor vezan na stopnišče in vertikalno povezavo v hiši.",
+      "primaryUse": "razstave in predstavitve",
+      "otherUses": [
+        "spremljevalni programi",
+        "intervencije v prostoru",
+        "orientacijska ali interpretacijska vsebina"
+      ],
+      "capacityLabel": "TBD",
+      "equipment": [],
+      "connectedSpaces": [
+        "stopnišče",
+        "ulična galerija",
+        "javni deli hiše"
+      ],
+      "importantInfo": "preveriti, ali se predstavlja kot samostojen najemni prostor ali kot del razstavne poti",
+      "dimensionsNote": "TBD",
+      "areaLabel": "TBD",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD; vključiti omejitve zaradi prehodnosti, varnosti in dostopa",
+      "accessibilityNote": "TBD",
+      "type": "gallery",
+      "availabilityStatus": "available-for-inquiry",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "capacityLabel",
+        "dimensionsNote",
+        "areaLabel",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "mala-dvorana",
+      "slug": "mala-dvorana",
+      "status": "draft",
+      "sourceGroup": "DOM",
+      "name": "Mala dvorana",
+      "roomNumber": "TBD",
+      "floor": "pritličje",
+      "shortDescription": "Manjša dvorana za dogodke, predstavitve, srečanja in programe z manjšim obsegom.",
+      "primaryUse": "dogodki in predstavitve",
+      "otherUses": [
+        "predavanja",
+        "delavnice",
+        "projekcije",
+        "srečanja",
+        "vaje",
+        "manjši nastopi"
+      ],
+      "capacityLabel": "TBD; delovna opomba iz prejšnjega popisa: parter z odrom 70 m2",
+      "equipment": [],
+      "connectedSpaces": [
+        "shramba za rekvizite",
+        "garderoba nastopajočih"
+      ],
+      "importantInfo": "javni prostor za najem in izvedbo programa",
+      "dimensionsNote": "TBD",
+      "areaLabel": "TBD; delovna opomba: 70 m2",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD; vključiti pravila za dogodke, opremo in pripravo prostora",
+      "accessibilityNote": "TBD",
+      "type": "hall",
+      "availabilityStatus": "available-for-inquiry",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "capacityLabel",
+        "dimensionsNote",
+        "areaLabel",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "sestankovalnica",
+      "slug": "sestankovalnica",
+      "status": "draft",
+      "sourceGroup": "DOM",
+      "name": "Sestankovalnica",
+      "roomNumber": "TBD",
+      "floor": "pritličje",
+      "shortDescription": "Prostor za sestanke, manjše skupinsko delo in sodelovalne aktivnosti.",
+      "primaryUse": "sestanki in skupinsko delo",
+      "otherUses": [
+        "delavnice",
+        "manjša srečanja",
+        "svetovanja",
+        "predstavitve",
+        "delo v skupinah"
+      ],
+      "capacityLabel": "TBD",
+      "equipment": [],
+      "connectedSpaces": [],
+      "importantInfo": "v vizualnem gradivu označeno tudi kot `Sodelo / Sestankovalnica`",
+      "dimensionsNote": "TBD",
+      "areaLabel": "TBD",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD; vključiti pravila rezervacije, souporabe in osnovne priprave prostora",
+      "accessibilityNote": "TBD",
+      "type": "meeting-room",
+      "availabilityStatus": "available-for-inquiry",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "capacityLabel",
+        "dimensionsNote",
+        "areaLabel",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "vadbena-dvorana-ples",
+      "slug": "vadbena-dvorana-ples",
+      "status": "draft",
+      "sourceGroup": "DOM",
+      "name": "Vadbena dvorana - ples",
+      "roomNumber": "TBD",
+      "floor": "1. nadstropje",
+      "shortDescription": "Vadbena dvorana za ples, gib, vaje in druge aktivnosti, ki potrebujejo več odprte površine.",
+      "primaryUse": "plesne in gibalne vaje",
+      "otherUses": [
+        "delavnice",
+        "treningi",
+        "manjše skupinske vaje",
+        "priprave na nastope"
+      ],
+      "capacityLabel": "TBD",
+      "equipment": [],
+      "connectedSpaces": [
+        "shrambe rekvizitov in garderobe",
+        "if applicable"
+      ],
+      "importantInfo": "ena od vadbenih dvoran v DOM",
+      "dimensionsNote": "TBD",
+      "areaLabel": "TBD; prejšnji popis navaja vadbene dvorane M v razponu 60-90 m2",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD; vključiti pravila uporabe tal, obutve, glasbe in opreme",
+      "accessibilityNote": "TBD",
+      "type": "practice-room",
+      "availabilityStatus": "available-for-inquiry",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "capacityLabel",
+        "dimensionsNote",
+        "areaLabel",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "vadbena-dvorana-orkester",
+      "slug": "vadbena-dvorana-orkester",
+      "status": "draft",
+      "sourceGroup": "DOM",
+      "name": "Vadbena dvorana - orkester",
+      "roomNumber": "TBD",
+      "floor": "1. nadstropje",
+      "shortDescription": "Vadbena dvorana za orkestrske, glasbene in druge skupinske vaje.",
+      "primaryUse": "glasbene in orkestrske vaje",
+      "otherUses": [
+        "zbori",
+        "ansambli",
+        "delavnice",
+        "priprave na nastope",
+        "skupinska srečanja"
+      ],
+      "capacityLabel": "TBD",
+      "equipment": [],
+      "connectedSpaces": [
+        "shrambe rekvizitov in garderobe",
+        "if applicable"
+      ],
+      "importantInfo": "ena od vadbenih dvoran v DOM",
+      "dimensionsNote": "TBD",
+      "areaLabel": "TBD; prejšnji popis navaja vadbene dvorane M v razponu 60-90 m2",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD; vključiti pravila glede glasnosti, opreme in terminov",
+      "accessibilityNote": "TBD",
+      "type": "practice-room",
+      "availabilityStatus": "available-for-inquiry",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "capacityLabel",
+        "dimensionsNote",
+        "areaLabel",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "mala-vadbena-dvorana",
+      "slug": "mala-vadbena-dvorana",
+      "status": "draft",
+      "sourceGroup": "DOM",
+      "name": "Mala vadbena dvorana",
+      "roomNumber": "TBD",
+      "floor": "1. nadstropje",
+      "shortDescription": "Manjši vadbeni prostor za vaje, priprave in delo v manjših skupinah.",
+      "primaryUse": "manjše vaje in skupinsko delo",
+      "otherUses": [
+        "delavnice",
+        "individualne priprave",
+        "manjši ansambli",
+        "mentorska srečanja"
+      ],
+      "capacityLabel": "TBD",
+      "equipment": [],
+      "connectedSpaces": [
+        "shrambe rekvizitov in garderobe",
+        "if applicable"
+      ],
+      "importantInfo": "manjša enota v sklopu vadbenih prostorov",
+      "dimensionsNote": "TBD",
+      "areaLabel": "TBD; prejšnji popis navaja vadbene dvorane S v razponu 40-50 m2",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD",
+      "accessibilityNote": "TBD",
+      "type": "practice-room",
+      "availabilityStatus": "available-for-inquiry",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "capacityLabel",
+        "dimensionsNote",
+        "areaLabel",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "direktorjeva-pisarna",
+      "slug": "direktorjeva-pisarna",
+      "status": "draft",
+      "sourceGroup": "DOM",
+      "name": "Direktorjeva pisarna",
+      "roomNumber": "TBD",
+      "floor": "1. nadstropje",
+      "shortDescription": "Interni pisarniški prostor za vodenje in operativno delo DOM.",
+      "primaryUse": "interno operativno delo",
+      "otherUses": [
+        "sestanki ekipe",
+        "upravljanje",
+        "administracija"
+      ],
+      "capacityLabel": "interni prostor",
+      "equipment": [
+        "pisarniška oprema"
+      ],
+      "connectedSpaces": [],
+      "importantInfo": "Ni javni prostor in se ne prikazuje v javnem pregledu prostorov.",
+      "dimensionsNote": "TBD",
+      "areaLabel": "TBD",
+      "mediaNote": "TBD",
+      "rulesNote": "Uporaba je omejena na interno ekipo in pooblaščene uporabnike.",
+      "accessibilityNote": "Ni del javne najemne poti.",
+      "type": "office",
+      "availabilityStatus": "limited",
+      "rentalCTA": null,
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "capacityLabel",
+        "dimensionsNote",
+        "areaLabel",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "laboratorij",
+      "slug": "laboratorij",
+      "status": "draft",
+      "sourceGroup": "DOM HUB",
+      "name": "Laboratorij",
+      "roomNumber": "TBD",
+      "floor": "2. nadstropje",
+      "shortDescription": "Prostor za srečanja skupnosti, dogodke, delavnice, predstavitve in eksperimentalne programe.",
+      "primaryUse": "skupnostni in programski laboratorij",
+      "otherUses": [
+        "dnevne razstave",
+        "dogodki",
+        "gledališke ali glasbene vaje",
+        "predstavitve",
+        "delavnice"
+      ],
+      "capacityLabel": "32 sedišč",
+      "equipment": [],
+      "connectedSpaces": [],
+      "importantInfo": "del DOM HUB programa",
+      "dimensionsNote": "TBD",
+      "areaLabel": "48 m2",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD",
+      "accessibilityNote": "TBD",
+      "type": "workshop-room",
+      "availabilityStatus": "coming-soon",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "dimensionsNote",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "pisarna-1",
+      "slug": "pisarna-1",
+      "status": "draft",
+      "sourceGroup": "DOM HUB",
+      "name": "Pisarna 1",
+      "roomNumber": "TBD",
+      "floor": "2. nadstropje",
+      "shortDescription": "Manjša pisarna za mentorsko, podporno ali programsko delo.",
+      "primaryUse": "mentorsko in podporno delo",
+      "otherUses": [
+        "mestni laboratorij",
+        "pisarna urbane prenove",
+        "podporna pisarna CZK",
+        "sestanki"
+      ],
+      "capacityLabel": "4 delovna mesta",
+      "equipment": [],
+      "connectedSpaces": [],
+      "importantInfo": "preveriti, ali je prostor javno najemljiv ali predvsem programsko/podporno namenjen",
+      "dimensionsNote": "TBD",
+      "areaLabel": "26 m2",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD",
+      "accessibilityNote": "TBD",
+      "type": "office",
+      "availabilityStatus": "coming-soon",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "dimensionsNote",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "pisarna-2",
+      "slug": "pisarna-2",
+      "status": "draft",
+      "sourceGroup": "DOM HUB",
+      "name": "Pisarna 2",
+      "roomNumber": "TBD",
+      "floor": "2. nadstropje",
+      "shortDescription": "Manjša pisarna oziroma produkcijski prostor za medijsko in programsko delo.",
+      "primaryUse": "produkcijsko in podporno delo",
+      "otherUses": [
+        "podcasti",
+        "streaming",
+        "jam sessions",
+        "festivalska pisarna",
+        "sestanki"
+      ],
+      "capacityLabel": "4 delovna mesta",
+      "equipment": [],
+      "connectedSpaces": [],
+      "importantInfo": "preveriti, ali je prostor javno najemljiv ali predvsem programsko/podporno namenjen",
+      "dimensionsNote": "TBD",
+      "areaLabel": "27 m2",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD",
+      "accessibilityNote": "TBD",
+      "type": "office",
+      "availabilityStatus": "coming-soon",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "dimensionsNote",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "zbornica-1-coworking",
+      "slug": "zbornica-1-coworking",
+      "status": "draft",
+      "sourceGroup": "DOM HUB",
+      "name": "Zbornica 1 - coworking",
+      "roomNumber": "TBD",
+      "floor": "2. nadstropje",
+      "shortDescription": "Coworking prostor z bolj neformalnim značajem za delo, srečanja in sodelovanje.",
+      "primaryUse": "coworking",
+      "otherUses": [
+        "neformalno delo",
+        "video konference",
+        "nujna srečanja",
+        "hackathoni",
+        "govorilnice",
+        "manjša srečanja"
+      ],
+      "capacityLabel": "25 delovnih mest",
+      "equipment": [
+        "premični pult",
+        "lounge stoli",
+        "čajna kuhinja; ostalo TBD"
+      ],
+      "connectedSpaces": [],
+      "importantInfo": "del DOM HUB programa",
+      "dimensionsNote": "TBD",
+      "areaLabel": "52 m2",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD; vključiti pravila za souporabo, tiho delo, klice in rezervacije",
+      "accessibilityNote": "TBD",
+      "type": "coworking",
+      "availabilityStatus": "coming-soon",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "equipment",
+        "dimensionsNote",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "zbornica-2-coworking",
+      "slug": "zbornica-2-coworking",
+      "status": "draft",
+      "sourceGroup": "DOM HUB",
+      "name": "Zbornica 2 - coworking",
+      "roomNumber": "TBD",
+      "floor": "2. nadstropje",
+      "shortDescription": "Coworking prostor z bolj formalnim značajem za delo, skupine in dogodke.",
+      "primaryUse": "coworking in skupinsko delo",
+      "otherUses": [
+        "formalne oblike dela",
+        "delo v skupinah",
+        "plug-in city",
+        "govorilnice",
+        "dogodki",
+        "sestanki"
+      ],
+      "capacityLabel": "15 delovnih mest",
+      "equipment": [
+        "premične mize",
+        "čajna kuhinja; ostalo TBD"
+      ],
+      "connectedSpaces": [],
+      "importantInfo": "del DOM HUB programa",
+      "dimensionsNote": "TBD",
+      "areaLabel": "56 m2",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD; vključiti pravila za souporabo, rezervacije, dogodke in skupinsko delo",
+      "accessibilityNote": "TBD",
+      "type": "coworking",
+      "availabilityStatus": "coming-soon",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "equipment",
+        "dimensionsNote",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "ucilnica-1",
+      "slug": "ucilnica-1",
+      "status": "draft",
+      "sourceGroup": "DOM HUB",
+      "name": "Učilnica 1",
+      "roomNumber": "TBD",
+      "floor": "2. nadstropje",
+      "shortDescription": "Ena od dveh učilniških enot v DOM HUB za izobraževanja, predavanja, srečanja in delavnice.",
+      "primaryUse": "izobraževanje in delavnice",
+      "otherUses": [
+        "predstavitve",
+        "predavanja",
+        "druženja",
+        "debate",
+        "krožki",
+        "terapije",
+        "konference",
+        "zaključki",
+        "dogodki"
+      ],
+      "capacityLabel": "TBD; delovna opomba: celoten učilniški sklop 129 m2 / 70 sedišč",
+      "equipment": [],
+      "connectedSpaces": [
+        "Učilnica 2"
+      ],
+      "importantInfo": "učilniški sklop je lahko ena večja ali dve manjši specializirani skupnosti",
+      "dimensionsNote": "TBD",
+      "areaLabel": "TBD; celoten učilniški sklop 129 m2",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD",
+      "accessibilityNote": "TBD",
+      "type": "classroom",
+      "availabilityStatus": "coming-soon",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "capacityLabel",
+        "dimensionsNote",
+        "areaLabel",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "ucilnica-2",
+      "slug": "ucilnica-2",
+      "status": "draft",
+      "sourceGroup": "DOM HUB",
+      "name": "Učilnica 2",
+      "roomNumber": "TBD",
+      "floor": "2. nadstropje",
+      "shortDescription": "Druga učilniška enota v DOM HUB za izobraževanja, predavanja, srečanja in delavnice.",
+      "primaryUse": "izobraževanje in delavnice",
+      "otherUses": [
+        "predstavitve",
+        "predavanja",
+        "druženja",
+        "debate",
+        "krožki",
+        "terapije",
+        "konference",
+        "zaključki",
+        "dogodki"
+      ],
+      "capacityLabel": "TBD; delovna opomba: celoten učilniški sklop 129 m2 / 70 sedišč",
+      "equipment": [],
+      "connectedSpaces": [
+        "Učilnica 1"
+      ],
+      "importantInfo": "učilniški sklop je lahko ena večja ali dve manjši specializirani skupnosti",
+      "dimensionsNote": "TBD",
+      "areaLabel": "TBD; celoten učilniški sklop 129 m2",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD",
+      "accessibilityNote": "TBD",
+      "type": "classroom",
+      "availabilityStatus": "coming-soon",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "capacityLabel",
+        "dimensionsNote",
+        "areaLabel",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "rezidenca-1",
+      "slug": "rezidenca-1",
+      "status": "draft",
+      "sourceGroup": "DOM HUB",
+      "name": "Rezidenca 1",
+      "roomNumber": "TBD",
+      "floor": "mansarda",
+      "shortDescription": "Rezidenčni apartma za gostujoče ustvarjalce ali sodelujoče v programu.",
+      "primaryUse": "rezidenčno bivanje",
+      "otherUses": [
+        "kratkotrajne umetniške",
+        "kulturne ali projektne rezidence"
+      ],
+      "capacityLabel": "2 + 2 ležišči",
+      "equipment": [
+        "manjša kuhinja",
+        "dnevno bivalni prostor",
+        "kopalnica",
+        "mezzanin / spalnica; ostalo TBD"
+      ],
+      "connectedSpaces": [
+        "Rezidenca 2",
+        "Atelje"
+      ],
+      "importantInfo": "ena od dveh rezidenčnih enot",
+      "dimensionsNote": "TBD",
+      "areaLabel": "29 m2",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD; vključiti pravila bivanja, prijave, čiščenja in souporabe skupnih delov",
+      "accessibilityNote": "TBD",
+      "type": "residence",
+      "availabilityStatus": "coming-soon",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "equipment",
+        "dimensionsNote",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "rezidenca-2",
+      "slug": "rezidenca-2",
+      "status": "draft",
+      "sourceGroup": "DOM HUB",
+      "name": "Rezidenca 2",
+      "roomNumber": "TBD",
+      "floor": "mansarda",
+      "shortDescription": "Rezidenčni apartma za gostujoče ustvarjalce ali sodelujoče v programu.",
+      "primaryUse": "rezidenčno bivanje",
+      "otherUses": [
+        "kratkotrajne umetniške",
+        "kulturne ali projektne rezidence"
+      ],
+      "capacityLabel": "2 + 2 ležišči",
+      "equipment": [
+        "manjša kuhinja",
+        "dnevno bivalni prostor",
+        "kopalnica",
+        "mezzanin / spalnica; ostalo TBD"
+      ],
+      "connectedSpaces": [
+        "Rezidenca 1",
+        "Atelje"
+      ],
+      "importantInfo": "ena od dveh rezidenčnih enot",
+      "dimensionsNote": "TBD",
+      "areaLabel": "29 m2",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD; vključiti pravila bivanja, prijave, čiščenja in souporabe skupnih delov",
+      "accessibilityNote": "TBD",
+      "type": "residence",
+      "availabilityStatus": "coming-soon",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "equipment",
+        "dimensionsNote",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    },
+    {
+      "id": "atelje",
+      "slug": "atelje",
+      "status": "draft",
+      "sourceGroup": "DOM HUB",
+      "name": "Atelje",
+      "roomNumber": "TBD",
+      "floor": "mansarda",
+      "shortDescription": "Velik skupni ustvarjalni atelje, ki ga lahko uporablja več uporabnikov hkrati.",
+      "primaryUse": "ustvarjalno in produkcijsko delo",
+      "otherUses": [
+        "delo umetnikov",
+        "delavnice",
+        "razstave",
+        "dogodki",
+        "plesno/gledališke transformacije prostora",
+        "učenje"
+      ],
+      "capacityLabel": "42 oseb",
+      "equipment": [],
+      "connectedSpaces": [
+        "Rezidenca 1",
+        "Rezidenca 2"
+      ],
+      "importantInfo": "en velik skupni prostor, ne več ločenih ateljejev",
+      "dimensionsNote": "TBD",
+      "areaLabel": "126 m2",
+      "mediaNote": "TBD; dodati renderje",
+      "rulesNote": "TBD; vključiti pravila souporabe, hrambe materialov, čiščenja, varnosti in dogodkov",
+      "accessibilityNote": "TBD",
+      "type": "atelier",
+      "availabilityStatus": "coming-soon",
+      "rentalCTA": "Najemi prostor",
+      "sourceNotes": [
+        "Migrated from specs/space-inventory.md on 2026-08-12.",
+        "Unconfirmed values are intentionally preserved as TBD."
+      ],
+      "unconfirmedFields": [
+        "roomNumber",
+        "dimensionsNote",
+        "mediaNote",
+        "rulesNote",
+        "accessibilityNote",
+        "sourceNotes"
+      ]
+    }
+  ],
+  "sourceNotes": {
+    "knownVisualSource": [
+      "DOM-ustvarjalnih-skupnosti_PROSTORI_03-2025.pdf",
+      "duplicate files with (1) to (4) are identical copies"
+    ],
+    "knownExtractedProgrammeNotesUsed": [
+      "DOM HUB overview: areas and capacities for Atelje, Rezidenca 1, Rezidenca 2, Zbornica 1, Zbornica 2, Pisarna 1, Pisarna 2, Laboratorij, and the combined učilnica area",
+      "DOM programme table: partial areas for Velika dvorana, Mala dvorana, and vadbene dvorane"
+    ],
+    "unconfirmedValues": "Unconfirmed values are intentionally marked as TBD."
+  }
+}

@@ -1,0 +1,1408 @@
+1
+00:00:34,920 --> 00:00:48,860
+po neki uradni utvoritvi in potem bojo nekaj ene tri stvari potekale v tem domu, malo bojene čudne, vredno nekih začetniških hikapo,
+
+2
+00:00:48,900 --> 00:00:50,680
+pa potem enkrat marca,
+
+3
+00:00:51,060 --> 00:00:53,420
+kaj pa vem, se bo pa pol nekaj začel.
+
+4
+00:00:56,620 --> 00:00:57,160
+Kva bo to?
+
+5
+00:00:59,200 --> 00:01:00,480
+Kaj bo to krat? Kaj bo marca?
+
+6
+00:01:01,240 --> 00:01:03,680
+Na začetku se bojo precej ukvarjali
+
+7
+00:01:03,800 --> 00:01:05,680
+ta ekipca z onboardingom,
+
+8
+00:01:06,240 --> 00:01:09,140
+čim več ljudi, da pridejo sem
+
+9
+00:01:09,780 --> 00:01:11,420
+to uporabljati po eni strani.
+
+10
+00:01:12,840 --> 00:01:14,020
+Pol se bojo ukvarjali,
+
+11
+00:01:14,600 --> 00:01:16,820
+saj jaz mislim, da bi se mogli, pa upam, da se bojo.
+
+12
+00:01:17,340 --> 00:01:23,460
+s čim več privabljanjem nekih tist drugih, ki bi želeli tukaj najeti prostore
+
+13
+00:01:23,460 --> 00:01:28,700
+in v njih organizirati dogodke. Se načeloma to že zdaj imamo, že zdaj prodajamo
+
+14
+00:01:28,710 --> 00:01:37,300
+v resnici ta dom, ne vem, kaj vse bi bilo v 27 let. Pa mislim, da takrat bi že mogel
+
+15
+00:01:37,340 --> 00:01:46,360
+biti do neke mere približno uigran proces, da so neki dogodki večji,
+
+16
+00:01:46,410 --> 00:01:50,320
+da so neki dogodki manjši, da kavarna laufa, pa da recimo februarja
+
+17
+00:01:50,990 --> 00:01:56,880
+po moje že kar moraš imeti koledar do konca leta, kar polna,
+
+18
+00:01:57,140 --> 00:02:02,820
+polna in ostalo pa, da se ti sproti polni. In jaz bi rekla, da če bomo
+
+19
+00:02:02,840 --> 00:02:10,780
+mi uspeli potem pridobiti kak horizon, recimo, da bi potem, če bomo imeli srečo,
+
+20
+00:02:11,160 --> 00:02:16,500
+čicer po moje bo to še malo kasnejo nekdaj so rezultati, da potem recimo bomo mi
+
+21
+00:02:16,580 --> 00:02:21,420
+dobili nek projekt in bomo lahko najdeli neko dodatno osebo, ki bo mogoče lahko
+
+22
+00:02:21,500 --> 00:02:26,740
+začela se ukvarjati z neko drugo bolj specifično temo, ki ni neposredno vezana
+
+23
+00:02:27,240 --> 00:02:31,640
+na dogodke, kaj varno pa na društva oziroma uporabnike.
+
+24
+00:02:32,620 --> 00:02:44,460
+Ok, se pravi, to je zdaj nek midterm future. Ta projekt, ko ga mi delamo, ta platforma, bo pa kvalnik konc, kaj že smo rekli 27, ali kaj že?
+
+25
+00:02:45,480 --> 00:02:50,540
+Ja, mogoče še tukaj zadodati, da v tem obdobju,
+
+26
+00:02:50,720 --> 00:02:55,700
+27. leto, ko bomo aktivno, saj tako sva zloko planirala,
+
+27
+00:02:56,020 --> 00:03:03,180
+ker bo hiša že funkcionalna, lahko on-site razvijal,
+
+28
+00:03:03,940 --> 00:03:11,860
+pa on-boardal različne deležnike, pa ljudi na te storitve,
+
+29
+00:03:12,260 --> 00:03:33,800
+ki jih zdaj razvijamo v magnetu, ki so sicer ful popisane, ful razdelane na papirju, ampak v 2027 je leto, ko mi papir damo v realnost. Od inkubator za dogodke, dom šola, dom galerija, vse te neke storitve.
+
+30
+00:03:33,880 --> 00:03:52,140
+In jaz tudi si predstavljam, da ker bo to lahko v fizičnem prostoru, ki bo dejanski dom teh storitev, se bo ta stvar ful bolj eksponentno lahko odvila, ker zdaj pač se malo tujka ta koncept, pa malo se s kom pogovarja.
+
+31
+00:03:52,980 --> 00:04:01,040
+Tako da to je tikr ključen menik za 2,27. In tudi računam, da bo v bistvu magnet tist, ki bo porinil cel dom naprej.
+
+32
+00:04:03,380 --> 00:04:15,600
+Ok, in zdaj bom še kar naprej šel. Še eno raven globje, kako bo pol ta platforma to facilitela?
+
+33
+00:04:18,880 --> 00:04:46,240
+Jaz, ne vem, če... Lahko da imam jaz neko predstavo, pa mogoče zelo možno, da malo kaj drugačno, pa bom tako zelo iskreno in direktno rekla, vprašanje kako predstavo imajo vsi tisti, ki niso dovolj razmisleka namenali poglobljenega temu, pa ne kaj bi to lahko bilo, ampak kako se nam to splača pokoristiti za to, da podpre delovanje doma.
+
+34
+00:04:47,040 --> 00:05:05,740
+Tako da jaz si predvsem predstavljam, full abstrakto nadgovor, ajeno, jaz si predstavljam to platformo, da je po eni strani spletna stran, kjer pač imaš ti vse gor, kar rabeš, kar do neke mere bo že ta landing, ki se bo zdaj izdelil, ampak bo pač neka zelo poenostavljena verzija.
+
+35
+00:05:06,780 --> 00:05:31,300
+Po drugi strani pa, da omogoča izvajanje nekih teh storitev tudi v digitalnem prostoru v smislu, da olajša neke dejavnosti, ali to prijava, ali to izmenjava, ali to ne vem.
+
+36
+00:05:33,820 --> 00:06:00,320
+Jaz to ne znam si to predstavljati, če to podrobno, ampak zadnjičko si kasu, pol tist od roga bi rekla, da mogoče je tist a bit too much za nas, v smislu, da mogoče gradnja skupnosti, kjer vsi te uporabniki med sabo še nekaj binglajo, pa se izmenjujojo, pa se klasificirajo,
+
+37
+00:06:00,960 --> 00:06:05,020
+da je mogoče to preveč ambiciozno za to fazo projekta.
+
+38
+00:06:05,120 --> 00:06:12,440
+Da je mogoče to neki, kar se dom lahko privoši po petih letih,
+
+39
+00:06:12,440 --> 00:06:16,500
+ko funkcionira in že dela dober in že točno ve, kaj rabi.
+
+40
+00:06:17,200 --> 00:06:19,560
+Mi smo pa zdaj na točki, ko ne vemo, kaj rabimo.
+
+41
+00:06:20,360 --> 00:06:25,500
+Lahko sam predvidevamo na podlagi nekih sorodnih primerov druge.
+
+42
+00:06:27,719 --> 00:06:29,300
+Definitivno, jaz bi se strinjala.
+
+43
+00:06:30,220 --> 00:06:45,000
+Težko sploh, mislim, dokler še dom kot bajta ne operira, pa niti hub ne operira, no, kako boš ti zdaj si predstavljal nekje zelo kompleksne social featureje.
+
+44
+00:06:46,560 --> 00:06:51,220
+Lahk si jih, ne, ampak to je zelo abstraktno.
+
+45
+00:06:51,620 --> 00:07:06,060
+Ampak Dani, pravi še enkrat nisem te razumel, kaj si prej hotla povedati, ki si je rekla, da ti razumel što drugače kot Luka, kaj si hotla povedati?
+
+46
+00:07:06,760 --> 00:07:33,300
+Ne, mu hotela sem povedati to, da po mojemo ima vsak neko svojo predstavo, kaj naj bo ta platforma. Jaz imam po mojem bolj pragmatično kot Luka, zato, ki izhajam pač iz neke naše realnosti, kada ima pa mogoče sploh še ni toliko zares razmislu, on kraj nekega landinga pač v spletne strani za bilo, ki je raztvara.
+
+47
+00:07:33,400 --> 00:07:35,740
+jaz vsem vidim, da ta platforma
+
+48
+00:07:37,020 --> 00:07:37,560
+pa se ne vem
+
+49
+00:07:37,720 --> 00:07:39,500
+lahko, da je, ampak jaz ne vem tega
+
+50
+00:07:39,600 --> 00:07:41,400
+ker nisem zaenkrat iz pogovoru
+
+51
+00:07:41,580 --> 00:07:43,320
+tega razbrala, ampak še vsem se mi
+
+52
+00:07:43,520 --> 00:07:45,520
+zdi, da more, kar bi jaz
+
+53
+00:07:46,160 --> 00:07:47,680
+rekla, da more ta platforma
+
+54
+00:07:47,840 --> 00:07:49,800
+se pravi, če se mi zdi gradnja skupnosti
+
+55
+00:07:50,280 --> 00:07:51,220
+absolutno tu vam bi še
+
+56
+00:07:51,820 --> 00:07:53,360
+nerealistična, pa bi jo predstavila pet let
+
+57
+00:07:53,360 --> 00:07:55,460
+v prihodnost, se mi zdi,
+
+58
+00:07:55,460 --> 00:07:57,240
+da vsem more ta platforma
+
+59
+00:07:57,700 --> 00:07:58,060
+omogočiti
+
+60
+00:07:59,980 --> 00:08:01,340
+neko, ali pa olajšati
+
+61
+00:08:01,480 --> 00:08:03,320
+neke administrativne zadeve
+
+62
+00:08:03,340 --> 00:08:11,180
+Tako. Odpreti v bistvu te različne stvari, ki se bodo dogajale v digitalnem svetu.
+
+63
+00:08:11,650 --> 00:08:21,200
+In zdaj ali je to od tega, da bo treba oddajati neke prostore, ki pač po eni strani jih imaš predstavljene online,
+
+64
+00:08:22,440 --> 00:08:26,700
+ampak kaj je zdaj tako rakt naprej od predstavitve do najema,
+
+65
+00:08:27,180 --> 00:08:31,720
+ko je spet drugačen za neke zelo korpov porabnike ali pa za neke memberje.
+
+66
+00:08:32,900 --> 00:08:37,099
+Ker tudi mi, ne vem, leto pa pol nazaj, mi smo začeli graditi že neke modele
+
+67
+00:08:37,240 --> 00:08:41,440
+membershipa, pa smo pol se ustavili zaradi tega, kjer je bila neka panika
+
+68
+00:08:41,440 --> 00:08:46,120
+v smislu, da pač to je pred drago, vno tretje, neki v bistvu
+
+69
+00:08:46,780 --> 00:08:53,620
+absolutno unrelated strahovi in pač po moj se bo to zdaj začelo odvijati,
+
+70
+00:08:53,660 --> 00:08:57,960
+ko bo dom zaživel. Ampak recimo, jaz mislim, da vse ne vem,
+
+71
+00:08:58,200 --> 00:09:02,340
+kako je zdaj to prekompleksno, ampak vrse mi zdi, a veš,
+
+72
+00:09:02,780 --> 00:09:07,640
+v ozadju, kako zdaj ta upravljalec bo imel možnost klasificirati
+
+73
+00:09:09,340 --> 00:09:13,720
+kakaj stopnja membership ali pa kaj so zdaj neki dostopi,
+
+74
+00:09:13,760 --> 00:09:17,740
+če zelo prostorsko povem, ki jih posamezno društvo ali pa uporabnik ima.
+
+75
+00:09:18,280 --> 00:09:21,520
+In tudi recimo, če smo z Lukatom se pogovarjali pa z Nejcem
+
+76
+00:09:21,540 --> 00:09:25,260
+album tudi, da bi v bistvu mi, glede na to, da bo ekipa res okrnena,
+
+77
+00:09:25,260 --> 00:09:32,620
+da bi probali uspodbuditi ljudi, da se priključijo k izvajanju nekih
+
+78
+00:09:32,980 --> 00:09:37,000
+ali tehničnih stvari ali pomoč pri organizaciji dogodkov ali skrb
+
+79
+00:09:37,000 --> 00:09:41,480
+za neke sobe, ne vem, you name it, na način, da v bistvu ti zbiraš neke
+
+80
+00:09:43,680 --> 00:09:48,320
+našitke, tako kot pre tabor nekih, in potem dobiš na konc nek bedž
+
+81
+00:09:48,340 --> 00:10:00,160
+ali pa si pač neka višja stopnja nečesa, kar ti pojel recimo tudi omogoča, ne vem, se pravi tisti, ki bojo šli čez vse te neke mini tečaje za tehnika,
+
+82
+00:10:00,160 --> 00:10:08,360
+pa bojo potem lahko postali pomočniki glavnega tehnika, bojo recimo imeli, ne vem, dvakrat na leto za ston glavno dvorano,
+
+83
+00:10:08,400 --> 00:10:12,060
+Aš ne vem, kaj je zdaj ta bonbonček, kaj ga bojo dobili,
+
+84
+00:10:12,280 --> 00:10:16,300
+mogoče niti ni vsem, ne vem, v interesu imeli glavno v dvorano,
+
+85
+00:10:16,440 --> 00:10:20,540
+ali pa bojo imeli brezplačno uporabo nekih, ne vem, to je treba.
+
+86
+00:10:20,560 --> 00:10:23,360
+Aš to bi mogli, mi smo pošli do tega, da začnemo to oblikovati,
+
+87
+00:10:23,460 --> 00:10:26,920
+pa smo postavili. Mislim, mi zdi, da bi to bilo tudi fajn,
+
+88
+00:10:26,920 --> 00:10:30,440
+da se odraža v nekem dashboardu te platforme.
+
+89
+00:10:30,480 --> 00:10:33,860
+Se pravi, ne vem, to se sliši sicer ful kompleksno, ampak,
+
+90
+00:10:34,960 --> 00:10:48,020
+Zdaj, ker tudi jaz se res ne spoznam na dashboarde, pa nikoli nisem upravljala ničesar digitalno v back-endu ali pa nek tak sistem, zato zelo abstraktno govorim, ker nijam fucking pojma, res.
+
+91
+00:10:48,660 --> 00:11:07,480
+Ampak tako se mi zdi, da, da viš, ko boš imel ti ful veliko različnih ljudi, ne boš si mogel za vsaz ga se zapomeni, pa se do neke meri si boš, ampak vkrati pa, viš, kak bih ti spodbojal, da oni čim več se vključijo, pa čim več prispevajo zaradi tega, ker bojo tega nekaj imela.
+
+92
+00:11:07,540 --> 00:11:26,280
+In to bo v tem nekem uporabniškem profilu mogel biti vidno, ampak bolj vidno po samezniku pa upravljalcu, ne pa da bi oni zdaj med sabo se povezovali pa tam neke tege si dajali pa si pisali mes, kot ima rok, kot to se mi zdi, pa pač ne bo to upravljalo, ker nimamo tega kadra.
+
+93
+00:11:27,240 --> 00:11:39,420
+Ja. Se pravi, reševanje v resnic kadrovske stiske s tem. Se pravi, a ne, si to nekako menila, da zradi te, ker...
+
+94
+00:11:39,420 --> 00:11:39,560
+Ja.
+
+95
+00:11:41,700 --> 00:11:41,960
+Halo?
+
+96
+00:11:42,730 --> 00:11:43,200
+Ja, ja, ja.
+
+97
+00:11:43,440 --> 00:12:11,420
+A, ok. Zdaj, ker ne bo neštevilo ljudi moglo upravljati s tem domom, se pravi, to bi bil nekako namen. Palč polegradnja, communitya, se pravi, da bi bil da sami nekako, da bi bil ta membership povezan z nekimi badge-i.
+
+98
+00:12:11,460 --> 00:12:13,020
+pa to oziroma nekim sistemom
+
+99
+00:12:14,400 --> 00:12:14,840
+spodbude,
+
+100
+00:12:15,690 --> 00:12:17,380
+da bi ljudje se sami vključili in zr.
+
+101
+00:12:17,480 --> 00:12:18,360
+tega dobili neko
+
+102
+00:12:20,380 --> 00:12:21,260
+neko digital
+
+103
+00:12:22,900 --> 00:12:23,340
+spodbudo,
+
+104
+00:12:24,200 --> 00:12:24,760
+kar bi
+
+105
+00:12:25,860 --> 00:12:27,500
+pač zr. tega bi znižali
+
+106
+00:12:27,800 --> 00:12:28,620
+stroške oziroma
+
+107
+00:12:30,040 --> 00:12:31,780
+osebe za upravljanje. V tem smislu.
+
+108
+00:12:32,440 --> 00:12:33,580
+Mislim, po eni strani bi tudi
+
+109
+00:12:33,720 --> 00:12:35,140
+gradil community, ker smo se mi
+
+110
+00:12:35,220 --> 00:12:37,440
+zelo povarjali, da veš, prenos nekih
+
+111
+00:12:37,540 --> 00:12:39,480
+veščin, pa sej, a veš, jaz mislim, da
+
+112
+00:12:39,760 --> 00:12:45,000
+bo neizodibno, da bo ta stvar mogla biti v digitalnem in fizičnem prostoru.
+
+113
+00:12:45,000 --> 00:12:51,820
+Se pravi, ko boš ti recimo objavil na nekem dashboardu ali pa bojo dobili
+
+114
+00:12:51,820 --> 00:12:57,000
+v inbox tečaj za pomočnika tehnika, prijavite se do takrat pa takrat,
+
+115
+00:12:57,120 --> 00:13:01,940
+boš zih tudi mogla v glasno deskodata. Ne moči ti računati,
+
+116
+00:13:01,950 --> 00:13:09,460
+da vsi uporabljajo to digitalno platformo, zato ker se mi zelo,
+
+117
+00:13:09,480 --> 00:13:14,120
+zdi, da še vedno smo v tranziciji in da bo tudi tukaj veliko
+
+118
+00:13:14,280 --> 00:13:18,920
+uporabnikov, ki so starejši. Kar pa mene mogoče malo mežje
+
+119
+00:13:18,920 --> 00:13:25,260
+vcira, da se ful ukvarjamo s tem, da mi ne smemo vsega
+
+120
+00:13:25,420 --> 00:13:30,100
+prilagajati samo starejšim, če izhajamo iz tega, da je večina
+
+121
+00:13:30,260 --> 00:13:33,220
+društev starejših. Ja, to je trenutna realnost, ampak ni nujno,
+
+122
+00:13:33,220 --> 00:13:37,420
+da bo čez pet let še vedno iz realnosti. Mi moramo to vzeti v zakup,
+
+123
+00:13:37,700 --> 00:13:42,660
+Hkrati pa moramo iti v koraku s časom. In pač, če mi ne bomo digitalni,
+
+124
+00:13:42,800 --> 00:13:46,640
+če ta dom ne bo do neke mere digitaliziran, ne bomo šli v koraku s časom.
+
+125
+00:13:46,980 --> 00:13:50,460
+Ampak še vsej pa mora to biti trotl zihar, v smislu, da ne vem,
+
+126
+00:13:50,460 --> 00:13:55,320
+ko sem se jaz pogovarjala z to odroga, pač oni imajo over-designed
+
+127
+00:13:56,440 --> 00:14:01,280
+upravljanje vsega skupija. Pač to mora biti res simple, simple, simple.
+
+128
+00:14:01,840 --> 00:14:13,660
+Ja, drugače to starejši pa digitalna pismenost. To je sicer korelacija,
+
+129
+00:14:14,180 --> 00:14:22,120
+obstaja, ampak ta korelacija ni tako zelo ena. Se pravi, niso vsi starejši ljudje
+
+130
+00:14:22,580 --> 00:14:27,240
+nepismeni in niso vsi nepismeni starejši. To še zdaleč ni res.
+
+131
+00:14:28,480 --> 00:14:41,420
+Tako da jaz se ne bi preveč s tem ukvarjali. Jaz mislim, da to, da so stareši ljudje not, ne bo problem zaradi digitalne pismenosti, ampak bolj zaradi programa.
+
+132
+00:14:43,400 --> 00:14:54,200
+Tako da sicer to ni več naš problem v resnici, ampak jaz se ne bi preveč ukvarjal s tem, koliko so ljudje stari.
+
+133
+00:14:55,880 --> 00:15:04,240
+Definitivno bi se ukvarjali s tem, koliko so pismeni, ampak to ni nujno funkcija, a pa sploh ne samo funkcija starosti.
+
+134
+00:15:05,540 --> 00:15:07,420
+Ne se to samo, da se mislja skrbi.
+
+135
+00:15:09,639 --> 00:15:11,340
+Ja, mogoče malo preveč.
+
+136
+00:15:13,040 --> 00:15:23,060
+Veš kva, jaz tukaj polnoč ne sprašujem o vprašanj, ki smo jih tukaj napisali, ker svojih zmajo skupaj pisala jaz skrma odko flotam.
+
+137
+00:15:24,040 --> 00:15:27,720
+To je moj stran. Ampak bom probil zdaj imel kakšno vprašanje,
+
+138
+00:15:27,720 --> 00:15:32,300
+pol tako naprav zastaviti, kar je zapisano.
+
+139
+00:15:34,920 --> 00:15:37,740
+Kaj misliš, da bodo ključni izzivi pri platformi?
+
+140
+00:15:39,800 --> 00:15:41,720
+Sva to že odgovorila?
+
+141
+00:15:43,080 --> 00:15:44,340
+Noh stranem v en stavek.
+
+142
+00:15:44,640 --> 00:15:45,020
+Napovej.
+
+143
+00:15:46,860 --> 00:15:51,320
+Kako na podlagi predvidevanja smiselno zasnovati,
+
+144
+00:15:51,660 --> 00:15:53,140
+kaj ta platforma mora biti?
+
+145
+00:15:55,820 --> 00:16:01,300
+ker pa ne vem, moramo predvidevati, ker uporabniki bojo še lepo.
+
+146
+00:16:02,940 --> 00:16:10,200
+Se pravi, ključni vziv je, ker ne vemo, kdo so uporabniki.
+
+147
+00:16:10,820 --> 00:16:14,800
+Vemo, ampak ne vemo, kaj bojo potrebe, ko se bo stavba začela zares uporabljati.
+
+148
+00:16:15,340 --> 00:16:17,800
+Nekje stvari lahko predvidevamo, ampak vprašanje je nekaj dober.
+
+149
+00:16:22,800 --> 00:16:30,960
+To je ena stvar, bi rekla, drug ključni izjel je, kako narediti stvari čim bolj enostavne in pregledne. To je tako meni po moje obistvena stvar.
+
+150
+00:16:33,340 --> 00:16:39,880
+Zdaj, ker hočeš, da ljudje to uporabljajo, če so preveč zakomplicirane, jih ne bojo. Raj menj, kukor too much.
+
+151
+00:16:41,460 --> 00:16:47,360
+Tako, izčistiti, kaj mogoče ni to knujno, pa ne rabi biti, da bo res tiste stvari, ki so obistvene.
+
+152
+00:16:53,060 --> 00:16:57,260
+To je lahko nekaj enostavno.
+
+153
+00:16:58,220 --> 00:17:04,420
+V redu. Kaj lahko pripomoremo s svojim delom?
+
+154
+00:17:04,939 --> 00:17:05,860
+Torej na tem projektu.
+
+155
+00:17:08,639 --> 00:17:10,900
+Kako to dosežemo s svojem delom?
+
+156
+00:17:12,280 --> 00:17:12,800
+A jaz?
+
+157
+00:17:13,240 --> 00:17:26,280
+Ne, ne, ne, kako mi kot ekipa, ki delamo, načrtujemo to digitalno platformo, kako to dosežemo?
+
+158
+00:17:28,100 --> 00:17:34,360
+Jaz bi rekla, da zasnujete nek predlog, ki ga moramo potem še prediskutirati, pa še s kom tako, a veš.
+
+159
+00:17:35,060 --> 00:17:38,540
+Tako preveriti, kako preveriti neke stvari, to.
+
+160
+00:17:39,580 --> 00:17:39,860
+Ok.
+
+161
+00:17:39,920 --> 00:17:44,240
+Ok. O referenčnih...
+
+162
+00:17:44,240 --> 00:17:47,740
+O razrečnem strani, ko smo delali, je bil men največji pejn to,
+
+163
+00:17:47,790 --> 00:17:50,760
+da pač nismo imeli absolutno nobenega user testinga.
+
+164
+00:17:51,150 --> 00:17:55,340
+Mi smo to sami, midva z dušanom, sva sama izvajala nek kvazi user testing.
+
+165
+00:17:55,940 --> 00:17:56,460
+A za website?
+
+166
+00:17:57,380 --> 00:17:58,400
+Ja, za popizdit res.
+
+167
+00:17:58,940 --> 00:18:02,020
+Ampak sej za website te ponomačno ne delaš user testov,
+
+168
+00:18:02,200 --> 00:18:04,520
+še posebne za take predstavitve, ne?
+
+169
+00:18:05,320 --> 00:18:08,980
+Se vem, ampak, a veš, pa pa dobivamo zdaj le po neke basic stvari,
+
+170
+00:18:09,040 --> 00:18:13,019
+ko jih treba korigirati, pa potem neka ne je volja, pa ti pišajo sodelovci,
+
+171
+00:18:13,570 --> 00:18:18,300
+a veš tako, kaj bi v bistvu, če bi ti prej to sprobil, bi mogočeš življenje odkril.
+
+172
+00:18:19,060 --> 00:18:27,660
+Ampak se to ni website za mestno občino celje, to je nek page za nek fucking dom.
+
+173
+00:18:28,390 --> 00:18:32,360
+Ne, ne, ne, ampak tle je drug kontekst, tle ni to, da te je strah,
+
+174
+00:18:32,400 --> 00:18:39,720
+da nekaj, da bojo ljudje nezadovoljni, ampak bolj to, da zdaj res to rabimo.
+
+175
+00:18:42,740 --> 00:18:43,840
+Neko specifično stvar.
+
+176
+00:18:47,160 --> 00:18:50,420
+Še zmer govorijo o web sajtu za dom.
+
+177
+00:19:01,020 --> 00:19:08,460
+Referenčne platforme so že nekako menila ROG, ne? Si se pogovarjala, kaj pa še kaj drugega?
+
+178
+00:19:10,160 --> 00:19:18,140
+Ja, men je, mislim, jaz pač nisem šla gledati toliko teh nekih hubov, da bi rekla, da sem najdila neko spletno stranj,
+
+179
+00:19:18,270 --> 00:19:25,380
+ob kateri mi zdaj gra srce za točno to vsebino nisem, ne? Ampak nije pa mogoče to, ko sem že omenila,
+
+180
+00:19:26,320 --> 00:19:30,980
+Če zdaj grem gledati spletne strani za gledališča, mi je mladinsko všeč,
+
+181
+00:19:31,060 --> 00:19:33,180
+kjer je enostavno in pregledno, pa lih vse tako najdem.
+
+182
+00:19:33,840 --> 00:19:38,340
+Iz vidika nekega komunitya se mi zdi pa, da bi jaz tudi želela,
+
+183
+00:19:38,400 --> 00:19:46,540
+da ta spletna stran od doma ima možnost gor predstavitve nekih društev,
+
+184
+00:19:47,260 --> 00:19:51,460
+pa mogoče tudi nekih mentorjev ali pa nekih ponud,
+
+185
+00:19:51,520 --> 00:19:53,700
+pa kot neka tržnica za povezovanje.
+
+186
+00:19:54,700 --> 00:20:05,300
+Ampak ne tako, da vsak member zdaj ima svoj dashboard, ko je tam ne vem kva vsaj, ampak zato sem jaz omenila CZK, če tudi je mogoče glumazen.
+
+187
+00:20:05,820 --> 00:20:18,220
+A veš, kak še vsem dati recimo možnost predstavitve, ker recimo, če greš gledati, kako to delajo, ne vem, naš inkubator s svenske regije ali pa neki drugi inkubatori, se mi zdi, da je tako ful bolj okorno to vse skupine.
+
+188
+00:20:18,820 --> 00:20:21,280
+A veš, kako to narediti men okorno?
+
+189
+00:20:22,120 --> 00:20:23,080
+Kaj je CZK?
+
+190
+00:20:24,060 --> 00:20:31,720
+Centr za kreativnost ali pa recimo naš inkubator, ko tudi gor predstavlja svoje člane, ampak to je tako vedno okorno.
+
+191
+00:20:32,340 --> 00:20:40,040
+Ne vem, pa kar, jaz sem tako precej vizualen člov, v smislu, da funkcioniram dober na zemlevidih recimo,
+
+192
+00:20:40,180 --> 00:20:47,620
+ali pa ne vem, Google Maps, jaz Google Maps vedno z ortofoto iščem in se mi zdi, a veš kak zdaj neke stvari tako,
+
+193
+00:20:48,840 --> 00:20:53,180
+mislim, se tukaj ni njeno, da mora biti v prostoru, ampak ne vem, recimo, če si predstavljam to hišo,
+
+194
+00:20:53,320 --> 00:20:57,420
+se mi zdi, da bi mogel beti nek interaktivni map zemljevid po štukih,
+
+195
+00:20:57,560 --> 00:21:01,300
+kjer bi recimo neke stvari kliknul, pa bi se ti prikazali.
+
+196
+00:21:02,900 --> 00:21:06,900
+V tej sobi vadijo ta, pa ta, pa ta. Ni ne veno, da sam ta, pa ta, pa ta.
+
+197
+00:21:07,240 --> 00:21:13,920
+Ampak tako. Ne vem, da prostorsko si lahko ful neke stvari enostavneje
+
+198
+00:21:13,920 --> 00:21:16,660
+razložiš kot če beraš tekst ali pa če imaš seznam.
+
+199
+00:21:17,880 --> 00:21:20,880
+Ja, to je res. Tudi za me to zelo vela.
+
+200
+00:21:22,380 --> 00:21:24,420
+Verjamem pa, da so tudi drugačni ljudje.
+
+201
+00:21:25,260 --> 00:21:25,560
+Tako.
+
+202
+00:21:28,859 --> 00:21:31,120
+Ok, ampak ok, cool.
+
+203
+00:21:33,100 --> 00:21:33,220
+To.
+
+204
+00:21:36,700 --> 00:21:37,600
+Pravsi omenila,
+
+205
+00:21:39,500 --> 00:21:40,360
+nekako to
+
+206
+00:21:41,160 --> 00:21:42,620
+olajšanje, kaj je bila
+
+207
+00:21:42,820 --> 00:21:44,320
+smisel platforme, da olajša
+
+208
+00:21:44,390 --> 00:21:46,120
+admin, se pravi rezervacije.
+
+209
+00:21:48,420 --> 00:21:49,000
+So eden
+
+210
+00:21:49,220 --> 00:21:50,740
+izmed večjih delov.
+
+211
+00:21:52,719 --> 00:22:00,160
+A kaj si ti predstaviš le tega? Če se postaviš tam enkrat v prihodnost,
+
+212
+00:22:00,300 --> 00:22:08,500
+ki bo deloval dom in še magnet v njem, kar kol bo to habno recimo,
+
+213
+00:22:10,860 --> 00:22:15,120
+kaj je za ta rezervacija, ko to poteka? Kaj to lahko je?
+
+214
+00:22:16,580 --> 00:22:20,300
+Jaz mislim, da tukaj tako bi bilo fajn, da vi pogledate, kaj je nek ta sistem,
+
+215
+00:22:20,500 --> 00:22:24,780
+ko smo ga mi itak že kupili, ne vem, ali prima ali kaj je to, to naj dušan povej.
+
+216
+00:22:26,620 --> 00:22:32,480
+Ja, to je vezano bilo na to investicijo doma, kjer imamo te dostope do prostorov
+
+217
+00:22:33,560 --> 00:22:37,820
+in pač ta firma ima celo neko zaledje, ne vem, če je tudi rezervacije.
+
+218
+00:22:38,640 --> 00:22:40,140
+Čakaj pa ste to že kupili?
+
+219
+00:22:41,020 --> 00:22:44,300
+To, ker smo imamo pač takrat, je bilo to eno javno naročilo.
+
+220
+00:22:44,340 --> 00:22:47,100
+Jaz sem sicer v meni zhotla, da to še bolj raziščemo,
+
+221
+00:22:47,160 --> 00:22:48,860
+pa ločimo vločeno javno naročilo,
+
+222
+00:22:49,040 --> 00:22:50,820
+ampak pol ni bilo na benke, ki bi imel čas
+
+223
+00:22:50,920 --> 00:22:53,240
+to dovolj dobro raziskati in smo pač
+
+224
+00:22:53,280 --> 00:22:54,040
+opustili to idejo.
+
+225
+00:22:54,360 --> 00:22:56,340
+Ampak zakaj ste pa mogli to kupiti že takrat?
+
+226
+00:22:56,960 --> 00:22:59,160
+Sred tega, ker če ne, ne bi imeli
+
+227
+00:22:59,300 --> 00:22:59,580
+budžeta.
+
+228
+00:23:01,040 --> 00:23:02,540
+Mi drugi nimamo budžeta za to.
+
+229
+00:23:03,020 --> 00:23:03,400
+To je to.
+
+230
+00:23:04,040 --> 00:23:06,140
+Razumem, ampak se to bi lahko zdaj delali
+
+231
+00:23:06,280 --> 00:23:08,600
+naročilo ali pa čez pol leta?
+
+232
+00:23:08,800 --> 00:23:10,480
+Ne, sred tega, ker si že zdaj noter
+
+233
+00:23:10,540 --> 00:23:12,400
+ugrajuješ kable, ugrajuješ neke stvari,
+
+234
+00:23:12,860 --> 00:23:13,360
+moraš povezati.
+
+235
+00:23:14,280 --> 00:23:15,920
+Prav je povezan s fizično
+
+236
+00:23:16,740 --> 00:23:17,100
+inštalacijami.
+
+237
+00:23:18,380 --> 00:23:19,380
+S tem, da mi smo v bistvu,
+
+238
+00:23:19,600 --> 00:23:20,780
+mislim, da naročili, po moje,
+
+239
+00:23:20,890 --> 00:23:23,320
+ali nismo tako, ne vem, če ima ta prima
+
+240
+00:23:24,380 --> 00:23:25,100
+20 različnih
+
+241
+00:23:25,580 --> 00:23:26,720
+programskih fiturjev, smo mi,
+
+242
+00:23:27,150 --> 00:23:28,420
+ne vem, po moje, nabavili zdaj
+
+243
+00:23:30,140 --> 00:23:30,860
+dostope, večino
+
+244
+00:23:31,040 --> 00:23:32,580
+ostalega pa ne. Tako da to je treba,
+
+245
+00:23:32,780 --> 00:23:34,800
+po moje, v pogovor z dušanom še...
+
+246
+00:23:36,180 --> 00:23:36,740
+Ja, to pa jaz
+
+247
+00:23:36,840 --> 00:23:38,680
+pa reč slišam, ne? To mi je pa zanimiv.
+
+248
+00:23:39,440 --> 00:23:40,000
+Ali kaj?
+
+249
+00:23:40,840 --> 00:23:41,720
+Ali sam nisem?
+
+250
+00:23:42,840 --> 00:23:45,040
+Ne, sej, a si bil ti na pogovor z dušanom?
+
+251
+00:23:45,920 --> 00:23:46,920
+Z Dušanom.
+
+252
+00:23:47,700 --> 00:23:49,140
+To je bil samo, a sta že imela pogovol.
+
+253
+00:23:49,140 --> 00:23:50,380
+Tega ni bilo še Dušana.
+
+254
+00:23:52,280 --> 00:23:53,820
+Ali sta nekaj predstavila, sej, ne vem.
+
+255
+00:23:54,130 --> 00:23:59,380
+Ja, po moje bo to danes. Danes ob 11. imamo zdaj, če z ena ura.
+
+256
+00:24:00,440 --> 00:24:02,900
+Čakaj, Dušan je ta IT guy, v bistvu.
+
+257
+00:24:03,300 --> 00:24:03,960
+IT guy, ja.
+
+258
+00:24:06,120 --> 00:24:07,440
+Ja, ja, to sem predstavila.
+
+259
+00:24:07,480 --> 00:24:21,480
+On res točno ve, kaj vse smo mineli, učili, ker on uradno ni na projektu doma. Njega smo samo takrat potegnali, da sta skupaj z Jernejem raziskovala, kaj zdaj ta prima sistemi.
+
+260
+00:24:21,660 --> 00:24:36,380
+Mislim, da se reče prima, ker jaz pač se ne bomo to poglabljala, ker se ne spoznamo. Ampak hočem reči, da če bomo mi potem neko platformo gradili in bomo dali neko javno naročiloven, bo treba povezati z nekimi stvarmi, ki bo ta stavba jih že imela.
+
+261
+00:24:38,179 --> 00:24:41,000
+- Definitivno, mislim, to pa itak, mislim, da moramo okoli tega.
+
+262
+00:24:42,020 --> 00:24:46,640
+Koliko je bil pa to budžet za ta prima, recimo čist ko sam, da imam nek...
+
+263
+00:24:46,880 --> 00:24:51,040
+- To, grem gledati. - Je to 10 jurev, 100 jurev ali 5 jurev?
+
+264
+00:24:51,640 --> 00:24:53,920
+- Kaj, koli ti bom rekla, si mu zmisel. - A ja, ok.
+
+265
+00:24:54,900 --> 00:24:57,360
+- Ne vem, tu moram iti v elektro projekt gledati.
+
+266
+00:24:57,940 --> 00:25:04,320
+- Ampak se pravi, to ste se odločili na podlagi nekih fičarjev in potem je bilo to to.
+
+267
+00:25:04,920 --> 00:25:32,840
+Z elektroprojektantom smo to vnitr dali, da se on na to ne spozna, zato smo mi šli na obisk na Akademijo za glasbo, kjer imajo ta sistem in kjer prek tega sistema upravljajo tako dostope, kot tudi rezervacijo dvoranj, ker oni imajo v bistvu in odprejo vsak popovdne ali večer za naslednje tedno naprej in poslej usuje folka, tako da se jim včasih poruši sistem, ker je veliko več ljudi, ki bi radi vadili violine, klavirje in ne vem kaj kot je teh dvoranj,
+
+268
+00:25:32,880 --> 00:25:34,880
+tako da je, kdor prej pride, prej melje.
+
+269
+00:25:35,200 --> 00:25:37,300
+To je v Ljubljani ali
+
+270
+00:25:37,300 --> 00:25:38,500
+v akademiji?
+
+271
+00:25:39,060 --> 00:25:40,860
+Ta glasbo v kazini, ta nova akademija
+
+272
+00:25:40,880 --> 00:25:42,500
+na kongrescu. Aha, ok.
+
+273
+00:25:43,600 --> 00:25:44,560
+Jaz smo šli to gledati.
+
+274
+00:25:45,380 --> 00:25:45,780
+Zanimivo.
+
+275
+00:25:46,660 --> 00:25:49,280
+We did a lot of research.
+
+276
+00:25:50,280 --> 00:25:50,780
+Ok, cool.
+
+277
+00:25:51,000 --> 00:25:53,120
+No, si pa pa spregle te rezervacije,
+
+278
+00:25:53,220 --> 00:25:54,880
+pa pa tle imam vsa jaz,
+
+279
+00:25:54,920 --> 00:25:57,240
+pa samo imam v en domače nalogo.
+
+280
+00:25:57,340 --> 00:25:58,680
+No, bomo bil, kva bo danes tale
+
+281
+00:25:58,960 --> 00:25:59,760
+gospodič povedal.
+
+282
+00:26:00,600 --> 00:26:01,760
+Duša ne bi tako zdraven, ja.
+
+283
+00:26:03,300 --> 00:26:18,220
+Ja pa mogoče, če se vrnam še na rezervacije, jaz si predstavljam, da bi bilo fajn, da imamo mi možnost, ker neke dvorane bojo funkcionirale na način, da bo pač ali nek redn urnik ali da bo administrator mogel neke stvari potrditi.
+
+284
+00:26:19,740 --> 00:26:24,420
+Se pa sprašujem, a lahko, a veš kak bo pa mogoče z nekimi prostori,
+
+285
+00:26:24,450 --> 00:26:27,740
+ki bi pa v resnici lahko bili malo bolj fleksibilni, decimo gor,
+
+286
+00:26:28,300 --> 00:26:31,520
+kaj bar v mezaninu je še neka steklena dvorana.
+
+287
+00:26:31,550 --> 00:26:34,440
+A bo to zdaj skos odprto, a boš to lahko ti, ne vem,
+
+288
+00:26:34,450 --> 00:26:40,820
+a veš na licu mesta, ne vem, kupu, a veš kak zdaj narediti,
+
+289
+00:26:42,100 --> 00:26:47,020
+da je to še vsem lahko, ali pa da ti kot tak administrator lahko
+
+290
+00:26:47,040 --> 00:26:56,720
+da se neka stvar lahko da dostop, da se uporabnik sam zakupi in direkt uporablja.
+
+291
+00:26:58,160 --> 00:27:01,180
+Po nek last minute bolj ali pa nek bolj fleksibilne.
+
+292
+00:27:02,040 --> 00:27:07,260
+Recimo, ne vem, aj to smislimo, ampak če bi hotiti čim bolj zapovniti,
+
+293
+00:27:07,260 --> 00:27:10,520
+bi recimo lahko ponudil, evo dones je to pa to pa to na voljo.
+
+294
+00:27:11,180 --> 00:27:36,740
+Sam posled takoj se ti odpira vprašanje, kak zdaj nekdo, ki v hiši skrbi za sprejem, da ti prideš do tja, je takoj opozorjen. A to pomeni, da bo on imel nek sistem, ki ga bo obvestil kako, a bo on dobil na mail, a mu bo mobilizac, a je tako kak naresti prenos iz tega, da je nekdo naročil, do tega, da takoj obvesti tistega, ki mora za to poskrbeti.
+
+295
+00:27:36,940 --> 00:27:41,380
+Jaz vem, da se to da, Volt ima to, ampak mi ne bomo razvijali aplikacije.
+
+296
+00:27:41,680 --> 00:27:49,340
+Ja, valj za ne. Ampak se te sistemi, če so tako proprli, imajo kakšno fleksibilnost,
+
+297
+00:27:49,660 --> 00:27:51,860
+vprašanje, kakšen to je, moramo imajo pogledati.
+
+298
+00:27:54,100 --> 00:27:55,400
+Imajo take stvari že domišljene.
+
+299
+00:27:57,360 --> 00:28:03,880
+Dost, kad se povezujejo s drugimi sistemi, imaš integracije in potem lahko kakšen drug sistem implementiraš,
+
+300
+00:28:03,900 --> 00:28:08,640
+ki se poveže z access control sistemom, si predstavljam, da bi se to dal.
+
+301
+00:28:09,540 --> 00:28:14,200
+Jaz mislim, da more omogočiti vse skupaj to, da bojo ljudje,
+
+302
+00:28:14,200 --> 00:28:19,900
+ki bojo fizično to furali, bili odzivni. Zato, ker se mi zdi,
+
+303
+00:28:19,900 --> 00:28:23,140
+da na tej točki se zgodi največ nezadovoljstva uporabnikov.
+
+304
+00:28:29,340 --> 00:28:47,520
+Ja, to sem že slišel v bistvu. Da je, da kljub vsej avtomatizaciji, v resnice tega faktorja, recimo čist konkretno, temaš tehničnega upravitelja, ne moraš ti mim njega.
+
+305
+00:28:49,040 --> 00:29:02,300
+Vsa digitalizacija pripele samo do tem, da ustavljajo se pri ljede, ki potem ene stvari samo oni lahko zagotovijo.
+
+306
+00:29:03,780 --> 00:29:14,600
+Torej morajo ta platforma nekako to komunikacijo z ljudmi enablat, s temi, ki to izvajajo.
+
+307
+00:29:18,420 --> 00:29:21,380
+Ne vemo, pa kak, pa bomo že pogruntali kak.
+
+308
+00:29:25,700 --> 00:29:34,360
+Torej eno vprašanje, ne vem, če so se tega že dotakali, ampak zadnjičenkrat si omenila, da, mislim da bilo to še takrat, kad smo bili na sestanku,
+
+309
+00:29:36,640 --> 00:29:45,300
+da ne bi bile razlike v tem, kako si vi predstavljate to platformo.
+
+310
+00:29:45,420 --> 00:29:52,540
+V tem smislu, da si tako omenila, da si eni to predstavljala,
+
+311
+00:29:52,540 --> 00:29:56,120
+da je to čist simple, tako full preprosta stvar,
+
+312
+00:29:56,300 --> 00:30:01,240
+da ti pa imaš neko vizijo, ki je malo bolj kompleksna,
+
+313
+00:30:01,240 --> 00:30:03,080
+pa malo bolj nuanced.
+
+314
+00:30:03,980 --> 00:30:05,300
+A sem zazjel sprav zapomnil to?
+
+315
+00:30:06,240 --> 00:30:11,340
+Ja, nisem to že prejti odgovorila. Mislim, da to more biti več kot samo neka predstavitve na stranj.
+
+316
+00:30:11,340 --> 00:30:12,220
+O tem si govorila, ok.
+
+317
+00:30:13,740 --> 00:30:22,280
+Da more to vse namogočati upravljavcu, da enostavno menedžerira vse, kar se dogaja.
+
+318
+00:30:23,080 --> 00:30:27,220
+V smislu tako prostorov kot tudi nekih programov, ki se odvijajo.
+
+319
+00:30:27,720 --> 00:30:33,900
+V smislu bo dogodek, bojo prijave ali pa ne vem, inkubator za dogodke kot nek servis.
+
+320
+00:30:35,340 --> 00:30:45,400
+Kaj bi bilo fajn, da zdaj ta inkubator ima online, da lahko ljudje sodelujejo v delu ali pa zasnovi teh dogodkov?
+
+321
+00:30:45,710 --> 00:30:47,220
+To jaz mislim, da mora biti nekaj govor.
+
+322
+00:30:48,790 --> 00:31:04,600
+Jaz sem pa misel, da si se referirala v resnici na to, da je dom nisam za una društva,
+
+323
+00:31:05,060 --> 00:31:07,340
+za babice, ampak te je v bistvu nek razvoj
+
+324
+00:31:07,960 --> 00:31:08,360
+mesta.
+
+325
+00:31:10,240 --> 00:31:12,240
+To pa tudi, ampak to je pa spet,
+
+326
+00:31:12,240 --> 00:31:14,340
+se mi zdi, da je v bistvu trenutno
+
+327
+00:31:14,340 --> 00:31:16,240
+se mi zdi, da absolutno nismo redi, da bi
+
+328
+00:31:16,800 --> 00:31:18,440
+šli neko online skupnost delati.
+
+329
+00:31:18,960 --> 00:31:20,700
+Hkrati pa ne bi tega čist
+
+330
+00:31:23,260 --> 00:31:24,300
+izločil. V smislu, da
+
+331
+00:31:24,660 --> 00:31:26,240
+zdaj se mi zdi realno imeti gor
+
+332
+00:31:27,580 --> 00:31:28,380
+neke predstavitve,
+
+333
+00:31:28,940 --> 00:31:30,180
+kdo vse je tu zraven,
+
+334
+00:31:30,660 --> 00:31:31,920
+pa mogoče, če bomo začeli
+
+335
+00:31:32,000 --> 00:31:34,140
+spostavljati neko bazo mentorjev,
+
+336
+00:31:34,620 --> 00:31:41,740
+ali pa nekih inštituci, ki so partnerji, ali je tle lahko neka zelo easy
+
+337
+00:31:42,060 --> 00:31:49,480
+varianta za povezovanje in zmenkarije ali pa neka tržnica, kjer ti gor objaviš,
+
+338
+00:31:50,380 --> 00:31:57,140
+ne vem, imam ta pa ta projekt, iščem to pa to, pa ponudiš, tako kot boljha,
+
+339
+00:31:57,410 --> 00:32:02,219
+ali veš, svojo številko pokričte me, kot neka oglasna deska digitalna.
+
+340
+00:32:02,880 --> 00:32:07,620
+Se mi zdi, da je tako do te točke zdaj lahko gremo, da bi pa misprogramirali,
+
+341
+00:32:07,740 --> 00:32:11,840
+da se to vse med sabo izmenjuje, pa prikazuje in bo pa po moje too much.
+
+342
+00:32:13,580 --> 00:32:19,500
+Razbolj tako mogoče vse uspustiti, pa omogočiti povezovanje,
+
+343
+00:32:21,639 --> 00:32:27,000
+pa sodelovanje ljudi pa projektov. Zdaj kako to preneseš na inštitucije,
+
+344
+00:32:27,040 --> 00:32:28,840
+pa pol spet na next level, se mi zdi.
+
+345
+00:32:29,620 --> 00:32:45,740
+Ok, ampak v bistvu ful pomembno, ta ugotovitev v resnici. Se pravi, ta platforma ne potpira sam doma, ampak tudi hub. Kljub temu, da huba ni, we should think about, kako bi se to lahko zgodilo že v tej fazi.
+
+346
+00:32:46,360 --> 00:33:07,500
+Siguren, mi moramo v bistvu skos gledati na vse osebine oziroma tudi ta proces, ko vi pripravljate to projektno nalogo, nam naj bi pokazal, da hub ne more biti nekaj dom, hkrati pa ne more biti dom sam, ampak da pač je to skupino.
+
+347
+00:33:07,940 --> 00:33:11,040
+Ja, ja, ja, logično. Se tega, ja, ok, seveda.
+
+348
+00:33:13,380 --> 00:33:17,400
+Ok, jaz mislim, da ti bom mogl zespeče en link poslet, imava pa še...
+
+349
+00:33:18,780 --> 00:33:19,440
+40 do pol.
+
+350
+00:33:22,180 --> 00:33:24,160
+Ne, cajta ima vitek, sem še do pol, ne?
+
+351
+00:33:27,580 --> 00:33:30,900
+Daj, bom kar zdaj to naredil še enkrat. Stop recording.
+
+352
+00:33:31,880 --> 00:33:32,440
+Bravo, Daniel.
+

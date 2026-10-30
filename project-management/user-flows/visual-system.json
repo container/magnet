@@ -1,0 +1,31 @@
+{
+  "titleFont": "Roboto Condensed",
+  "bodyFont": "Noto Sans",
+  "colors": {
+    "blue": "#2142CB",
+    "purple": "#6730DF",
+    "phase": "#C7DBFF",
+    "touchpoint": "#A0E5F7",
+    "system": "#8BB6F5",
+    "paper": "#FFFFFF",
+    "text": "#202020",
+    "muted": "#626775",
+    "line": "#CFD4DF",
+    "light": "#F6F7FA"
+  },
+  "referenceStatus": "Blue and both fonts confirmed by user. Supporting colors interpreted from supplied screenshots.",
+  "layout": {
+    "width": 2320,
+    "height": 980,
+    "margin": 42,
+    "laneOrientation": "rows",
+    "flowDirection": "left-to-right",
+    "cardWidth": 270
+  },
+  "type": {
+    "pageTitle": 48,
+    "cardTitle": 29,
+    "body": 21,
+    "caption": 18
+  }
+}

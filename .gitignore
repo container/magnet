@@ -1,0 +1,7 @@
+# Installed dependencies are recreated from lockfiles.
+**/node_modules/
+.DS_Store
+
+# Raw interview videos exceed GitHub's standard 100 MB per-file limit.
+research/interviews/raw/monika-tominsek/video1855123067.mp4
+research/interviews/raw/monika-tominsek/video1912170474.mp4
